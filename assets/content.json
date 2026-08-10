@@ -1,0 +1,8920 @@
+{
+  "version": "0.4.0",
+  "creator": {
+    "name": "Mia Zhao",
+    "website": "https://miazhao.com/"
+  },
+  "featuredCharacters": [
+    {
+      "char": "电",
+      "pinyin": "diàn",
+      "meanings": [
+        "electricity",
+        "electric"
+      ],
+      "video": "https://youtube.com/shorts/YIyI6I2DcO0",
+      "description": "Electricity and the everyday devices and media powered by it.",
+      "videoNumber": 1
+    },
+    {
+      "char": "手",
+      "pinyin": "shǒu",
+      "meanings": [
+        "hand",
+        "manual"
+      ],
+      "video": "https://youtube.com/shorts/3n1qOhxXFXg",
+      "description": "The hand, and by extension things done or used by hand.",
+      "videoNumber": 2
+    },
+    {
+      "char": "心",
+      "pinyin": "xīn",
+      "meanings": [
+        "heart",
+        "mind",
+        "feeling"
+      ],
+      "video": "https://youtube.com/shorts/a4Ee_FaYj7o",
+      "description": "Heart in both the physical and emotional sense.",
+      "videoNumber": 3
+    },
+    {
+      "char": "口",
+      "pinyin": "kǒu",
+      "meanings": [
+        "mouth",
+        "opening",
+        "entrance"
+      ],
+      "video": "https://youtube.com/shorts/HcGlYdRs198",
+      "description": "A mouth or opening; often appears in words about speech and entrances.",
+      "videoNumber": 4
+    },
+    {
+      "char": "水",
+      "pinyin": "shuǐ",
+      "meanings": [
+        "water"
+      ],
+      "video": "https://youtube.com/shorts/dSvsAAbbz-0",
+      "description": "Water and things directly related to water.",
+      "videoNumber": 5
+    },
+    {
+      "char": "火",
+      "pinyin": "huǒ",
+      "meanings": [
+        "fire",
+        "heat"
+      ],
+      "video": "https://youtube.com/shorts/ohNjP-i_HW0",
+      "description": "Fire, heat, and several established compounds built with 火.",
+      "videoNumber": 6
+    },
+    {
+      "char": "上",
+      "pinyin": "shàng",
+      "meanings": [
+        "up",
+        "on",
+        "go onto"
+      ],
+      "video": "https://youtube.com/shorts/YigVrQvL8Tg",
+      "description": "Up, above, on, or moving into an activity or place.",
+      "videoNumber": 7
+    },
+    {
+      "char": "书",
+      "pinyin": "shū",
+      "meanings": [
+        "book",
+        "written text"
+      ],
+      "video": "https://youtube.com/shorts/nxOjhyH4LEY",
+      "description": "Books, reading, and written materials.",
+      "videoNumber": 8
+    },
+    {
+      "char": "牙",
+      "pinyin": "yá",
+      "meanings": [
+        "tooth",
+        "teeth"
+      ],
+      "video": "https://youtube.com/shorts/layp2GmSq-U",
+      "description": "Teeth and dental vocabulary.",
+      "videoNumber": 9
+    },
+    {
+      "char": "雨",
+      "pinyin": "yǔ",
+      "meanings": [
+        "rain"
+      ],
+      "video": "https://youtube.com/shorts/vSDqO0WasP4",
+      "description": "Rain and weather related to rain.",
+      "videoNumber": 10
+    },
+    {
+      "char": "花",
+      "pinyin": "huā",
+      "meanings": [
+        "flower",
+        "spend"
+      ],
+      "video": "https://youtube.com/shorts/RGe8eCHciTk",
+      "description": "Usually flower; in some common words 花 is also the verb “to spend”.",
+      "videoNumber": 11
+    },
+    {
+      "char": "果",
+      "pinyin": "guǒ",
+      "meanings": [
+        "fruit",
+        "result"
+      ],
+      "video": "https://youtube.com/shorts/cucUi2Q8y2o",
+      "description": "Fruit, and in another common sense, result or outcome.",
+      "videoNumber": 12
+    },
+    {
+      "char": "海",
+      "pinyin": "hǎi",
+      "meanings": [
+        "sea",
+        "ocean"
+      ],
+      "video": "https://youtube.com/shorts/ox3BUQKHyJk",
+      "description": "The sea and places or things associated with it.",
+      "videoNumber": 13
+    },
+    {
+      "char": "车",
+      "pinyin": "chē",
+      "meanings": [
+        "vehicle",
+        "car"
+      ],
+      "video": "https://youtube.com/shorts/QPmOm26SUKQ",
+      "description": "Vehicles, riding, driving, and transport-related vocabulary.",
+      "videoNumber": 14
+    },
+    {
+      "char": "钱",
+      "pinyin": "qián",
+      "meanings": [
+        "money"
+      ],
+      "video": "https://youtube.com/shorts/BHr-xo-9qgQ",
+      "description": "Money and common actions involving money.",
+      "videoNumber": 15
+    },
+    {
+      "char": "房",
+      "pinyin": "fáng",
+      "meanings": [
+        "room",
+        "house"
+      ],
+      "video": "https://youtube.com/shorts/PBNwFRtzFaU",
+      "description": "Rooms, houses, renting, and home vocabulary.",
+      "videoNumber": 16
+    },
+    {
+      "char": "衣",
+      "pinyin": "yī",
+      "meanings": [
+        "clothes",
+        "clothing"
+      ],
+      "video": "https://youtube.com/shorts/Ao1aECm9TlY",
+      "description": "Clothes and clothing-related vocabulary.",
+      "videoNumber": 17
+    },
+    {
+      "char": "饭",
+      "pinyin": "fàn",
+      "meanings": [
+        "meal",
+        "cooked rice"
+      ],
+      "video": "https://youtube.com/shorts/QDxG61-Wm3Y",
+      "description": "Meals, cooked rice, and everyday eating vocabulary.",
+      "videoNumber": 18
+    },
+    {
+      "char": "菜",
+      "pinyin": "cài",
+      "meanings": [
+        "dish",
+        "vegetable"
+      ],
+      "video": "https://youtube.com/shorts/vGDNje-aiC8",
+      "description": "Dishes, vegetables, ordering, and food-shopping vocabulary.",
+      "videoNumber": 19
+    },
+    {
+      "char": "学",
+      "pinyin": "xué",
+      "meanings": [
+        "study",
+        "learn"
+      ],
+      "video": "https://youtube.com/shorts/RR40L2PMos4",
+      "description": "Learning, school, students, and levels of education.",
+      "videoNumber": 20
+    },
+    {
+      "char": "人",
+      "pinyin": "rén",
+      "meanings": [
+        "person",
+        "people"
+      ],
+      "video": "https://youtube.com/shorts/kUjlCVOFvEY",
+      "description": "People, roles, family members, and nationalities.",
+      "videoNumber": 21
+    },
+    {
+      "char": "天",
+      "pinyin": "tiān",
+      "meanings": [
+        "day",
+        "sky"
+      ],
+      "video": "https://youtube.com/shorts/20Vm_i1yhZA",
+      "description": "Days, weather, and the seasons.",
+      "videoNumber": 22
+    },
+    {
+      "char": "下",
+      "pinyin": "xià",
+      "meanings": [
+        "down",
+        "below",
+        "next"
+      ],
+      "video": "https://youtube.com/shorts/_ZyFxp7M3wI",
+      "description": "Down/below, getting off, finishing activities, and weather verbs.",
+      "videoNumber": 23
+    },
+    {
+      "char": "家",
+      "pinyin": "jiā",
+      "meanings": [
+        "home",
+        "family"
+      ],
+      "video": "https://youtube.com/shorts/VqLwDqqrSPA",
+      "description": "Home, family, and everyday expressions built around 家.",
+      "videoNumber": 24
+    },
+    {
+      "char": "门",
+      "pinyin": "mén",
+      "meanings": [
+        "door",
+        "gate"
+      ],
+      "video": "https://youtube.com/shorts/RC15PoK4aPo",
+      "description": "Doors, entrances, and common door-related expressions.",
+      "videoNumber": 25
+    },
+    {
+      "char": "路",
+      "pinyin": "lù",
+      "meanings": [
+        "road",
+        "way"
+      ],
+      "video": "https://youtube.com/shorts/hUVoC0aH-0A",
+      "description": "Roads, routes, walking, directions, and people along the way.",
+      "videoNumber": 26
+    },
+    {
+      "char": "店",
+      "pinyin": "diàn",
+      "meanings": [
+        "shop",
+        "store"
+      ],
+      "video": "https://youtube.com/shorts/tXoLk7kEqOk",
+      "description": "Shops and common types of stores or businesses.",
+      "videoNumber": 27
+    },
+    {
+      "char": "机",
+      "pinyin": "jī",
+      "meanings": [
+        "machine",
+        "device",
+        "aircraft"
+      ],
+      "video": "https://youtube.com/shorts/qIWyuyBVuvc",
+      "description": "Machines, devices, aircraft, and related vocabulary.",
+      "videoNumber": 28
+    },
+    {
+      "char": "月",
+      "pinyin": "yuè",
+      "meanings": [
+        "moon",
+        "month"
+      ],
+      "video": "https://youtube.com/shorts/PS7CuUCmLrw",
+      "description": "The moon and the calendar month, including time, light, food, and salary expressions.",
+      "videoNumber": 29
+    },
+    {
+      "char": "日",
+      "pinyin": "rì",
+      "meanings": [
+        "sun",
+        "day"
+      ],
+      "video": "https://youtube.com/shorts/uvvUeDcSkNU",
+      "description": "The sun and the day, including dates, schedules, holidays, and written records.",
+      "videoNumber": 30
+    },
+    {
+      "char": "前",
+      "pinyin": "qián",
+      "meanings": [
+        "front",
+        "before",
+        "former"
+      ],
+      "video": "https://youtube.com/shorts/HZYxFq9XA7A",
+      "description": "Front, before, and former — used for direction, time, positions, and previous relationships.",
+      "videoNumber": 31
+    },
+    {
+      "char": "后",
+      "pinyin": "hòu",
+      "meanings": [
+        "back",
+        "after",
+        "later"
+      ],
+      "video": "https://youtube.com/shorts/pp_mUyIRw2E",
+      "description": "Back and after — used for position, direction, time, order, and results.",
+      "videoNumber": 32
+    }
+  ],
+  "characterMeta": {
+    "手": {
+      "pinyin": "shǒu",
+      "meanings": [
+        "hand",
+        "manual"
+      ]
+    },
+    "心": {
+      "pinyin": "xīn",
+      "meanings": [
+        "heart",
+        "mind",
+        "feeling"
+      ]
+    },
+    "口": {
+      "pinyin": "kǒu",
+      "meanings": [
+        "mouth",
+        "opening",
+        "entrance"
+      ]
+    },
+    "水": {
+      "pinyin": "shuǐ",
+      "meanings": [
+        "water"
+      ]
+    },
+    "火": {
+      "pinyin": "huǒ",
+      "meanings": [
+        "fire",
+        "heat"
+      ]
+    },
+    "上": {
+      "pinyin": "shàng",
+      "meanings": [
+        "up",
+        "on",
+        "go onto"
+      ]
+    },
+    "书": {
+      "pinyin": "shū",
+      "meanings": [
+        "book",
+        "written text"
+      ]
+    },
+    "牙": {
+      "pinyin": "yá",
+      "meanings": [
+        "tooth",
+        "teeth"
+      ]
+    },
+    "雨": {
+      "pinyin": "yǔ",
+      "meanings": [
+        "rain"
+      ]
+    },
+    "花": {
+      "pinyin": "huā",
+      "meanings": [
+        "flower",
+        "spend"
+      ]
+    },
+    "果": {
+      "pinyin": "guǒ",
+      "meanings": [
+        "fruit",
+        "result"
+      ]
+    },
+    "海": {
+      "pinyin": "hǎi",
+      "meanings": [
+        "sea",
+        "ocean"
+      ]
+    },
+    "机": {
+      "pinyin": "jī",
+      "meanings": [
+        "machine",
+        "device",
+        "aircraft"
+      ]
+    },
+    "表": {
+      "pinyin": "biǎo",
+      "meanings": [
+        "watch",
+        "surface",
+        "form"
+      ]
+    },
+    "套": {
+      "pinyin": "tào",
+      "meanings": [
+        "cover",
+        "set"
+      ]
+    },
+    "指": {
+      "pinyin": "zhǐ",
+      "meanings": [
+        "finger",
+        "point"
+      ]
+    },
+    "工": {
+      "pinyin": "gōng",
+      "meanings": [
+        "work",
+        "craft"
+      ]
+    },
+    "术": {
+      "pinyin": "shù",
+      "meanings": [
+        "technique",
+        "art"
+      ]
+    },
+    "洗": {
+      "pinyin": "xǐ",
+      "meanings": [
+        "wash"
+      ]
+    },
+    "帮": {
+      "pinyin": "bāng",
+      "meanings": [
+        "help"
+      ]
+    },
+    "小": {
+      "pinyin": "xiǎo",
+      "meanings": [
+        "small",
+        "young"
+      ]
+    },
+    "开": {
+      "pinyin": "kāi",
+      "meanings": [
+        "open",
+        "start"
+      ]
+    },
+    "情": {
+      "pinyin": "qíng",
+      "meanings": [
+        "feeling",
+        "situation"
+      ]
+    },
+    "里": {
+      "pinyin": "lǐ",
+      "meanings": [
+        "inside"
+      ]
+    },
+    "脏": {
+      "pinyin": "zàng",
+      "meanings": [
+        "internal organ"
+      ]
+    },
+    "关": {
+      "pinyin": "guān",
+      "meanings": [
+        "close",
+        "concern"
+      ]
+    },
+    "放": {
+      "pinyin": "fàng",
+      "meanings": [
+        "put",
+        "release"
+      ]
+    },
+    "中": {
+      "pinyin": "zhōng",
+      "meanings": [
+        "middle",
+        "center"
+      ]
+    },
+    "门": {
+      "pinyin": "mén",
+      "meanings": [
+        "door",
+        "gate"
+      ]
+    },
+    "路": {
+      "pinyin": "lù",
+      "meanings": [
+        "road",
+        "way"
+      ]
+    },
+    "人": {
+      "pinyin": "rén",
+      "meanings": [
+        "person",
+        "people"
+      ]
+    },
+    "味": {
+      "pinyin": "wèi",
+      "meanings": [
+        "taste",
+        "flavor"
+      ]
+    },
+    "进": {
+      "pinyin": "jìn",
+      "meanings": [
+        "enter",
+        "advance"
+      ]
+    },
+    "出": {
+      "pinyin": "chū",
+      "meanings": [
+        "go out",
+        "exit"
+      ]
+    },
+    "杯": {
+      "pinyin": "bēi",
+      "meanings": [
+        "cup"
+      ]
+    },
+    "平": {
+      "pinyin": "píng",
+      "meanings": [
+        "level",
+        "flat"
+      ]
+    },
+    "喝": {
+      "pinyin": "hē",
+      "meanings": [
+        "drink"
+      ]
+    },
+    "车": {
+      "pinyin": "chē",
+      "meanings": [
+        "vehicle",
+        "car"
+      ]
+    },
+    "锅": {
+      "pinyin": "guō",
+      "meanings": [
+        "pot"
+      ]
+    },
+    "灾": {
+      "pinyin": "zāi",
+      "meanings": [
+        "disaster"
+      ]
+    },
+    "山": {
+      "pinyin": "shān",
+      "meanings": [
+        "mountain"
+      ]
+    },
+    "腿": {
+      "pinyin": "tuǐ",
+      "meanings": [
+        "leg"
+      ]
+    },
+    "生": {
+      "pinyin": "shēng",
+      "meanings": [
+        "produce",
+        "come into being"
+      ]
+    },
+    "着": {
+      "pinyin": "zháo",
+      "meanings": [
+        "catch",
+        "be affected"
+      ]
+    },
+    "大": {
+      "pinyin": "dà",
+      "meanings": [
+        "big"
+      ]
+    },
+    "面": {
+      "pinyin": "miàn",
+      "meanings": [
+        "face",
+        "side",
+        "surface"
+      ]
+    },
+    "班": {
+      "pinyin": "bān",
+      "meanings": [
+        "shift",
+        "class"
+      ]
+    },
+    "课": {
+      "pinyin": "kè",
+      "meanings": [
+        "class",
+        "lesson"
+      ]
+    },
+    "学": {
+      "pinyin": "xué",
+      "meanings": [
+        "study",
+        "learn"
+      ]
+    },
+    "午": {
+      "pinyin": "wǔ",
+      "meanings": [
+        "noon"
+      ]
+    },
+    "网": {
+      "pinyin": "wǎng",
+      "meanings": [
+        "net",
+        "internet"
+      ]
+    },
+    "楼": {
+      "pinyin": "lóu",
+      "meanings": [
+        "building",
+        "floor"
+      ]
+    },
+    "店": {
+      "pinyin": "diàn",
+      "meanings": [
+        "shop",
+        "store"
+      ]
+    },
+    "包": {
+      "pinyin": "bāo",
+      "meanings": [
+        "bag",
+        "wrap"
+      ]
+    },
+    "本": {
+      "pinyin": "běn",
+      "meanings": [
+        "book",
+        "root",
+        "measure word"
+      ]
+    },
+    "房": {
+      "pinyin": "fáng",
+      "meanings": [
+        "room",
+        "house"
+      ]
+    },
+    "看": {
+      "pinyin": "kàn",
+      "meanings": [
+        "look",
+        "read"
+      ]
+    },
+    "读": {
+      "pinyin": "dú",
+      "meanings": [
+        "read",
+        "study"
+      ]
+    },
+    "教": {
+      "pinyin": "jiào",
+      "meanings": [
+        "teach"
+      ]
+    },
+    "科": {
+      "pinyin": "kē",
+      "meanings": [
+        "subject",
+        "branch"
+      ]
+    },
+    "图": {
+      "pinyin": "tú",
+      "meanings": [
+        "picture",
+        "diagram"
+      ]
+    },
+    "馆": {
+      "pinyin": "guǎn",
+      "meanings": [
+        "hall",
+        "public building"
+      ]
+    },
+    "齿": {
+      "pinyin": "chǐ",
+      "meanings": [
+        "tooth"
+      ]
+    },
+    "刷": {
+      "pinyin": "shuā",
+      "meanings": [
+        "brush"
+      ]
+    },
+    "膏": {
+      "pinyin": "gāo",
+      "meanings": [
+        "paste",
+        "cream"
+      ]
+    },
+    "医": {
+      "pinyin": "yī",
+      "meanings": [
+        "medicine",
+        "doctor"
+      ]
+    },
+    "痛": {
+      "pinyin": "tòng",
+      "meanings": [
+        "pain",
+        "ache"
+      ]
+    },
+    "假": {
+      "pinyin": "jiǎ",
+      "meanings": [
+        "false",
+        "artificial"
+      ]
+    },
+    "下": {
+      "pinyin": "xià",
+      "meanings": [
+        "down",
+        "below",
+        "next"
+      ]
+    },
+    "伞": {
+      "pinyin": "sǎn",
+      "meanings": [
+        "umbrella"
+      ]
+    },
+    "衣": {
+      "pinyin": "yī",
+      "meanings": [
+        "clothes",
+        "clothing"
+      ]
+    },
+    "暴": {
+      "pinyin": "bào",
+      "meanings": [
+        "violent",
+        "sudden"
+      ]
+    },
+    "雷": {
+      "pinyin": "léi",
+      "meanings": [
+        "thunder"
+      ]
+    },
+    "园": {
+      "pinyin": "yuán",
+      "meanings": [
+        "garden",
+        "park"
+      ]
+    },
+    "钱": {
+      "pinyin": "qián",
+      "meanings": [
+        "money"
+      ]
+    },
+    "草": {
+      "pinyin": "cǎo",
+      "meanings": [
+        "grass",
+        "plants"
+      ]
+    },
+    "瓶": {
+      "pinyin": "píng",
+      "meanings": [
+        "bottle",
+        "vase"
+      ]
+    },
+    "鲜": {
+      "pinyin": "xiān",
+      "meanings": [
+        "fresh"
+      ]
+    },
+    "苹": {
+      "pinyin": "píng",
+      "meanings": [
+        "apple (in 苹果)"
+      ]
+    },
+    "如": {
+      "pinyin": "rú",
+      "meanings": [
+        "like",
+        "as",
+        "if"
+      ]
+    },
+    "结": {
+      "pinyin": "jié",
+      "meanings": [
+        "form",
+        "conclude"
+      ]
+    },
+    "后": {
+      "pinyin": "hòu",
+      "meanings": [
+        "back",
+        "after",
+        "later"
+      ]
+    },
+    "汁": {
+      "pinyin": "zhī",
+      "meanings": [
+        "juice"
+      ]
+    },
+    "然": {
+      "pinyin": "rán",
+      "meanings": [
+        "so",
+        "thus"
+      ]
+    },
+    "边": {
+      "pinyin": "biān",
+      "meanings": [
+        "side",
+        "edge"
+      ]
+    },
+    "外": {
+      "pinyin": "wài",
+      "meanings": [
+        "outside",
+        "foreign"
+      ]
+    },
+    "洋": {
+      "pinyin": "yáng",
+      "meanings": [
+        "ocean"
+      ]
+    },
+    "滩": {
+      "pinyin": "tān",
+      "meanings": [
+        "beach",
+        "shoal"
+      ]
+    },
+    "飞": {
+      "pinyin": "fēi",
+      "meanings": [
+        "fly"
+      ]
+    },
+    "场": {
+      "pinyin": "chǎng",
+      "meanings": [
+        "place",
+        "field"
+      ]
+    },
+    "器": {
+      "pinyin": "qì",
+      "meanings": [
+        "device",
+        "instrument"
+      ]
+    },
+    "会": {
+      "pinyin": "huì",
+      "meanings": [
+        "meeting",
+        "can",
+        "opportunity"
+      ]
+    },
+    "商": {
+      "pinyin": "shāng",
+      "meanings": [
+        "commerce",
+        "business"
+      ]
+    },
+    "饭": {
+      "pinyin": "fàn",
+      "meanings": [
+        "meal",
+        "cooked rice"
+      ]
+    },
+    "酒": {
+      "pinyin": "jiǔ",
+      "meanings": [
+        "alcohol",
+        "wine"
+      ]
+    },
+    "马": {
+      "pinyin": "mǎ",
+      "meanings": [
+        "horse"
+      ]
+    },
+    "走": {
+      "pinyin": "zǒu",
+      "meanings": [
+        "walk",
+        "go"
+      ]
+    },
+    "公": {
+      "pinyin": "gōng",
+      "meanings": [
+        "public"
+      ]
+    },
+    "前": {
+      "pinyin": "qián",
+      "meanings": [
+        "front",
+        "before",
+        "former"
+      ]
+    },
+    "对": {
+      "pinyin": "duì",
+      "meanings": [
+        "opposite",
+        "toward",
+        "correct"
+      ]
+    },
+    "旁": {
+      "pinyin": "páng",
+      "meanings": [
+        "side",
+        "beside"
+      ]
+    },
+    "这": {
+      "pinyin": "zhè",
+      "meanings": [
+        "this"
+      ]
+    },
+    "那": {
+      "pinyin": "nà",
+      "meanings": [
+        "that"
+      ]
+    },
+    "一": {
+      "pinyin": "yī",
+      "meanings": [
+        "one"
+      ]
+    },
+    "汽": {
+      "pinyin": "qì",
+      "meanings": [
+        "steam",
+        "gas"
+      ]
+    },
+    "最": {
+      "pinyin": "zuì",
+      "meanings": [
+        "most"
+      ]
+    },
+    "以": {
+      "pinyin": "yǐ",
+      "meanings": [
+        "by",
+        "with",
+        "before/after in compounds"
+      ]
+    },
+    "天": {
+      "pinyin": "tiān",
+      "meanings": [
+        "day",
+        "sky"
+      ]
+    },
+    "没": {
+      "pinyin": "méi",
+      "meanings": [
+        "not have"
+      ]
+    },
+    "赚": {
+      "pinyin": "zhuàn",
+      "meanings": [
+        "earn"
+      ]
+    },
+    "校": {
+      "pinyin": "xiào",
+      "meanings": [
+        "school"
+      ]
+    },
+    "穿": {
+      "pinyin": "chuān",
+      "meanings": [
+        "wear",
+        "put on"
+      ]
+    },
+    "脚": {
+      "pinyin": "jiǎo",
+      "meanings": [
+        "foot"
+      ]
+    },
+    "拿": {
+      "pinyin": "ná",
+      "meanings": [
+        "take",
+        "hold"
+      ]
+    },
+    "感": {
+      "pinyin": "gǎn",
+      "meanings": [
+        "feel",
+        "sense"
+      ]
+    },
+    "爱": {
+      "pinyin": "ài",
+      "meanings": [
+        "love"
+      ]
+    },
+    "意": {
+      "pinyin": "yì",
+      "meanings": [
+        "idea",
+        "meaning"
+      ]
+    },
+    "说": {
+      "pinyin": "shuō",
+      "meanings": [
+        "speak",
+        "say"
+      ]
+    },
+    "吃": {
+      "pinyin": "chī",
+      "meanings": [
+        "eat"
+      ]
+    },
+    "音": {
+      "pinyin": "yīn",
+      "meanings": [
+        "sound"
+      ]
+    },
+    "冰": {
+      "pinyin": "bīng",
+      "meanings": [
+        "ice"
+      ]
+    },
+    "温": {
+      "pinyin": "wēn",
+      "meanings": [
+        "warm"
+      ]
+    },
+    "红": {
+      "pinyin": "hóng",
+      "meanings": [
+        "red"
+      ]
+    },
+    "灯": {
+      "pinyin": "dēng",
+      "meanings": [
+        "lamp",
+        "light"
+      ]
+    },
+    "写": {
+      "pinyin": "xiě",
+      "meanings": [
+        "write"
+      ]
+    },
+    "字": {
+      "pinyin": "zì",
+      "meanings": [
+        "written character",
+        "word"
+      ]
+    },
+    "白": {
+      "pinyin": "bái",
+      "meanings": [
+        "white"
+      ]
+    },
+    "雪": {
+      "pinyin": "xuě",
+      "meanings": [
+        "snow"
+      ]
+    },
+    "双": {
+      "pinyin": "shuāng",
+      "meanings": [
+        "pair",
+        "both"
+      ]
+    },
+    "服": {
+      "pinyin": "fu",
+      "meanings": [
+        "clothing",
+        "wear",
+        "serve"
+      ]
+    },
+    "思": {
+      "pinyin": "si",
+      "meanings": [
+        "think",
+        "thought"
+      ]
+    },
+    "话": {
+      "pinyin": "huà",
+      "meanings": [
+        "speech",
+        "words"
+      ]
+    },
+    "声": {
+      "pinyin": "shēng",
+      "meanings": [
+        "sound",
+        "voice"
+      ]
+    },
+    "东": {
+      "pinyin": "dōng",
+      "meanings": [
+        "east"
+      ]
+    },
+    "串": {
+      "pinyin": "chuàn",
+      "meanings": [
+        "string together",
+        "visit around"
+      ]
+    },
+    "主": {
+      "pinyin": "zhǔ",
+      "meanings": [
+        "host",
+        "main"
+      ]
+    },
+    "习": {
+      "pinyin": "xí",
+      "meanings": [
+        "practice",
+        "study"
+      ]
+    },
+    "买": {
+      "pinyin": "mǎi",
+      "meanings": [
+        "buy"
+      ]
+    },
+    "交": {
+      "pinyin": "jiāo",
+      "meanings": [
+        "connect",
+        "exchange"
+      ]
+    },
+    "今": {
+      "pinyin": "jīn",
+      "meanings": [
+        "today",
+        "present"
+      ]
+    },
+    "付": {
+      "pinyin": "fù",
+      "meanings": [
+        "pay"
+      ]
+    },
+    "便": {
+      "pinyin": "biàn",
+      "meanings": [
+        "convenient"
+      ]
+    },
+    "做": {
+      "pinyin": "zuò",
+      "meanings": [
+        "do",
+        "make"
+      ]
+    },
+    "停": {
+      "pinyin": "tíng",
+      "meanings": [
+        "stop",
+        "park"
+      ]
+    },
+    "入": {
+      "pinyin": "rù",
+      "meanings": [
+        "enter"
+      ]
+    },
+    "冬": {
+      "pinyin": "dōng",
+      "meanings": [
+        "winter"
+      ]
+    },
+    "冷": {
+      "pinyin": "lěng",
+      "meanings": [
+        "cold"
+      ]
+    },
+    "冻": {
+      "pinyin": "dòng",
+      "meanings": [
+        "freeze",
+        "frozen"
+      ]
+    },
+    "利": {
+      "pinyin": "lì",
+      "meanings": [
+        "benefit",
+        "advantage"
+      ]
+    },
+    "别": {
+      "pinyin": "bié",
+      "meanings": [
+        "other",
+        "separate"
+      ]
+    },
+    "单": {
+      "pinyin": "dān",
+      "meanings": [
+        "list",
+        "single"
+      ]
+    },
+    "卫": {
+      "pinyin": "wèi",
+      "meanings": [
+        "guard",
+        "protect"
+      ]
+    },
+    "印": {
+      "pinyin": "yìn",
+      "meanings": [
+        "print",
+        "stamp"
+      ]
+    },
+    "厨": {
+      "pinyin": "chú",
+      "meanings": [
+        "kitchen"
+      ]
+    },
+    "同": {
+      "pinyin": "tóng",
+      "meanings": [
+        "same",
+        "together"
+      ]
+    },
+    "名": {
+      "pinyin": "míng",
+      "meanings": [
+        "name"
+      ]
+    },
+    "吹": {
+      "pinyin": "chuī",
+      "meanings": [
+        "blow"
+      ]
+    },
+    "周": {
+      "pinyin": "zhōu",
+      "meanings": [
+        "week",
+        "cycle"
+      ]
+    },
+    "咖": {
+      "pinyin": "kā",
+      "meanings": [
+        "coffee sound component"
+      ]
+    },
+    "啡": {
+      "pinyin": "fēi",
+      "meanings": [
+        "coffee sound component"
+      ]
+    },
+    "回": {
+      "pinyin": "huí",
+      "meanings": [
+        "return",
+        "go back"
+      ]
+    },
+    "国": {
+      "pinyin": "guó",
+      "meanings": [
+        "country",
+        "nation"
+      ]
+    },
+    "在": {
+      "pinyin": "zài",
+      "meanings": [
+        "be at",
+        "in"
+      ]
+    },
+    "坐": {
+      "pinyin": "zuò",
+      "meanings": [
+        "sit",
+        "ride"
+      ]
+    },
+    "夏": {
+      "pinyin": "xià",
+      "meanings": [
+        "summer"
+      ]
+    },
+    "多": {
+      "pinyin": "duō",
+      "meanings": [
+        "many",
+        "much"
+      ]
+    },
+    "头": {
+      "pinyin": "tóu",
+      "meanings": [
+        "head",
+        "end"
+      ]
+    },
+    "子": {
+      "pinyin": "zǐ",
+      "meanings": [
+        "child",
+        "noun suffix"
+      ]
+    },
+    "存": {
+      "pinyin": "cún",
+      "meanings": [
+        "store",
+        "save"
+      ]
+    },
+    "季": {
+      "pinyin": "jì",
+      "meanings": [
+        "season"
+      ]
+    },
+    "客": {
+      "pinyin": "kè",
+      "meanings": [
+        "guest",
+        "customer"
+      ]
+    },
+    "家": {
+      "pinyin": "jiā",
+      "meanings": [
+        "home",
+        "family"
+      ]
+    },
+    "少": {
+      "pinyin": "shǎo",
+      "meanings": [
+        "few",
+        "little"
+      ]
+    },
+    "市": {
+      "pinyin": "shì",
+      "meanings": [
+        "city",
+        "market"
+      ]
+    },
+    "底": {
+      "pinyin": "dǐ",
+      "meanings": [
+        "bottom"
+      ]
+    },
+    "庭": {
+      "pinyin": "tíng",
+      "meanings": [
+        "courtyard",
+        "household"
+      ]
+    },
+    "影": {
+      "pinyin": "yǐng",
+      "meanings": [
+        "shadow",
+        "image"
+      ]
+    },
+    "打": {
+      "pinyin": "dǎ",
+      "meanings": [
+        "hit",
+        "do",
+        "call"
+      ]
+    },
+    "搜": {
+      "pinyin": "sōu",
+      "meanings": [
+        "search"
+      ]
+    },
+    "搬": {
+      "pinyin": "bān",
+      "meanings": [
+        "move",
+        "carry"
+      ]
+    },
+    "敲": {
+      "pinyin": "qiāo",
+      "meanings": [
+        "knock"
+      ]
+    },
+    "早": {
+      "pinyin": "zǎo",
+      "meanings": [
+        "early",
+        "morning"
+      ]
+    },
+    "明": {
+      "pinyin": "míng",
+      "meanings": [
+        "bright",
+        "next"
+      ]
+    },
+    "春": {
+      "pinyin": "chūn",
+      "meanings": [
+        "spring"
+      ]
+    },
+    "昨": {
+      "pinyin": "zuó",
+      "meanings": [
+        "yesterday",
+        "previous day"
+      ]
+    },
+    "晚": {
+      "pinyin": "wǎn",
+      "meanings": [
+        "late",
+        "evening"
+      ]
+    },
+    "架": {
+      "pinyin": "jià",
+      "meanings": [
+        "rack",
+        "frame"
+      ]
+    },
+    "柜": {
+      "pinyin": "guì",
+      "meanings": [
+        "cabinet"
+      ]
+    },
+    "梯": {
+      "pinyin": "tī",
+      "meanings": [
+        "ladder",
+        "stairs"
+      ]
+    },
+    "每": {
+      "pinyin": "měi",
+      "meanings": [
+        "every"
+      ]
+    },
+    "毛": {
+      "pinyin": "máo",
+      "meanings": [
+        "hair",
+        "wool"
+      ]
+    },
+    "气": {
+      "pinyin": "qì",
+      "meanings": [
+        "air",
+        "weather"
+      ]
+    },
+    "滴": {
+      "pinyin": "dī",
+      "meanings": [
+        "drop",
+        "drip"
+      ]
+    },
+    "点": {
+      "pinyin": "diǎn",
+      "meanings": [
+        "point",
+        "order"
+      ]
+    },
+    "热": {
+      "pinyin": "rè",
+      "meanings": [
+        "hot",
+        "heat"
+      ]
+    },
+    "用": {
+      "pinyin": "yòng",
+      "meanings": [
+        "use",
+        "with care"
+      ]
+    },
+    "电": {
+      "pinyin": "diàn",
+      "meanings": [
+        "electricity",
+        "electric"
+      ]
+    },
+    "留": {
+      "pinyin": "liú",
+      "meanings": [
+        "stay",
+        "remain"
+      ]
+    },
+    "皮": {
+      "pinyin": "pí",
+      "meanings": [
+        "skin",
+        "peel"
+      ]
+    },
+    "盆": {
+      "pinyin": "pén",
+      "meanings": [
+        "basin",
+        "pot"
+      ]
+    },
+    "相": {
+      "pinyin": "xiàng",
+      "meanings": [
+        "image",
+        "photo"
+      ]
+    },
+    "省": {
+      "pinyin": "shěng",
+      "meanings": [
+        "save",
+        "province"
+      ]
+    },
+    "睡": {
+      "pinyin": "shuì",
+      "meanings": [
+        "sleep"
+      ]
+    },
+    "票": {
+      "pinyin": "piào",
+      "meanings": [
+        "ticket"
+      ]
+    },
+    "秋": {
+      "pinyin": "qiū",
+      "meanings": [
+        "autumn"
+      ]
+    },
+    "租": {
+      "pinyin": "zū",
+      "meanings": [
+        "rent"
+      ]
+    },
+    "站": {
+      "pinyin": "zhàn",
+      "meanings": [
+        "station",
+        "stand"
+      ]
+    },
+    "签": {
+      "pinyin": "qiān",
+      "meanings": [
+        "sign",
+        "label"
+      ]
+    },
+    "米": {
+      "pinyin": "mǐ",
+      "meanings": [
+        "rice",
+        "meter"
+      ]
+    },
+    "线": {
+      "pinyin": "xiàn",
+      "meanings": [
+        "line",
+        "thread"
+      ]
+    },
+    "老": {
+      "pinyin": "lǎo",
+      "meanings": [
+        "old",
+        "long-established"
+      ]
+    },
+    "脑": {
+      "pinyin": "nǎo",
+      "meanings": [
+        "brain"
+      ]
+    },
+    "茶": {
+      "pinyin": "chá",
+      "meanings": [
+        "tea"
+      ]
+    },
+    "药": {
+      "pinyin": "yào",
+      "meanings": [
+        "medicine"
+      ]
+    },
+    "菜": {
+      "pinyin": "cài",
+      "meanings": [
+        "dish",
+        "vegetable"
+      ]
+    },
+    "蔬": {
+      "pinyin": "shū",
+      "meanings": [
+        "vegetable"
+      ]
+    },
+    "袋": {
+      "pinyin": "dài",
+      "meanings": [
+        "bag",
+        "pouch"
+      ]
+    },
+    "视": {
+      "pinyin": "shì",
+      "meanings": [
+        "look",
+        "view"
+      ]
+    },
+    "试": {
+      "pinyin": "shì",
+      "meanings": [
+        "try",
+        "test"
+      ]
+    },
+    "语": {
+      "pinyin": "yǔ",
+      "meanings": [
+        "language",
+        "speech"
+      ]
+    },
+    "过": {
+      "pinyin": "guò",
+      "meanings": [
+        "pass",
+        "cross"
+      ]
+    },
+    "迷": {
+      "pinyin": "mí",
+      "meanings": [
+        "lose",
+        "be confused"
+      ]
+    },
+    "酱": {
+      "pinyin": "jiàng",
+      "meanings": [
+        "sauce",
+        "paste"
+      ]
+    },
+    "铃": {
+      "pinyin": "líng",
+      "meanings": [
+        "bell"
+      ]
+    },
+    "问": {
+      "pinyin": "wèn",
+      "meanings": [
+        "ask"
+      ]
+    },
+    "间": {
+      "pinyin": "jiān",
+      "meanings": [
+        "space",
+        "room"
+      ]
+    },
+    "零": {
+      "pinyin": "líng",
+      "meanings": [
+        "zero",
+        "small change"
+      ]
+    },
+    "青": {
+      "pinyin": "qīng",
+      "meanings": [
+        "green",
+        "blue-green"
+      ]
+    },
+    "鞋": {
+      "pinyin": "xié",
+      "meanings": [
+        "shoe"
+      ]
+    },
+    "风": {
+      "pinyin": "fēng",
+      "meanings": [
+        "wind"
+      ]
+    },
+    "香": {
+      "pinyin": "xiāng",
+      "meanings": [
+        "fragrant",
+        "fragrance"
+      ]
+    },
+    "鸡": {
+      "pinyin": "jī",
+      "meanings": [
+        "chicken"
+      ]
+    },
+    "龙": {
+      "pinyin": "lóng",
+      "meanings": [
+        "dragon"
+      ]
+    },
+    "向": {
+      "pinyin": "xiàng",
+      "meanings": [
+        "toward",
+        "direction"
+      ]
+    },
+    "排": {
+      "pinyin": "pái",
+      "meanings": [
+        "row",
+        "line"
+      ]
+    },
+    "备": {
+      "pinyin": "bèi",
+      "meanings": [
+        "prepare",
+        "reserve"
+      ]
+    },
+    "箱": {
+      "pinyin": "xiāng",
+      "meanings": [
+        "box",
+        "case",
+        "compartment"
+      ]
+    },
+    "台": {
+      "pinyin": "tái",
+      "meanings": [
+        "platform",
+        "counter"
+      ]
+    },
+    "目": {
+      "pinyin": "mù",
+      "meanings": [
+        "eye",
+        "item"
+      ]
+    },
+    "女": {
+      "pinyin": "nǚ",
+      "meanings": [
+        "woman",
+        "female"
+      ]
+    },
+    "友": {
+      "pinyin": "yǒu",
+      "meanings": [
+        "friend"
+      ]
+    },
+    "男": {
+      "pinyin": "nán",
+      "meanings": [
+        "man",
+        "male"
+      ]
+    },
+    "日": {
+      "pinyin": "rì",
+      "meanings": [
+        "sun",
+        "day"
+      ]
+    },
+    "落": {
+      "pinyin": "luò",
+      "meanings": [
+        "fall",
+        "set"
+      ]
+    },
+    "节": {
+      "pinyin": "jié",
+      "meanings": [
+        "festival",
+        "section"
+      ]
+    },
+    "作": {
+      "pinyin": "zuò",
+      "meanings": [
+        "do",
+        "work"
+      ]
+    },
+    "星": {
+      "pinyin": "xīng",
+      "meanings": [
+        "star"
+      ]
+    },
+    "期": {
+      "pinyin": "qī",
+      "meanings": [
+        "period",
+        "term"
+      ]
+    },
+    "历": {
+      "pinyin": "lì",
+      "meanings": [
+        "calendar",
+        "history"
+      ]
+    },
+    "记": {
+      "pinyin": "jì",
+      "meanings": [
+        "record",
+        "remember"
+      ]
+    },
+    "月": {
+      "pinyin": "yuè",
+      "meanings": [
+        "moon",
+        "month"
+      ]
+    },
+    "亮": {
+      "pinyin": "liàng",
+      "meanings": [
+        "bright",
+        "light"
+      ]
+    },
+    "光": {
+      "pinyin": "guāng",
+      "meanings": [
+        "light",
+        "ray"
+      ]
+    },
+    "球": {
+      "pinyin": "qiú",
+      "meanings": [
+        "ball",
+        "sphere"
+      ]
+    },
+    "饼": {
+      "pinyin": "bǐng",
+      "meanings": [
+        "cake",
+        "pastry"
+      ]
+    },
+    "薪": {
+      "pinyin": "xīn",
+      "meanings": [
+        "salary",
+        "wages"
+      ]
+    },
+    "个": {
+      "pinyin": "gè",
+      "meanings": [
+        "general measure word",
+        "individual"
+      ]
+    }
+  },
+  "words": [
+    {
+      "word": "上午",
+      "pinyin": "shàngwǔ",
+      "meaning": "morning; before noon",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "earlier / upper part"
+        },
+        {
+          "char": "午",
+          "gloss": "noon"
+        }
+      ],
+      "explanation": "The part before noon → morning.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 100
+    },
+    {
+      "word": "上面",
+      "pinyin": "shàngmiàn",
+      "meaning": "above; on top",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "above"
+        },
+        {
+          "char": "面",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "The upper side/area → above or on top.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "下午",
+      "pinyin": "xiàwǔ",
+      "meaning": "afternoon",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "later / lower part"
+        },
+        {
+          "char": "午",
+          "gloss": "noon"
+        }
+      ],
+      "explanation": "The part after noon → afternoon.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "下车",
+      "pinyin": "xiàchē",
+      "meaning": "get out/off a vehicle",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "get down/off"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "Get down/off + vehicle → get out or get off.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "下雨",
+      "pinyin": "xiàyǔ",
+      "meaning": "to rain; be raining",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "fall / come down"
+        },
+        {
+          "char": "雨",
+          "gloss": "rain"
+        }
+      ],
+      "explanation": "Rain comes down → to rain.",
+      "category": "Weather",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "下面",
+      "pinyin": "xiàmiàn",
+      "meaning": "below; underneath",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "below"
+        },
+        {
+          "char": "面",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "The lower side/area → below.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "书店",
+      "pinyin": "shūdiàn",
+      "meaning": "bookstore",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "Book + shop → bookstore.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书",
+        "店"
+      ]
+    },
+    {
+      "word": "以前",
+      "pinyin": "yǐqián",
+      "meaning": "before; previously",
+      "components": [
+        {
+          "char": "以",
+          "gloss": "relative marker"
+        },
+        {
+          "char": "前",
+          "gloss": "before"
+        }
+      ],
+      "explanation": "A fixed time expression meaning before/previously.",
+      "category": "Time",
+      "transparency": "lexicalized",
+      "priority": 100
+    },
+    {
+      "word": "以后",
+      "pinyin": "yǐhòu",
+      "meaning": "after; later; in the future",
+      "components": [
+        {
+          "char": "以",
+          "gloss": "relative marker"
+        },
+        {
+          "char": "后",
+          "gloss": "after"
+        }
+      ],
+      "explanation": "A fixed time expression meaning after/later.",
+      "category": "Time",
+      "transparency": "lexicalized",
+      "priority": 100
+    },
+    {
+      "word": "公园",
+      "pinyin": "gōngyuán",
+      "meaning": "park",
+      "components": [
+        {
+          "char": "公",
+          "gloss": "public"
+        },
+        {
+          "char": "园",
+          "gloss": "garden / park"
+        }
+      ],
+      "explanation": "A public garden/park → park.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "关门",
+      "pinyin": "guānmén",
+      "meaning": "close the door",
+      "components": [
+        {
+          "char": "关",
+          "gloss": "close"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "Close + door → close the door.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "写字",
+      "pinyin": "xiězì",
+      "meaning": "write characters; write",
+      "components": [
+        {
+          "char": "写",
+          "gloss": "write"
+        },
+        {
+          "char": "字",
+          "gloss": "character / writing"
+        }
+      ],
+      "explanation": "Write + characters → write.",
+      "category": "Study",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "刷牙",
+      "pinyin": "shuāyá",
+      "meaning": "brush one's teeth",
+      "components": [
+        {
+          "char": "刷",
+          "gloss": "brush"
+        },
+        {
+          "char": "牙",
+          "gloss": "teeth"
+        }
+      ],
+      "explanation": "Brush + teeth → brush one's teeth.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "前面",
+      "pinyin": "qiánmiàn",
+      "meaning": "in front; front side",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "front"
+        },
+        {
+          "char": "面",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "The front side/area → in front.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "吃饭",
+      "pinyin": "chīfàn",
+      "meaning": "eat; have a meal",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "eat"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal"
+        }
+      ],
+      "explanation": "Eat + meal → eat/have a meal.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "后天",
+      "pinyin": "hòutiān",
+      "meaning": "the day after tomorrow",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "after"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The day after → the day after tomorrow.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "后面",
+      "pinyin": "hòumiàn",
+      "meaning": "behind; back side",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "back"
+        },
+        {
+          "char": "面",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "The back side/area → behind.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "商店",
+      "pinyin": "shāngdiàn",
+      "meaning": "shop; store",
+      "components": [
+        {
+          "char": "商",
+          "gloss": "commerce"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "Commerce + shop → store.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "外面",
+      "pinyin": "wàimiàn",
+      "meaning": "outside",
+      "components": [
+        {
+          "char": "外",
+          "gloss": "outside"
+        },
+        {
+          "char": "面",
+          "gloss": "area / side"
+        }
+      ],
+      "explanation": "The outside area → outside.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "大雨",
+      "pinyin": "dàyǔ",
+      "meaning": "heavy rain",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big / heavy"
+        },
+        {
+          "char": "雨",
+          "gloss": "rain"
+        }
+      ],
+      "explanation": "Big/heavy + rain → heavy rain.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "如果",
+      "pinyin": "rúguǒ",
+      "meaning": "if",
+      "components": [
+        {
+          "char": "如",
+          "gloss": "as / if"
+        },
+        {
+          "char": "果",
+          "gloss": "part of fixed conjunction"
+        }
+      ],
+      "explanation": "A fixed conjunction meaning “if”. Do not interpret it as “as + fruit”.",
+      "category": "Grammar",
+      "transparency": "lexicalized",
+      "priority": 100
+    },
+    {
+      "word": "对面",
+      "pinyin": "duìmiàn",
+      "meaning": "opposite; across from",
+      "components": [
+        {
+          "char": "对",
+          "gloss": "opposite / facing"
+        },
+        {
+          "char": "面",
+          "gloss": "side / face"
+        }
+      ],
+      "explanation": "Facing the other side → opposite/across from.",
+      "category": "Position",
+      "transparency": "extended",
+      "priority": 100
+    },
+    {
+      "word": "小心",
+      "pinyin": "xiǎoxīn",
+      "meaning": "be careful",
+      "components": [
+        {
+          "char": "小",
+          "gloss": "small / carefully"
+        },
+        {
+          "char": "心",
+          "gloss": "heart / attention"
+        }
+      ],
+      "explanation": "A very common fixed expression meaning “be careful”. Don't try to translate it character by character too literally.",
+      "category": "Feelings",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "开车",
+      "pinyin": "kāichē",
+      "meaning": "drive a car",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "operate / drive"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "Operate + vehicle → drive.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "开门",
+      "pinyin": "kāimén",
+      "meaning": "open the door",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "open"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "Open + door → open the door.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "意思",
+      "pinyin": "yìsi",
+      "meaning": "meaning; idea; intention",
+      "components": [
+        {
+          "char": "意",
+          "gloss": "idea / meaning"
+        },
+        {
+          "char": "思",
+          "gloss": "think"
+        }
+      ],
+      "explanation": "A lexicalized everyday word for meaning, idea, or intention.",
+      "category": "Ideas",
+      "transparency": "lexicalized",
+      "priority": 100
+    },
+    {
+      "word": "手机",
+      "pinyin": "shǒujī",
+      "meaning": "mobile phone",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand / handheld"
+        },
+        {
+          "char": "机",
+          "gloss": "device"
+        }
+      ],
+      "explanation": "A device held in the hand → mobile phone.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手",
+        "机"
+      ]
+    },
+    {
+      "word": "旁边",
+      "pinyin": "pángbiān",
+      "meaning": "beside; next to",
+      "components": [
+        {
+          "char": "旁",
+          "gloss": "side / beside"
+        },
+        {
+          "char": "边",
+          "gloss": "side"
+        }
+      ],
+      "explanation": "At the side → beside/next to.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "最后",
+      "pinyin": "zuìhòu",
+      "meaning": "last; finally",
+      "components": [
+        {
+          "char": "最",
+          "gloss": "most / -est"
+        },
+        {
+          "char": "后",
+          "gloss": "after / last"
+        }
+      ],
+      "explanation": "The furthest toward the end → last/finally.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "机会",
+      "pinyin": "jīhuì",
+      "meaning": "opportunity; chance",
+      "components": [
+        {
+          "char": "机",
+          "gloss": "occasion / opportunity"
+        },
+        {
+          "char": "会",
+          "gloss": "occasion / meeting"
+        }
+      ],
+      "explanation": "A lexicalized compound meaning opportunity or chance.",
+      "category": "Ideas",
+      "transparency": "lexicalized",
+      "priority": 100
+    },
+    {
+      "word": "机场",
+      "pinyin": "jīchǎng",
+      "meaning": "airport",
+      "components": [
+        {
+          "char": "机",
+          "gloss": "aircraft"
+        },
+        {
+          "char": "场",
+          "gloss": "place / field"
+        }
+      ],
+      "explanation": "A place for aircraft → airport.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "水果",
+      "pinyin": "shuǐguǒ",
+      "meaning": "fruit",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water / juicy"
+        },
+        {
+          "char": "果",
+          "gloss": "fruit"
+        }
+      ],
+      "explanation": "A conventional compound for fruit. 水 here does not simply mean that all fruit is “water-fruit”; learn 水果 as a whole.",
+      "category": "Food",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "水",
+        "果"
+      ]
+    },
+    {
+      "word": "汽车",
+      "pinyin": "qìchē",
+      "meaning": "car; automobile",
+      "components": [
+        {
+          "char": "汽",
+          "gloss": "steam / motor"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "Motor vehicle → car/automobile.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 100
+    },
+    {
+      "word": "没钱",
+      "pinyin": "méiqián",
+      "meaning": "have no money",
+      "components": [
+        {
+          "char": "没",
+          "gloss": "not have"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "Not have + money → have no money.",
+      "category": "Everyday",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "海水",
+      "pinyin": "hǎishuǐ",
+      "meaning": "seawater",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Sea + water → seawater.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "海边",
+      "pinyin": "hǎibiān",
+      "meaning": "seaside; by the sea",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "边",
+          "gloss": "side / edge"
+        }
+      ],
+      "explanation": "At the edge/side of the sea → seaside.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "海鲜",
+      "pinyin": "hǎixiān",
+      "meaning": "seafood",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "鲜",
+          "gloss": "fresh food"
+        }
+      ],
+      "explanation": "Fresh food from the sea → seafood.",
+      "category": "Food",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "火车",
+      "pinyin": "huǒchē",
+      "meaning": "train",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire / steam power"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "Historically a vehicle powered by fire/steam → train.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "火",
+        "车"
+      ]
+    },
+    {
+      "word": "牙刷",
+      "pinyin": "yáshuā",
+      "meaning": "toothbrush",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "teeth"
+        },
+        {
+          "char": "刷",
+          "gloss": "brush"
+        }
+      ],
+      "explanation": "Teeth + brush → toothbrush.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "牙膏",
+      "pinyin": "yágāo",
+      "meaning": "toothpaste",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "teeth"
+        },
+        {
+          "char": "膏",
+          "gloss": "paste"
+        }
+      ],
+      "explanation": "Teeth + paste → toothpaste.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "牙齿",
+      "pinyin": "yáchǐ",
+      "meaning": "teeth",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "tooth"
+        },
+        {
+          "char": "齿",
+          "gloss": "tooth"
+        }
+      ],
+      "explanation": "Two tooth-related characters combine into the standard word for teeth.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "白天",
+      "pinyin": "báitiān",
+      "meaning": "daytime",
+      "components": [
+        {
+          "char": "白",
+          "gloss": "light / daytime"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "Light + day → daytime.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "看书",
+      "pinyin": "kànshū",
+      "meaning": "read a book",
+      "components": [
+        {
+          "char": "看",
+          "gloss": "look / read"
+        },
+        {
+          "char": "书",
+          "gloss": "book"
+        }
+      ],
+      "explanation": "Look at/read + book → read a book.",
+      "category": "Study",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "结果",
+      "pinyin": "jiéguǒ",
+      "meaning": "result; as a result",
+      "components": [
+        {
+          "char": "结",
+          "gloss": "form / conclude"
+        },
+        {
+          "char": "果",
+          "gloss": "result"
+        }
+      ],
+      "explanation": "A result that has formed or concluded → result/outcome.",
+      "category": "Ideas",
+      "transparency": "extended",
+      "priority": 100
+    },
+    {
+      "word": "花园",
+      "pinyin": "huāyuán",
+      "meaning": "garden",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flowers"
+        },
+        {
+          "char": "园",
+          "gloss": "garden"
+        }
+      ],
+      "explanation": "Flowers + garden → garden.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "花店",
+      "pinyin": "huādiàn",
+      "meaning": "flower shop",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flowers"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "Flowers + shop → flower shop.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "花钱",
+      "pinyin": "huāqián",
+      "meaning": "spend money",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "spend"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "Here 花 is the verb “spend”: spend + money → spend money.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning": "apple",
+      "components": [
+        {
+          "char": "苹",
+          "gloss": "apple (in this word)"
+        },
+        {
+          "char": "果",
+          "gloss": "fruit"
+        }
+      ],
+      "explanation": "The standard word for apple. 苹 is mainly encountered by beginners in 苹果.",
+      "category": "Food",
+      "transparency": "extended",
+      "priority": 100
+    },
+    {
+      "word": "衣服",
+      "pinyin": "yīfu",
+      "meaning": "clothes",
+      "components": [
+        {
+          "char": "衣",
+          "gloss": "clothes"
+        },
+        {
+          "char": "服",
+          "gloss": "garment / wear"
+        }
+      ],
+      "explanation": "A common lexicalized word for clothes.",
+      "category": "Objects",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "说话",
+      "pinyin": "shuōhuà",
+      "meaning": "speak; talk",
+      "components": [
+        {
+          "char": "说",
+          "gloss": "speak"
+        },
+        {
+          "char": "话",
+          "gloss": "speech / words"
+        }
+      ],
+      "explanation": "Speak + words → talk/speak.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "赚钱",
+      "pinyin": "zhuànqián",
+      "meaning": "earn money",
+      "components": [
+        {
+          "char": "赚",
+          "gloss": "earn"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "Earn + money → make money.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "走路",
+      "pinyin": "zǒulù",
+      "meaning": "walk; go on foot",
+      "components": [
+        {
+          "char": "走",
+          "gloss": "walk / go"
+        },
+        {
+          "char": "路",
+          "gloss": "road"
+        }
+      ],
+      "explanation": "Go along the road → walk.",
+      "category": "Movement",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "路上",
+      "pinyin": "lùshang",
+      "meaning": "on the road; on the way",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road"
+        },
+        {
+          "char": "上",
+          "gloss": "on"
+        }
+      ],
+      "explanation": "On + the road → on the way.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "酒店",
+      "pinyin": "jiǔdiàn",
+      "meaning": "hotel",
+      "components": [
+        {
+          "char": "酒",
+          "gloss": "wine / hospitality"
+        },
+        {
+          "char": "店",
+          "gloss": "establishment"
+        }
+      ],
+      "explanation": "A lexicalized modern word meaning hotel.",
+      "category": "Places",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "里面",
+      "pinyin": "lǐmiàn",
+      "meaning": "inside",
+      "components": [
+        {
+          "char": "里",
+          "gloss": "inside"
+        },
+        {
+          "char": "面",
+          "gloss": "area / side"
+        }
+      ],
+      "explanation": "The inside area → inside.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 100
+    },
+    {
+      "word": "钱包",
+      "pinyin": "qiánbāo",
+      "meaning": "wallet",
+      "components": [
+        {
+          "char": "钱",
+          "gloss": "money"
+        },
+        {
+          "char": "包",
+          "gloss": "bag"
+        }
+      ],
+      "explanation": "A bag for money → wallet.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "门口",
+      "pinyin": "ménkǒu",
+      "meaning": "doorway; entrance",
+      "components": [
+        {
+          "char": "门",
+          "gloss": "door"
+        },
+        {
+          "char": "口",
+          "gloss": "opening"
+        }
+      ],
+      "explanation": "The opening of a door → doorway or entrance.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "雨伞",
+      "pinyin": "yǔsǎn",
+      "meaning": "umbrella",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "伞",
+          "gloss": "umbrella"
+        }
+      ],
+      "explanation": "Rain + umbrella → umbrella used for rain.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "飞机",
+      "pinyin": "fēijī",
+      "meaning": "airplane",
+      "components": [
+        {
+          "char": "飞",
+          "gloss": "fly"
+        },
+        {
+          "char": "机",
+          "gloss": "machine"
+        }
+      ],
+      "explanation": "A flying machine → airplane.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "上班",
+      "pinyin": "shàngbān",
+      "meaning": "go to work; be at work",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "go onto / attend"
+        },
+        {
+          "char": "班",
+          "gloss": "work shift"
+        }
+      ],
+      "explanation": "Go onto one's work shift → go to work.",
+      "category": "Routine",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "前天",
+      "pinyin": "qiántiān",
+      "meaning": "the day before yesterday",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "before"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The day before → the day before yesterday.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "小雨",
+      "pinyin": "xiǎoyǔ",
+      "meaning": "light rain",
+      "components": [
+        {
+          "char": "小",
+          "gloss": "small / light"
+        },
+        {
+          "char": "雨",
+          "gloss": "rain"
+        }
+      ],
+      "explanation": "Small/light + rain → light rain.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 98
+    },
+    {
+      "word": "开心",
+      "pinyin": "kāixīn",
+      "meaning": "happy; have fun",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "open"
+        },
+        {
+          "char": "心",
+          "gloss": "heart"
+        }
+      ],
+      "explanation": "Literally evokes an “open heart”; in everyday Mandarin it means happy or to have fun.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "果汁",
+      "pinyin": "guǒzhī",
+      "meaning": "fruit juice",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "fruit"
+        },
+        {
+          "char": "汁",
+          "gloss": "juice"
+        }
+      ],
+      "explanation": "Fruit + juice → fruit juice.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "果"
+      ]
+    },
+    {
+      "word": "海滩",
+      "pinyin": "hǎitān",
+      "meaning": "beach",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "滩",
+          "gloss": "beach / shore"
+        }
+      ],
+      "explanation": "Sea + shore → beach.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "火锅",
+      "pinyin": "huǒguō",
+      "meaning": "hot pot",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire / heat"
+        },
+        {
+          "char": "锅",
+          "gloss": "pot"
+        }
+      ],
+      "explanation": "A pot kept hot over heat → hot pot.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "火"
+      ]
+    },
+    {
+      "word": "牙医",
+      "pinyin": "yáyī",
+      "meaning": "dentist",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "teeth"
+        },
+        {
+          "char": "医",
+          "gloss": "doctor / medicine"
+        }
+      ],
+      "explanation": "Teeth + doctor → dentist.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "读书",
+      "pinyin": "dúshū",
+      "meaning": "read; study",
+      "components": [
+        {
+          "char": "读",
+          "gloss": "read / study"
+        },
+        {
+          "char": "书",
+          "gloss": "books"
+        }
+      ],
+      "explanation": "Read + books → read or study.",
+      "category": "Study",
+      "transparency": "direct",
+      "priority": 98
+    },
+    {
+      "word": "雨水",
+      "pinyin": "yǔshuǐ",
+      "meaning": "rainwater",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Rain + water → rainwater.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 98
+    },
+    {
+      "word": "上学",
+      "pinyin": "shàngxué",
+      "meaning": "go to school",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "go to / attend"
+        },
+        {
+          "char": "学",
+          "gloss": "study / school"
+        }
+      ],
+      "explanation": "Go to study/school → go to school.",
+      "category": "Study",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "上课",
+      "pinyin": "shàngkè",
+      "meaning": "attend class",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "attend"
+        },
+        {
+          "char": "课",
+          "gloss": "class"
+        }
+      ],
+      "explanation": "Attend + class → be in class.",
+      "category": "Study",
+      "transparency": "direct",
+      "priority": 96
+    },
+    {
+      "word": "下楼",
+      "pinyin": "xiàlóu",
+      "meaning": "go downstairs",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "go down"
+        },
+        {
+          "char": "楼",
+          "gloss": "floor / building"
+        }
+      ],
+      "explanation": "Go down + floor/building → go downstairs.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 96
+    },
+    {
+      "word": "书包",
+      "pinyin": "shūbāo",
+      "meaning": "schoolbag; book bag",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "包",
+          "gloss": "bag"
+        }
+      ],
+      "explanation": "Book + bag → schoolbag/book bag.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书"
+      ]
+    },
+    {
+      "word": "后果",
+      "pinyin": "hòuguǒ",
+      "meaning": "consequence",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "what follows / after"
+        },
+        {
+          "char": "果",
+          "gloss": "result"
+        }
+      ],
+      "explanation": "The result that follows → consequence.",
+      "category": "Ideas",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "喝水",
+      "pinyin": "hēshuǐ",
+      "meaning": "drink water",
+      "components": [
+        {
+          "char": "喝",
+          "gloss": "drink"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Drink + water → drink water.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 96
+    },
+    {
+      "word": "机器",
+      "pinyin": "jīqì",
+      "meaning": "machine",
+      "components": [
+        {
+          "char": "机",
+          "gloss": "machine"
+        },
+        {
+          "char": "器",
+          "gloss": "device"
+        }
+      ],
+      "explanation": "Machine + device → machine.",
+      "category": "Technology",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "海外",
+      "pinyin": "hǎiwài",
+      "meaning": "overseas; abroad",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "外",
+          "gloss": "outside / beyond"
+        }
+      ],
+      "explanation": "Beyond the sea → overseas/abroad.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 96
+    },
+    {
+      "word": "花生",
+      "pinyin": "huāshēng",
+      "meaning": "peanut",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "huā"
+        },
+        {
+          "char": "生",
+          "gloss": "shēng"
+        }
+      ],
+      "explanation": "A lexicalized food word. Modern learners should learn 花生 as “peanut” as a whole.",
+      "category": "Food",
+      "transparency": "lexicalized",
+      "priority": 96
+    },
+    {
+      "word": "这边",
+      "pinyin": "zhèbiān",
+      "meaning": "this side; over here",
+      "components": [
+        {
+          "char": "这",
+          "gloss": "this"
+        },
+        {
+          "char": "边",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "This + side → this side / over here.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 96
+    },
+    {
+      "word": "那边",
+      "pinyin": "nàbiān",
+      "meaning": "that side; over there",
+      "components": [
+        {
+          "char": "那",
+          "gloss": "that"
+        },
+        {
+          "char": "边",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "That + side → that side / over there.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 96
+    },
+    {
+      "word": "雨衣",
+      "pinyin": "yǔyī",
+      "meaning": "raincoat",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothes"
+        }
+      ],
+      "explanation": "Rain + clothing → raincoat.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "马路",
+      "pinyin": "mǎlù",
+      "meaning": "road; street",
+      "components": [
+        {
+          "char": "马",
+          "gloss": "horse"
+        },
+        {
+          "char": "路",
+          "gloss": "road"
+        }
+      ],
+      "explanation": "Historically a road for horse traffic; today a common word for road/street.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "图书馆",
+      "pinyin": "túshūguǎn",
+      "meaning": "library",
+      "components": [
+        {
+          "char": "图",
+          "gloss": "pictures / documents"
+        },
+        {
+          "char": "书",
+          "gloss": "books"
+        },
+        {
+          "char": "馆",
+          "gloss": "public building"
+        }
+      ],
+      "explanation": "A public building for books and documents → library.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 95
+    },
+    {
+      "word": "声音",
+      "pinyin": "shēngyīn",
+      "meaning": "sound; voice",
+      "components": [
+        {
+          "char": "声",
+          "gloss": "sound / voice"
+        },
+        {
+          "char": "音",
+          "gloss": "sound"
+        }
+      ],
+      "explanation": "Sound + sound → sound/voice.",
+      "category": "Ideas",
+      "transparency": "direct",
+      "priority": 95
+    },
+    {
+      "word": "心情",
+      "pinyin": "xīnqíng",
+      "meaning": "mood",
+      "components": [
+        {
+          "char": "心",
+          "gloss": "heart / mind"
+        },
+        {
+          "char": "情",
+          "gloss": "feeling"
+        }
+      ],
+      "explanation": "Heart/mind + feeling → mood.",
+      "category": "Feelings",
+      "transparency": "direct",
+      "priority": 95
+    },
+    {
+      "word": "手表",
+      "pinyin": "shǒubiǎo",
+      "meaning": "wristwatch",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand / wrist"
+        },
+        {
+          "char": "表",
+          "gloss": "watch"
+        }
+      ],
+      "explanation": "A watch worn at the wrist.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手"
+      ]
+    },
+    {
+      "word": "爱情",
+      "pinyin": "àiqíng",
+      "meaning": "romantic love",
+      "components": [
+        {
+          "char": "爱",
+          "gloss": "love"
+        },
+        {
+          "char": "情",
+          "gloss": "feeling"
+        }
+      ],
+      "explanation": "Love + feeling → romantic love.",
+      "category": "Feelings",
+      "transparency": "direct",
+      "priority": 95
+    },
+    {
+      "word": "路口",
+      "pinyin": "lùkǒu",
+      "meaning": "intersection; junction",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road"
+        },
+        {
+          "char": "口",
+          "gloss": "opening / junction"
+        }
+      ],
+      "explanation": "Where roads open into each other → intersection.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "上车",
+      "pinyin": "shàngchē",
+      "meaning": "get on/in a vehicle",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "get onto"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "Get onto + vehicle → board or get in.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "大海",
+      "pinyin": "dàhǎi",
+      "meaning": "the sea; ocean",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big"
+        },
+        {
+          "char": "海",
+          "gloss": "sea"
+        }
+      ],
+      "explanation": "Big + sea → the sea/ocean.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "放心",
+      "pinyin": "fàngxīn",
+      "meaning": "feel relieved; be at ease",
+      "components": [
+        {
+          "char": "放",
+          "gloss": "release / let go"
+        },
+        {
+          "char": "心",
+          "gloss": "heart / worry"
+        }
+      ],
+      "explanation": "Let the worried heart go → feel relieved.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 94
+    },
+    {
+      "word": "暴雨",
+      "pinyin": "bàoyǔ",
+      "meaning": "rainstorm; torrential rain",
+      "components": [
+        {
+          "char": "暴",
+          "gloss": "violent / sudden"
+        },
+        {
+          "char": "雨",
+          "gloss": "rain"
+        }
+      ],
+      "explanation": "Violent + rain → torrential rain.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 94
+    },
+    {
+      "word": "果园",
+      "pinyin": "guǒyuán",
+      "meaning": "orchard",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "fruit"
+        },
+        {
+          "char": "园",
+          "gloss": "garden"
+        }
+      ],
+      "explanation": "A garden for fruit → orchard.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "果"
+      ]
+    },
+    {
+      "word": "校园",
+      "pinyin": "xiàoyuán",
+      "meaning": "school campus",
+      "components": [
+        {
+          "char": "校",
+          "gloss": "school"
+        },
+        {
+          "char": "园",
+          "gloss": "grounds / campus"
+        }
+      ],
+      "explanation": "School + grounds → campus.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 94
+    },
+    {
+      "word": "花瓶",
+      "pinyin": "huāpíng",
+      "meaning": "vase",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flowers"
+        },
+        {
+          "char": "瓶",
+          "gloss": "bottle / vase"
+        }
+      ],
+      "explanation": "A vessel for flowers → vase.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "水杯",
+      "pinyin": "shuǐbēi",
+      "meaning": "drinking cup; water cup",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water"
+        },
+        {
+          "char": "杯",
+          "gloss": "cup"
+        }
+      ],
+      "explanation": "A cup for water → drinking cup.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "水"
+      ]
+    },
+    {
+      "word": "上网",
+      "pinyin": "shàngwǎng",
+      "meaning": "go online; use the internet",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "go onto"
+        },
+        {
+          "char": "网",
+          "gloss": "internet"
+        }
+      ],
+      "explanation": "Go onto the internet → go online.",
+      "category": "Technology",
+      "transparency": "extended",
+      "priority": 92
+    },
+    {
+      "word": "下课",
+      "pinyin": "xiàkè",
+      "meaning": "class is over; finish class",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "come off / finish"
+        },
+        {
+          "char": "课",
+          "gloss": "class"
+        }
+      ],
+      "explanation": "Come off class → class ends / finish class.",
+      "category": "Study",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "下雪",
+      "pinyin": "xiàxuě",
+      "meaning": "snow; be snowing",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "fall / come down"
+        },
+        {
+          "char": "雪",
+          "gloss": "snow"
+        }
+      ],
+      "explanation": "Snow comes down → to snow.",
+      "category": "Weather",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "关心",
+      "pinyin": "guānxīn",
+      "meaning": "care about; be concerned about",
+      "components": [
+        {
+          "char": "关",
+          "gloss": "concern / involve"
+        },
+        {
+          "char": "心",
+          "gloss": "heart / attention"
+        }
+      ],
+      "explanation": "To direct concern and attention toward someone or something → care about.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "出口",
+      "pinyin": "chūkǒu",
+      "meaning": "exit; export",
+      "components": [
+        {
+          "char": "出",
+          "gloss": "go out"
+        },
+        {
+          "char": "口",
+          "gloss": "opening / port"
+        }
+      ],
+      "explanation": "Go out + opening/port → exit; also export.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "后门",
+      "pinyin": "hòumén",
+      "meaning": "back door",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "rear"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "A door at the rear → back door.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "开花",
+      "pinyin": "kāihuā",
+      "meaning": "bloom; flower",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "open"
+        },
+        {
+          "char": "花",
+          "gloss": "flower"
+        }
+      ],
+      "explanation": "A flower opens → bloom.",
+      "category": "Nature",
+      "transparency": "extended",
+      "priority": 92
+    },
+    {
+      "word": "感情",
+      "pinyin": "gǎnqíng",
+      "meaning": "feelings; affection",
+      "components": [
+        {
+          "char": "感",
+          "gloss": "feel"
+        },
+        {
+          "char": "情",
+          "gloss": "feeling"
+        }
+      ],
+      "explanation": "Feel + feeling → feelings/affection.",
+      "category": "Feelings",
+      "transparency": "direct",
+      "priority": 92
+    },
+    {
+      "word": "海洋",
+      "pinyin": "hǎiyáng",
+      "meaning": "ocean; marine",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "洋",
+          "gloss": "ocean"
+        }
+      ],
+      "explanation": "Sea + ocean → the ocean/marine realm.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 92
+    },
+    {
+      "word": "火山",
+      "pinyin": "huǒshān",
+      "meaning": "volcano",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "山",
+          "gloss": "mountain"
+        }
+      ],
+      "explanation": "Fire + mountain → volcano.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "火"
+      ]
+    },
+    {
+      "word": "牙痛",
+      "pinyin": "yátòng",
+      "meaning": "toothache",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "tooth"
+        },
+        {
+          "char": "痛",
+          "gloss": "pain"
+        }
+      ],
+      "explanation": "Tooth + pain → toothache.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "饭店",
+      "pinyin": "fàndiàn",
+      "meaning": "restaurant; hotel (depending on context)",
+      "components": [
+        {
+          "char": "饭",
+          "gloss": "meal"
+        },
+        {
+          "char": "店",
+          "gloss": "establishment"
+        }
+      ],
+      "explanation": "A food establishment → commonly restaurant; in names it can also mean hotel.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "饭",
+        "店"
+      ]
+    },
+    {
+      "word": "上海",
+      "pinyin": "shànghǎi",
+      "meaning": "Shanghai",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "shàng"
+        },
+        {
+          "char": "海",
+          "gloss": "hǎi"
+        }
+      ],
+      "explanation": "A proper place name. Its modern meaning is not composed as “up + sea”.",
+      "category": "Places",
+      "transparency": "lexicalized",
+      "priority": 90
+    },
+    {
+      "word": "书房",
+      "pinyin": "shūfáng",
+      "meaning": "study; home office",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "books"
+        },
+        {
+          "char": "房",
+          "gloss": "room"
+        }
+      ],
+      "explanation": "A room for books/reading → study.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书"
+      ]
+    },
+    {
+      "word": "前门",
+      "pinyin": "qiánmén",
+      "meaning": "front door",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "front"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "A door at the front → front door.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "口味",
+      "pinyin": "kǒuwèi",
+      "meaning": "taste; flavor preference",
+      "components": [
+        {
+          "char": "口",
+          "gloss": "mouth / palate"
+        },
+        {
+          "char": "味",
+          "gloss": "taste"
+        }
+      ],
+      "explanation": "Mouth + taste → flavor or someone's taste preference.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "大门",
+      "pinyin": "dàmén",
+      "meaning": "main gate; front gate",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big / main"
+        },
+        {
+          "char": "门",
+          "gloss": "gate"
+        }
+      ],
+      "explanation": "Big/main + gate → main entrance gate.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "开水",
+      "pinyin": "kāishuǐ",
+      "meaning": "boiled water",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "boil (in this word)"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Here 开 refers to water having boiled → boiled water.",
+      "category": "Food",
+      "transparency": "extended",
+      "priority": 90
+    },
+    {
+      "word": "心里",
+      "pinyin": "xīnlǐ",
+      "meaning": "in one's heart/mind",
+      "components": [
+        {
+          "char": "心",
+          "gloss": "heart / mind"
+        },
+        {
+          "char": "里",
+          "gloss": "inside"
+        }
+      ],
+      "explanation": "Inside the heart or mind → inwardly, in one's mind.",
+      "category": "Feelings",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "手套",
+      "pinyin": "shǒutào",
+      "meaning": "gloves",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand"
+        },
+        {
+          "char": "套",
+          "gloss": "cover"
+        }
+      ],
+      "explanation": "A covering for the hands → gloves.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手"
+      ]
+    },
+    {
+      "word": "果然",
+      "pinyin": "guǒrán",
+      "meaning": "as expected; sure enough",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "indeed / result sense"
+        },
+        {
+          "char": "然",
+          "gloss": "so / thus"
+        }
+      ],
+      "explanation": "A lexicalized adverb meaning “as expected” or “sure enough”.",
+      "category": "Grammar",
+      "transparency": "lexicalized",
+      "priority": 90
+    },
+    {
+      "word": "火灾",
+      "pinyin": "huǒzāi",
+      "meaning": "fire disaster",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "灾",
+          "gloss": "disaster"
+        }
+      ],
+      "explanation": "Fire + disaster → destructive fire.",
+      "category": "Safety",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "雷雨",
+      "pinyin": "léiyǔ",
+      "meaning": "thunderstorm",
+      "components": [
+        {
+          "char": "雷",
+          "gloss": "thunder"
+        },
+        {
+          "char": "雨",
+          "gloss": "rain"
+        }
+      ],
+      "explanation": "Thunder + rain → thunderstorm.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "鲜花",
+      "pinyin": "xiānhuā",
+      "meaning": "fresh flowers",
+      "components": [
+        {
+          "char": "鲜",
+          "gloss": "fresh"
+        },
+        {
+          "char": "花",
+          "gloss": "flowers"
+        }
+      ],
+      "explanation": "Fresh + flowers → fresh flowers.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 90
+    },
+    {
+      "word": "一边",
+      "pinyin": "yìbiān",
+      "meaning": "one side; while doing…",
+      "components": [
+        {
+          "char": "一",
+          "gloss": "one"
+        },
+        {
+          "char": "边",
+          "gloss": "side"
+        }
+      ],
+      "explanation": "Literally one side; in the pattern 一边…一边… it means doing two things at the same time.",
+      "category": "Grammar",
+      "transparency": "extended",
+      "priority": 88
+    },
+    {
+      "word": "书本",
+      "pinyin": "shūběn",
+      "meaning": "books; book",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "本",
+          "gloss": "book / volume"
+        }
+      ],
+      "explanation": "Two book-related elements; 书本 is a common general word for books or a book as an object.",
+      "category": "Objects",
+      "transparency": "extended",
+      "priority": 88
+    },
+    {
+      "word": "人口",
+      "pinyin": "rénkǒu",
+      "meaning": "population",
+      "components": [
+        {
+          "char": "人",
+          "gloss": "people"
+        },
+        {
+          "char": "口",
+          "gloss": "mouth / person counter"
+        }
+      ],
+      "explanation": "Historically people were counted by mouths; today 人口 means population.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "心脏",
+      "pinyin": "xīnzàng",
+      "meaning": "heart (organ)",
+      "components": [
+        {
+          "char": "心",
+          "gloss": "heart"
+        },
+        {
+          "char": "脏",
+          "gloss": "internal organ"
+        }
+      ],
+      "explanation": "Heart + internal organ → the physical heart.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 88
+    },
+    {
+      "word": "手指",
+      "pinyin": "shǒuzhǐ",
+      "meaning": "finger",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand"
+        },
+        {
+          "char": "指",
+          "gloss": "finger"
+        }
+      ],
+      "explanation": "A finger of the hand.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手"
+      ]
+    },
+    {
+      "word": "水平",
+      "pinyin": "shuǐpíng",
+      "meaning": "level; standard",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water"
+        },
+        {
+          "char": "平",
+          "gloss": "level / flat"
+        }
+      ],
+      "explanation": "From the idea of a level water surface → level or standard.",
+      "category": "Ideas",
+      "transparency": "extended",
+      "priority": 88
+    },
+    {
+      "word": "着火",
+      "pinyin": "zháohuǒ",
+      "meaning": "catch fire",
+      "components": [
+        {
+          "char": "着",
+          "gloss": "catch / become affected"
+        },
+        {
+          "char": "火",
+          "gloss": "fire"
+        }
+      ],
+      "explanation": "Become caught by fire → catch fire.",
+      "category": "Safety",
+      "transparency": "extended",
+      "priority": 88
+    },
+    {
+      "word": "穿衣",
+      "pinyin": "chuānyī",
+      "meaning": "put on clothes; dress",
+      "components": [
+        {
+          "char": "穿",
+          "gloss": "wear / put on"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothes"
+        }
+      ],
+      "explanation": "Put on + clothes → get dressed.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 88
+    },
+    {
+      "word": "红灯",
+      "pinyin": "hóngdēng",
+      "meaning": "red light",
+      "components": [
+        {
+          "char": "红",
+          "gloss": "red"
+        },
+        {
+          "char": "灯",
+          "gloss": "light"
+        }
+      ],
+      "explanation": "Red + light → red light.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 88
+    },
+    {
+      "word": "花草",
+      "pinyin": "huācǎo",
+      "meaning": "flowers and plants",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flowers"
+        },
+        {
+          "char": "草",
+          "gloss": "grass / plants"
+        }
+      ],
+      "explanation": "Flowers + plants → flowers and greenery.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 88
+    },
+    {
+      "word": "上楼",
+      "pinyin": "shànglóu",
+      "meaning": "go upstairs",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "go up"
+        },
+        {
+          "char": "楼",
+          "gloss": "floor / building"
+        }
+      ],
+      "explanation": "Go up + floor/building → go upstairs.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 86
+    },
+    {
+      "word": "假牙",
+      "pinyin": "jiǎyá",
+      "meaning": "dentures; false teeth",
+      "components": [
+        {
+          "char": "假",
+          "gloss": "artificial / false"
+        },
+        {
+          "char": "牙",
+          "gloss": "teeth"
+        }
+      ],
+      "explanation": "Artificial + teeth → dentures.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 86
+    },
+    {
+      "word": "教科书",
+      "pinyin": "jiàokēshū",
+      "meaning": "textbook",
+      "components": [
+        {
+          "char": "教",
+          "gloss": "teach"
+        },
+        {
+          "char": "科",
+          "gloss": "subject"
+        },
+        {
+          "char": "书",
+          "gloss": "book"
+        }
+      ],
+      "explanation": "Teaching + subject + book → textbook.",
+      "category": "Study",
+      "transparency": "direct",
+      "priority": 86
+    },
+    {
+      "word": "洗手",
+      "pinyin": "xǐshǒu",
+      "meaning": "wash one's hands",
+      "components": [
+        {
+          "char": "洗",
+          "gloss": "wash"
+        },
+        {
+          "char": "手",
+          "gloss": "hands"
+        }
+      ],
+      "explanation": "Wash + hands → wash one's hands.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 86
+    },
+    {
+      "word": "中心",
+      "pinyin": "zhōngxīn",
+      "meaning": "center",
+      "components": [
+        {
+          "char": "中",
+          "gloss": "middle"
+        },
+        {
+          "char": "心",
+          "gloss": "heart / core"
+        }
+      ],
+      "explanation": "The heart of the middle → center or core.",
+      "category": "Position",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "口水",
+      "pinyin": "kǒushuǐ",
+      "meaning": "saliva",
+      "components": [
+        {
+          "char": "口",
+          "gloss": "mouth"
+        },
+        {
+          "char": "水",
+          "gloss": "water / liquid"
+        }
+      ],
+      "explanation": "Liquid from the mouth → saliva.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "公路",
+      "pinyin": "gōnglù",
+      "meaning": "highway; public road",
+      "components": [
+        {
+          "char": "公",
+          "gloss": "public"
+        },
+        {
+          "char": "路",
+          "gloss": "road"
+        }
+      ],
+      "explanation": "Public + road → public road/highway.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 84
+    },
+    {
+      "word": "大火",
+      "pinyin": "dàhuǒ",
+      "meaning": "big fire; blaze",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big"
+        },
+        {
+          "char": "火",
+          "gloss": "fire"
+        }
+      ],
+      "explanation": "Big + fire → a large fire or blaze.",
+      "category": "Safety",
+      "transparency": "direct",
+      "priority": 84
+    },
+    {
+      "word": "开口",
+      "pinyin": "kāikǒu",
+      "meaning": "open one's mouth; start speaking",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "open"
+        },
+        {
+          "char": "口",
+          "gloss": "mouth"
+        }
+      ],
+      "explanation": "Open + mouth → open one's mouth or begin to speak.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 84
+    },
+    {
+      "word": "门牙",
+      "pinyin": "ményá",
+      "meaning": "front tooth; incisor",
+      "components": [
+        {
+          "char": "门",
+          "gloss": "door / front opening"
+        },
+        {
+          "char": "牙",
+          "gloss": "tooth"
+        }
+      ],
+      "explanation": "The teeth at the front opening of the mouth → front teeth/incisors.",
+      "category": "Body",
+      "transparency": "extended",
+      "priority": 84
+    },
+    {
+      "word": "前边",
+      "pinyin": "qiánbian",
+      "meaning": "front; in front",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "front"
+        },
+        {
+          "char": "边",
+          "gloss": "side / area"
+        }
+      ],
+      "explanation": "The front side/area → in front.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 82
+    },
+    {
+      "word": "手工",
+      "pinyin": "shǒugōng",
+      "meaning": "handmade; handicraft",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand"
+        },
+        {
+          "char": "工",
+          "gloss": "work"
+        }
+      ],
+      "explanation": "Work done by hand → handmade work or handicraft.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手"
+      ]
+    },
+    {
+      "word": "水里",
+      "pinyin": "shuǐlǐ",
+      "meaning": "in the water",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water"
+        },
+        {
+          "char": "里",
+          "gloss": "inside"
+        }
+      ],
+      "explanation": "Inside the water → in the water.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 82
+    },
+    {
+      "word": "火腿",
+      "pinyin": "huǒtuǐ",
+      "meaning": "ham",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "腿",
+          "gloss": "leg"
+        }
+      ],
+      "explanation": "A lexicalized food word. Modern learners should learn 火腿 as “ham” rather than infer it literally.",
+      "category": "Food",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "火"
+      ]
+    },
+    {
+      "word": "手术",
+      "pinyin": "shǒushù",
+      "meaning": "surgery; operation",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand"
+        },
+        {
+          "char": "术",
+          "gloss": "technique"
+        }
+      ],
+      "explanation": "Historically, a technique performed by hand; in modern Chinese this means surgery.",
+      "category": "Everyday",
+      "transparency": "extended",
+      "priority": 220
+    },
+    {
+      "word": "生火",
+      "pinyin": "shēnghuǒ",
+      "meaning": "light a fire",
+      "components": [
+        {
+          "char": "生",
+          "gloss": "produce / make"
+        },
+        {
+          "char": "火",
+          "gloss": "fire"
+        }
+      ],
+      "explanation": "Make + fire → light or build a fire.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 78
+    },
+    {
+      "word": "进口",
+      "pinyin": "jìnkǒu",
+      "meaning": "import; entrance",
+      "components": [
+        {
+          "char": "进",
+          "gloss": "enter"
+        },
+        {
+          "char": "口",
+          "gloss": "opening / port"
+        }
+      ],
+      "explanation": "Enter + opening/port → import; in some contexts, an entrance.",
+      "category": "Movement",
+      "transparency": "extended",
+      "priority": 78
+    },
+    {
+      "word": "帮手",
+      "pinyin": "bāngshǒu",
+      "meaning": "helper; helping hand",
+      "components": [
+        {
+          "char": "帮",
+          "gloss": "help"
+        },
+        {
+          "char": "手",
+          "gloss": "hand / person"
+        }
+      ],
+      "explanation": "A person who lends a hand → helper.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 72
+    },
+    {
+      "word": "拿手",
+      "pinyin": "náshǒu",
+      "meaning": "be good at; specialty",
+      "components": [
+        {
+          "char": "拿",
+          "gloss": "take / handle"
+        },
+        {
+          "char": "手",
+          "gloss": "hand / skill"
+        }
+      ],
+      "explanation": "A lexicalized expression meaning something one is especially good at.",
+      "category": "Ideas",
+      "transparency": "lexicalized",
+      "priority": 72
+    },
+    {
+      "word": "脚下",
+      "pinyin": "jiǎoxià",
+      "meaning": "underfoot; beneath one's feet",
+      "components": [
+        {
+          "char": "脚",
+          "gloss": "foot"
+        },
+        {
+          "char": "下",
+          "gloss": "under"
+        }
+      ],
+      "explanation": "Under the feet → underfoot.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 70
+    },
+    {
+      "word": "雨天",
+      "pinyin": "yǔtiān",
+      "meaning": "rainy day",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "天",
+          "gloss": "day / weather"
+        }
+      ],
+      "explanation": "Rain + day/weather → rainy day.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 70
+    },
+    {
+      "word": "温水",
+      "pinyin": "wēnshuǐ",
+      "meaning": "warm water",
+      "components": [
+        {
+          "char": "温",
+          "gloss": "warm"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Warm + water → warm water.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 66
+    },
+    {
+      "word": "爱心",
+      "pinyin": "àixīn",
+      "meaning": "kindness; loving heart",
+      "components": [
+        {
+          "char": "爱",
+          "gloss": "love"
+        },
+        {
+          "char": "心",
+          "gloss": "heart"
+        }
+      ],
+      "explanation": "Love + heart → kindness or a caring heart.",
+      "category": "Feelings",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "写书",
+      "pinyin": "xiěshū",
+      "meaning": "write a book",
+      "components": [
+        {
+          "char": "写",
+          "gloss": "write"
+        },
+        {
+          "char": "书",
+          "gloss": "book"
+        }
+      ],
+      "explanation": "Write + book → write a book.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 62
+    },
+    {
+      "word": "冰水",
+      "pinyin": "bīngshuǐ",
+      "meaning": "ice water; cold water",
+      "components": [
+        {
+          "char": "冰",
+          "gloss": "ice"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "Ice + water → ice water.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 62
+    },
+    {
+      "word": "花心",
+      "pinyin": "huāxīn",
+      "meaning": "fickle in love; unfaithful",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "fickle / showy (extended sense)"
+        },
+        {
+          "char": "心",
+          "gloss": "heart"
+        }
+      ],
+      "explanation": "A lexicalized colloquial expression for being romantically fickle or unfaithful.",
+      "category": "Feelings",
+      "transparency": "lexicalized",
+      "priority": 62,
+      "note": "Useful colloquial word, but the modern meaning is not predictable from “flower + heart”."
+    },
+    {
+      "word": "双手",
+      "pinyin": "shuāngshǒu",
+      "meaning": "both hands",
+      "components": [
+        {
+          "char": "双",
+          "gloss": "pair / both"
+        },
+        {
+          "char": "手",
+          "gloss": "hands"
+        }
+      ],
+      "explanation": "Both + hands → both hands.",
+      "category": "Body",
+      "transparency": "direct",
+      "priority": 60
+    },
+    {
+      "word": "心意",
+      "pinyin": "xīnyì",
+      "meaning": "kind intention; thoughts",
+      "components": [
+        {
+          "char": "心",
+          "gloss": "heart / intention"
+        },
+        {
+          "char": "意",
+          "gloss": "idea / intention"
+        }
+      ],
+      "explanation": "What is in the heart and mind → one's intention or kind thought.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 60
+    },
+    {
+      "word": "火红",
+      "pinyin": "huǒhóng",
+      "meaning": "fiery red",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "红",
+          "gloss": "red"
+        }
+      ],
+      "explanation": "Fire + red → fiery red.",
+      "category": "Colors",
+      "transparency": "extended",
+      "priority": 58
+    },
+    {
+      "word": "电话",
+      "pinyin": "diànhuà",
+      "meaning": "telephone; phone call",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "话",
+          "gloss": "speech / call"
+        }
+      ],
+      "explanation": "electric / electricity + speech / call → telephone.",
+      "category": "Technology",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "电视",
+      "pinyin": "diànshì",
+      "meaning": "television; TV",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "视",
+          "gloss": "view / look"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “television,” but the connection is broader than a word-for-word translation.",
+      "category": "Technology",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "电影",
+      "pinyin": "diànyǐng",
+      "meaning": "movie; film",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "影",
+          "gloss": "image / shadow"
+        }
+      ],
+      "explanation": "This is an established expression meaning “movie.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Entertainment",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "电脑",
+      "pinyin": "diànnǎo",
+      "meaning": "computer",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "脑",
+          "gloss": "brain"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “computer,” but the connection is broader than a word-for-word translation.",
+      "category": "Technology",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "电灯",
+      "pinyin": "diàndēng",
+      "meaning": "electric light; lamp",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "灯",
+          "gloss": "light / lamp"
+        }
+      ],
+      "explanation": "electric / electricity + light / lamp → electric light.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "电梯",
+      "pinyin": "diàntī",
+      "meaning": "elevator; lift",
+      "components": [
+        {
+          "char": "电",
+          "gloss": "electric / electricity"
+        },
+        {
+          "char": "梯",
+          "gloss": "lift / ladder"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “elevator,” but the connection is broader than a word-for-word translation.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "电"
+      ]
+    },
+    {
+      "word": "用心",
+      "pinyin": "yòngxīn",
+      "meaning": "attentively; with care",
+      "components": [
+        {
+          "char": "用",
+          "gloss": "use / apply effort"
+        },
+        {
+          "char": "心",
+          "gloss": "heart / mind"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “attentively,” but the connection is broader than a word-for-word translation.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "心"
+      ]
+    },
+    {
+      "word": "口语",
+      "pinyin": "kǒuyǔ",
+      "meaning": "spoken language; speaking",
+      "components": [
+        {
+          "char": "口",
+          "gloss": "mouth / opening"
+        },
+        {
+          "char": "语",
+          "gloss": "speech / language"
+        }
+      ],
+      "explanation": "mouth / opening + speech / language → spoken language.",
+      "category": "Language",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "口袋",
+      "pinyin": "kǒudài",
+      "meaning": "pocket",
+      "components": [
+        {
+          "char": "口",
+          "gloss": "mouth / opening"
+        },
+        {
+          "char": "袋",
+          "gloss": "bag / pouch"
+        }
+      ],
+      "explanation": "This is an established expression meaning “pocket.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Daily life",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "入口",
+      "pinyin": "rùkǒu",
+      "meaning": "entrance",
+      "components": [
+        {
+          "char": "入",
+          "gloss": "enter"
+        },
+        {
+          "char": "口",
+          "gloss": "mouth / opening"
+        }
+      ],
+      "explanation": "enter + mouth / opening → entrance.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "口"
+      ]
+    },
+    {
+      "word": "水瓶",
+      "pinyin": "shuǐpíng",
+      "meaning": "water bottle; bottle",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water"
+        },
+        {
+          "char": "瓶",
+          "gloss": "bottle"
+        }
+      ],
+      "explanation": "water + bottle → water bottle.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "水"
+      ]
+    },
+    {
+      "word": "热水",
+      "pinyin": "rèshuǐ",
+      "meaning": "hot water",
+      "components": [
+        {
+          "char": "热",
+          "gloss": "hot"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "hot + water → hot water.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "水"
+      ]
+    },
+    {
+      "word": "冷水",
+      "pinyin": "lěngshuǐ",
+      "meaning": "cold water",
+      "components": [
+        {
+          "char": "冷",
+          "gloss": "cold"
+        },
+        {
+          "char": "水",
+          "gloss": "water"
+        }
+      ],
+      "explanation": "cold + water → cold water.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "水"
+      ]
+    },
+    {
+      "word": "水龙头",
+      "pinyin": "shuǐlóngtóu",
+      "meaning": "faucet; tap",
+      "components": [
+        {
+          "char": "水",
+          "gloss": "water"
+        },
+        {
+          "char": "龙",
+          "gloss": "dragon"
+        },
+        {
+          "char": "头",
+          "gloss": "head / end"
+        }
+      ],
+      "explanation": "This is an established expression meaning “faucet.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Home",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "水"
+      ]
+    },
+    {
+      "word": "火鸡",
+      "pinyin": "huǒjī",
+      "meaning": "turkey",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "鸡",
+          "gloss": "chicken"
+        }
+      ],
+      "explanation": "This is an established expression meaning “turkey.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Food & drink",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "火"
+      ]
+    },
+    {
+      "word": "火花",
+      "pinyin": "huǒhuā",
+      "meaning": "spark",
+      "components": [
+        {
+          "char": "火",
+          "gloss": "fire"
+        },
+        {
+          "char": "花",
+          "gloss": "flower"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “spark,” but the connection is broader than a word-for-word translation.",
+      "category": "Nature",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "火"
+      ]
+    },
+    {
+      "word": "上菜",
+      "pinyin": "shàngcài",
+      "meaning": "serve a dish; bring food to the table",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "up / onto"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “serve a dish,” but the connection is broader than a word-for-word translation.",
+      "category": "Food & drink",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "上药",
+      "pinyin": "shàngyào",
+      "meaning": "apply medicine",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "up / onto"
+        },
+        {
+          "char": "药",
+          "gloss": "medicine"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “apply medicine,” but the connection is broader than a word-for-word translation.",
+      "category": "Health",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "上热搜",
+      "pinyin": "shàngrèsōu",
+      "meaning": "make the trending searches; trend online",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "up / onto"
+        },
+        {
+          "char": "热",
+          "gloss": "hot"
+        },
+        {
+          "char": "搜",
+          "gloss": "search"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “make the trending searches,” but the connection is broader than a word-for-word translation.",
+      "category": "Internet",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "上周",
+      "pinyin": "shàngzhōu",
+      "meaning": "last week",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "up / onto"
+        },
+        {
+          "char": "周",
+          "gloss": "week"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “last week,” but the connection is broader than a word-for-word translation.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "上"
+      ]
+    },
+    {
+      "word": "书架",
+      "pinyin": "shūjià",
+      "meaning": "bookshelf; bookcase",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "架",
+          "gloss": "rack"
+        }
+      ],
+      "explanation": "book + rack → bookshelf.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书"
+      ]
+    },
+    {
+      "word": "书签",
+      "pinyin": "shūqiān",
+      "meaning": "bookmark",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "签",
+          "gloss": "label / marker"
+        }
+      ],
+      "explanation": "book + label / marker → bookmark.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书"
+      ]
+    },
+    {
+      "word": "书名",
+      "pinyin": "shūmíng",
+      "meaning": "book title",
+      "components": [
+        {
+          "char": "书",
+          "gloss": "book"
+        },
+        {
+          "char": "名",
+          "gloss": "name"
+        }
+      ],
+      "explanation": "book + name → book title.",
+      "category": "Books",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "书"
+      ]
+    },
+    {
+      "word": "牙线",
+      "pinyin": "yáxiàn",
+      "meaning": "dental floss",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "tooth"
+        },
+        {
+          "char": "线",
+          "gloss": "thread / line"
+        }
+      ],
+      "explanation": "tooth + thread / line → dental floss.",
+      "category": "Health",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "牙签",
+      "pinyin": "yáqiān",
+      "meaning": "toothpick",
+      "components": [
+        {
+          "char": "牙",
+          "gloss": "tooth"
+        },
+        {
+          "char": "签",
+          "gloss": "label / marker"
+        }
+      ],
+      "explanation": "tooth + label / marker → toothpick.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "牙"
+      ]
+    },
+    {
+      "word": "雨鞋",
+      "pinyin": "yǔxié",
+      "meaning": "rain boots",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "鞋",
+          "gloss": "shoe"
+        }
+      ],
+      "explanation": "rain + shoe → rain boots.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "雨季",
+      "pinyin": "yǔjì",
+      "meaning": "rainy season",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "季",
+          "gloss": "season"
+        }
+      ],
+      "explanation": "rain + season → rainy season.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "雨滴",
+      "pinyin": "yǔdī",
+      "meaning": "raindrop",
+      "components": [
+        {
+          "char": "雨",
+          "gloss": "rain"
+        },
+        {
+          "char": "滴",
+          "gloss": "drop"
+        }
+      ],
+      "explanation": "rain + drop → raindrop.",
+      "category": "Weather",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "雨"
+      ]
+    },
+    {
+      "word": "花盆",
+      "pinyin": "huāpén",
+      "meaning": "flowerpot",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flower"
+        },
+        {
+          "char": "盆",
+          "gloss": "pot / basin"
+        }
+      ],
+      "explanation": "flower + pot / basin → flowerpot.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "花茶",
+      "pinyin": "huāchá",
+      "meaning": "flower tea; scented tea",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flower"
+        },
+        {
+          "char": "茶",
+          "gloss": "tea"
+        }
+      ],
+      "explanation": "flower + tea → flower tea.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "花香",
+      "pinyin": "huāxiāng",
+      "meaning": "floral fragrance",
+      "components": [
+        {
+          "char": "花",
+          "gloss": "flower"
+        },
+        {
+          "char": "香",
+          "gloss": "fragrance"
+        }
+      ],
+      "explanation": "flower + fragrance → floral fragrance.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "花"
+      ]
+    },
+    {
+      "word": "果酱",
+      "pinyin": "guǒjiàng",
+      "meaning": "jam; fruit preserve",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "fruit"
+        },
+        {
+          "char": "酱",
+          "gloss": "sauce / paste"
+        }
+      ],
+      "explanation": "fruit + sauce / paste → jam.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "果"
+      ]
+    },
+    {
+      "word": "果冻",
+      "pinyin": "guǒdòng",
+      "meaning": "jelly; gelatin dessert",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "fruit"
+        },
+        {
+          "char": "冻",
+          "gloss": "frozen / jelly"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “jelly,” but the connection is broader than a word-for-word translation.",
+      "category": "Food & drink",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "果"
+      ]
+    },
+    {
+      "word": "果皮",
+      "pinyin": "guǒpí",
+      "meaning": "fruit peel; skin",
+      "components": [
+        {
+          "char": "果",
+          "gloss": "fruit"
+        },
+        {
+          "char": "皮",
+          "gloss": "skin / peel"
+        }
+      ],
+      "explanation": "fruit + skin / peel → fruit peel.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "果"
+      ]
+    },
+    {
+      "word": "海底",
+      "pinyin": "hǎidǐ",
+      "meaning": "seabed; bottom of the sea",
+      "components": [
+        {
+          "char": "海",
+          "gloss": "sea"
+        },
+        {
+          "char": "底",
+          "gloss": "bottom"
+        }
+      ],
+      "explanation": "sea + bottom → seabed.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "海"
+      ]
+    },
+    {
+      "word": "公交车",
+      "pinyin": "gōngjiāochē",
+      "meaning": "public bus",
+      "components": [
+        {
+          "char": "公",
+          "gloss": "public"
+        },
+        {
+          "char": "交",
+          "gloss": "transport / connect"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “public bus,” but the connection is broader than a word-for-word translation.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "车站",
+      "pinyin": "chēzhàn",
+      "meaning": "station; bus/train station",
+      "components": [
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        },
+        {
+          "char": "站",
+          "gloss": "station"
+        }
+      ],
+      "explanation": "vehicle + station → station.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "车票",
+      "pinyin": "chēpiào",
+      "meaning": "vehicle/train/bus ticket",
+      "components": [
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        },
+        {
+          "char": "票",
+          "gloss": "ticket"
+        }
+      ],
+      "explanation": "vehicle + ticket → vehicle/train/bus ticket.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "坐车",
+      "pinyin": "zuòchē",
+      "meaning": "ride in a vehicle; take transport",
+      "components": [
+        {
+          "char": "坐",
+          "gloss": "ride / sit"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “ride in a vehicle,” but the connection is broader than a word-for-word translation.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "打车",
+      "pinyin": "dǎchē",
+      "meaning": "take/hail a taxi",
+      "components": [
+        {
+          "char": "打",
+          "gloss": "take / hail"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        }
+      ],
+      "explanation": "This is an established expression meaning “take/hail a taxi.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Transport",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "停车场",
+      "pinyin": "tíngchēchǎng",
+      "meaning": "parking lot; car park",
+      "components": [
+        {
+          "char": "停",
+          "gloss": "park / stop"
+        },
+        {
+          "char": "车",
+          "gloss": "vehicle"
+        },
+        {
+          "char": "场",
+          "gloss": "place / area"
+        }
+      ],
+      "explanation": "park / stop + vehicle + place / area → parking lot.",
+      "category": "Transport",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "车"
+      ]
+    },
+    {
+      "word": "省钱",
+      "pinyin": "shěngqián",
+      "meaning": "save money",
+      "components": [
+        {
+          "char": "省",
+          "gloss": "save"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "save + money → save money.",
+      "category": "Money",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "存钱",
+      "pinyin": "cúnqián",
+      "meaning": "save/deposit money",
+      "components": [
+        {
+          "char": "存",
+          "gloss": "save / deposit"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "save / deposit + money → save/deposit money.",
+      "category": "Money",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "付钱",
+      "pinyin": "fùqián",
+      "meaning": "pay money",
+      "components": [
+        {
+          "char": "付",
+          "gloss": "pay"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "pay + money → pay money.",
+      "category": "Money",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "零钱",
+      "pinyin": "língqián",
+      "meaning": "small change; loose change",
+      "components": [
+        {
+          "char": "零",
+          "gloss": "small / loose"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “small change,” but the connection is broader than a word-for-word translation.",
+      "category": "Money",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "多少钱",
+      "pinyin": "duōshaoqián",
+      "meaning": "how much money?; how much does it cost?",
+      "components": [
+        {
+          "char": "多",
+          "gloss": "how much / many"
+        },
+        {
+          "char": "少",
+          "gloss": "little / few"
+        },
+        {
+          "char": "钱",
+          "gloss": "money"
+        }
+      ],
+      "explanation": "how much / many + little / few + money → how much money?.",
+      "category": "Money",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "钱"
+      ]
+    },
+    {
+      "word": "房子",
+      "pinyin": "fángzi",
+      "meaning": "house; home",
+      "components": [
+        {
+          "char": "房",
+          "gloss": "house / room"
+        },
+        {
+          "char": "子",
+          "gloss": "noun ending"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “house,” but the connection is broader than a word-for-word translation.",
+      "category": "Home",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "房间",
+      "pinyin": "fángjiān",
+      "meaning": "room",
+      "components": [
+        {
+          "char": "房",
+          "gloss": "house / room"
+        },
+        {
+          "char": "间",
+          "gloss": "room / space"
+        }
+      ],
+      "explanation": "house / room + room / space → room.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "厨房",
+      "pinyin": "chúfáng",
+      "meaning": "kitchen",
+      "components": [
+        {
+          "char": "厨",
+          "gloss": "kitchen"
+        },
+        {
+          "char": "房",
+          "gloss": "house / room"
+        }
+      ],
+      "explanation": "kitchen + house / room → kitchen.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "房东",
+      "pinyin": "fángdōng",
+      "meaning": "landlord",
+      "components": [
+        {
+          "char": "房",
+          "gloss": "house / room"
+        },
+        {
+          "char": "东",
+          "gloss": "owner (in 房东)"
+        }
+      ],
+      "explanation": "This is an established expression meaning “landlord.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Home",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "租房",
+      "pinyin": "zūfáng",
+      "meaning": "rent a home/room",
+      "components": [
+        {
+          "char": "租",
+          "gloss": "rent"
+        },
+        {
+          "char": "房",
+          "gloss": "house / room"
+        }
+      ],
+      "explanation": "rent + house / room → rent a home/room.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "房租",
+      "pinyin": "fángzū",
+      "meaning": "rent; housing rent",
+      "components": [
+        {
+          "char": "房",
+          "gloss": "house / room"
+        },
+        {
+          "char": "租",
+          "gloss": "rent"
+        }
+      ],
+      "explanation": "house / room + rent → rent.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "房"
+      ]
+    },
+    {
+      "word": "毛衣",
+      "pinyin": "máoyī",
+      "meaning": "sweater; woollen sweater",
+      "components": [
+        {
+          "char": "毛",
+          "gloss": "wool"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        }
+      ],
+      "explanation": "wool + clothing → sweater.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "睡衣",
+      "pinyin": "shuìyī",
+      "meaning": "pajamas; sleepwear",
+      "components": [
+        {
+          "char": "睡",
+          "gloss": "sleep"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        }
+      ],
+      "explanation": "sleep + clothing → pajamas.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "上衣",
+      "pinyin": "shàngyī",
+      "meaning": "top; upper garment",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "up / onto"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        }
+      ],
+      "explanation": "up / onto + clothing → top.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "卫衣",
+      "pinyin": "wèiyī",
+      "meaning": "sweatshirt; hoodie",
+      "components": [
+        {
+          "char": "卫",
+          "gloss": "sweatshirt element"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        }
+      ],
+      "explanation": "This is an established expression meaning “sweatshirt.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Clothing",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "衣柜",
+      "pinyin": "yīguì",
+      "meaning": "wardrobe; clothes closet",
+      "components": [
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        },
+        {
+          "char": "柜",
+          "gloss": "cabinet"
+        }
+      ],
+      "explanation": "clothing + cabinet → wardrobe.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "洗衣机",
+      "pinyin": "xǐyījī",
+      "meaning": "washing machine",
+      "components": [
+        {
+          "char": "洗",
+          "gloss": "wash"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        },
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        }
+      ],
+      "explanation": "wash + clothing + machine / device → washing machine.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣",
+        "机"
+      ]
+    },
+    {
+      "word": "试衣间",
+      "pinyin": "shìyījiān",
+      "meaning": "fitting room",
+      "components": [
+        {
+          "char": "试",
+          "gloss": "try"
+        },
+        {
+          "char": "衣",
+          "gloss": "clothing"
+        },
+        {
+          "char": "间",
+          "gloss": "room / space"
+        }
+      ],
+      "explanation": "try + clothing + room / space → fitting room.",
+      "category": "Shopping",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "衣"
+      ]
+    },
+    {
+      "word": "米饭",
+      "pinyin": "mǐfàn",
+      "meaning": "cooked rice",
+      "components": [
+        {
+          "char": "米",
+          "gloss": "rice"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        }
+      ],
+      "explanation": "rice + meal / cooked rice → cooked rice.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "做饭",
+      "pinyin": "zuòfàn",
+      "meaning": "cook; prepare a meal",
+      "components": [
+        {
+          "char": "做",
+          "gloss": "make / cook"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “cook,” but the connection is broader than a word-for-word translation.",
+      "category": "Food & drink",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "早饭",
+      "pinyin": "zǎofàn",
+      "meaning": "breakfast",
+      "components": [
+        {
+          "char": "早",
+          "gloss": "morning / early"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        }
+      ],
+      "explanation": "morning / early + meal / cooked rice → breakfast.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "午饭",
+      "pinyin": "wǔfàn",
+      "meaning": "lunch",
+      "components": [
+        {
+          "char": "午",
+          "gloss": "noon"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        }
+      ],
+      "explanation": "noon + meal / cooked rice → lunch.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "晚饭",
+      "pinyin": "wǎnfàn",
+      "meaning": "dinner; evening meal",
+      "components": [
+        {
+          "char": "晚",
+          "gloss": "evening / late"
+        },
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        }
+      ],
+      "explanation": "evening / late + meal / cooked rice → dinner.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "饭菜",
+      "pinyin": "fàncài",
+      "meaning": "meal; food and dishes",
+      "components": [
+        {
+          "char": "饭",
+          "gloss": "meal / cooked rice"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "meal / cooked rice + dish / food → meal.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "饭"
+      ]
+    },
+    {
+      "word": "菜单",
+      "pinyin": "càidān",
+      "meaning": "menu",
+      "components": [
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        },
+        {
+          "char": "单",
+          "gloss": "list"
+        }
+      ],
+      "explanation": "dish / food + list → menu.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "点菜",
+      "pinyin": "diǎncài",
+      "meaning": "order dishes",
+      "components": [
+        {
+          "char": "点",
+          "gloss": "order / select"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “order dishes,” but the connection is broader than a word-for-word translation.",
+      "category": "Food & drink",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "买菜",
+      "pinyin": "mǎicài",
+      "meaning": "buy groceries/vegetables",
+      "components": [
+        {
+          "char": "买",
+          "gloss": "buy"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "buy + dish / food → buy groceries/vegetables.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "做菜",
+      "pinyin": "zuòcài",
+      "meaning": "cook dishes",
+      "components": [
+        {
+          "char": "做",
+          "gloss": "make / cook"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "make / cook + dish / food → cook dishes.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "蔬菜",
+      "pinyin": "shūcài",
+      "meaning": "vegetables",
+      "components": [
+        {
+          "char": "蔬",
+          "gloss": "vegetable"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “vegetables,” but the connection is broader than a word-for-word translation.",
+      "category": "Food & drink",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "白菜",
+      "pinyin": "báicài",
+      "meaning": "Chinese cabbage",
+      "components": [
+        {
+          "char": "白",
+          "gloss": "white"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "white + dish / food → Chinese cabbage.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "青菜",
+      "pinyin": "qīngcài",
+      "meaning": "green vegetables; leafy greens",
+      "components": [
+        {
+          "char": "青",
+          "gloss": "green"
+        },
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        }
+      ],
+      "explanation": "green + dish / food → green vegetables.",
+      "category": "Food & drink",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "菜市场",
+      "pinyin": "càishìchǎng",
+      "meaning": "food market; produce market",
+      "components": [
+        {
+          "char": "菜",
+          "gloss": "dish / food"
+        },
+        {
+          "char": "市",
+          "gloss": "market"
+        },
+        {
+          "char": "场",
+          "gloss": "place / area"
+        }
+      ],
+      "explanation": "dish / food + market + place / area → food market.",
+      "category": "Shopping",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "菜"
+      ]
+    },
+    {
+      "word": "学生",
+      "pinyin": "xuésheng",
+      "meaning": "student",
+      "components": [
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        },
+        {
+          "char": "生",
+          "gloss": "person / learner"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “student,” but the connection is broader than a word-for-word translation.",
+      "category": "School",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "学校",
+      "pinyin": "xuéxiào",
+      "meaning": "school",
+      "components": [
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        },
+        {
+          "char": "校",
+          "gloss": "school"
+        }
+      ],
+      "explanation": "This is an established expression meaning “school.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "School",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "学习",
+      "pinyin": "xuéxí",
+      "meaning": "study; learn",
+      "components": [
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        },
+        {
+          "char": "习",
+          "gloss": "practice"
+        }
+      ],
+      "explanation": "study / learning + practice → study.",
+      "category": "School",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "同学",
+      "pinyin": "tóngxué",
+      "meaning": "classmate",
+      "components": [
+        {
+          "char": "同",
+          "gloss": "same / together"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “classmate,” but the connection is broader than a word-for-word translation.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "放学",
+      "pinyin": "fàngxué",
+      "meaning": "school finishes; finish school for the day",
+      "components": [
+        {
+          "char": "放",
+          "gloss": "finish / release"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “school finishes,” but the connection is broader than a word-for-word translation.",
+      "category": "School",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "小学",
+      "pinyin": "xiǎoxué",
+      "meaning": "primary/elementary school",
+      "components": [
+        {
+          "char": "小",
+          "gloss": "small / primary"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "small / primary + study / learning → primary/elementary school.",
+      "category": "School",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "中学",
+      "pinyin": "zhōngxué",
+      "meaning": "middle/secondary school",
+      "components": [
+        {
+          "char": "中",
+          "gloss": "middle"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "middle + study / learning → middle/secondary school.",
+      "category": "School",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "大学",
+      "pinyin": "dàxué",
+      "meaning": "university; college",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big / higher"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “university,” but the connection is broader than a word-for-word translation.",
+      "category": "School",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "留学",
+      "pinyin": "liúxué",
+      "meaning": "study abroad",
+      "components": [
+        {
+          "char": "留",
+          "gloss": "stay / abroad study"
+        },
+        {
+          "char": "学",
+          "gloss": "study / learning"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “study abroad,” but the connection is broader than a word-for-word translation.",
+      "category": "School",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "学"
+      ]
+    },
+    {
+      "word": "家人",
+      "pinyin": "jiārén",
+      "meaning": "family member(s)",
+      "components": [
+        {
+          "char": "家",
+          "gloss": "home / family"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "home / family + person → family member(s).",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人",
+        "家"
+      ]
+    },
+    {
+      "word": "老人",
+      "pinyin": "lǎorén",
+      "meaning": "elderly person; old person",
+      "components": [
+        {
+          "char": "老",
+          "gloss": "old / elder"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "old / elder + person → elderly person.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "大人",
+      "pinyin": "dàrén",
+      "meaning": "adult",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big / higher"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “adult,” but the connection is broader than a word-for-word translation.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "主人",
+      "pinyin": "zhǔrén",
+      "meaning": "host; owner; master",
+      "components": [
+        {
+          "char": "主",
+          "gloss": "host / owner"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "host / owner + person → host.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "客人",
+      "pinyin": "kèrén",
+      "meaning": "guest; customer",
+      "components": [
+        {
+          "char": "客",
+          "gloss": "guest"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "guest + person → guest.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "别人",
+      "pinyin": "biérén",
+      "meaning": "other people; someone else",
+      "components": [
+        {
+          "char": "别",
+          "gloss": "other"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “other people,” but the connection is broader than a word-for-word translation.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "中国人",
+      "pinyin": "Zhōngguórén",
+      "meaning": "Chinese person; Chinese people",
+      "components": [
+        {
+          "char": "中",
+          "gloss": "middle"
+        },
+        {
+          "char": "国",
+          "gloss": "country"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "middle + country + person → Chinese person.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "外国人",
+      "pinyin": "wàiguórén",
+      "meaning": "foreigner",
+      "components": [
+        {
+          "char": "外",
+          "gloss": "outside / foreign"
+        },
+        {
+          "char": "国",
+          "gloss": "country"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "outside / foreign + country + person → foreigner.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "人"
+      ]
+    },
+    {
+      "word": "昨天",
+      "pinyin": "zuótiān",
+      "meaning": "yesterday",
+      "components": [
+        {
+          "char": "昨",
+          "gloss": "previous day"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “yesterday,” but the connection is broader than a word-for-word translation.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "今天",
+      "pinyin": "jīntiān",
+      "meaning": "today",
+      "components": [
+        {
+          "char": "今",
+          "gloss": "present day"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “today,” but the connection is broader than a word-for-word translation.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "明天",
+      "pinyin": "míngtiān",
+      "meaning": "tomorrow",
+      "components": [
+        {
+          "char": "明",
+          "gloss": "next day"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “tomorrow,” but the connection is broader than a word-for-word translation.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "每天",
+      "pinyin": "měitiān",
+      "meaning": "every day",
+      "components": [
+        {
+          "char": "每",
+          "gloss": "every"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "every + day → every day.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "天气",
+      "pinyin": "tiānqì",
+      "meaning": "weather",
+      "components": [
+        {
+          "char": "天",
+          "gloss": "day"
+        },
+        {
+          "char": "气",
+          "gloss": "air / weather"
+        }
+      ],
+      "explanation": "This is an established expression meaning “weather.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Weather",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "春天",
+      "pinyin": "chūntiān",
+      "meaning": "spring",
+      "components": [
+        {
+          "char": "春",
+          "gloss": "spring"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "spring + day → spring.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "夏天",
+      "pinyin": "xiàtiān",
+      "meaning": "summer",
+      "components": [
+        {
+          "char": "夏",
+          "gloss": "summer"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "summer + day → summer.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "秋天",
+      "pinyin": "qiūtiān",
+      "meaning": "autumn; fall",
+      "components": [
+        {
+          "char": "秋",
+          "gloss": "autumn"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "autumn + day → autumn.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "冬天",
+      "pinyin": "dōngtiān",
+      "meaning": "winter",
+      "components": [
+        {
+          "char": "冬",
+          "gloss": "winter"
+        },
+        {
+          "char": "天",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "winter + day → winter.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "天"
+      ]
+    },
+    {
+      "word": "下班",
+      "pinyin": "xiàbān",
+      "meaning": "finish work; get off work",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "down / off / after"
+        },
+        {
+          "char": "班",
+          "gloss": "work shift"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “finish work,” but the connection is broader than a word-for-word translation.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "楼下",
+      "pinyin": "lóuxià",
+      "meaning": "downstairs; below the building/floor",
+      "components": [
+        {
+          "char": "楼",
+          "gloss": "building / floor"
+        },
+        {
+          "char": "下",
+          "gloss": "down / off / after"
+        }
+      ],
+      "explanation": "building / floor + down / off / after → downstairs.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "下"
+      ]
+    },
+    {
+      "word": "回家",
+      "pinyin": "huíjiā",
+      "meaning": "go/come home",
+      "components": [
+        {
+          "char": "回",
+          "gloss": "return"
+        },
+        {
+          "char": "家",
+          "gloss": "home / family"
+        }
+      ],
+      "explanation": "return + home / family → go/come home.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "在家",
+      "pinyin": "zàijiā",
+      "meaning": "be at home",
+      "components": [
+        {
+          "char": "在",
+          "gloss": "at / be in"
+        },
+        {
+          "char": "家",
+          "gloss": "home / family"
+        }
+      ],
+      "explanation": "at / be in + home / family → be at home.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "家里",
+      "pinyin": "jiālǐ",
+      "meaning": "at home; in the house",
+      "components": [
+        {
+          "char": "家",
+          "gloss": "home / family"
+        },
+        {
+          "char": "里",
+          "gloss": "inside"
+        }
+      ],
+      "explanation": "home / family + inside → at home.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "老家",
+      "pinyin": "lǎojiā",
+      "meaning": "hometown; family home",
+      "components": [
+        {
+          "char": "老",
+          "gloss": "old / elder"
+        },
+        {
+          "char": "家",
+          "gloss": "home / family"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “hometown,” but the connection is broader than a word-for-word translation.",
+      "category": "Home",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "大家",
+      "pinyin": "dàjiā",
+      "meaning": "everyone; everybody",
+      "components": [
+        {
+          "char": "大",
+          "gloss": "big / higher"
+        },
+        {
+          "char": "家",
+          "gloss": "home / family"
+        }
+      ],
+      "explanation": "This is an established expression meaning “everyone.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "People",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "搬家",
+      "pinyin": "bānjiā",
+      "meaning": "move house",
+      "components": [
+        {
+          "char": "搬",
+          "gloss": "move"
+        },
+        {
+          "char": "家",
+          "gloss": "home / family"
+        }
+      ],
+      "explanation": "move + home / family → move house.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "家庭",
+      "pinyin": "jiātíng",
+      "meaning": "family; household",
+      "components": [
+        {
+          "char": "家",
+          "gloss": "home / family"
+        },
+        {
+          "char": "庭",
+          "gloss": "household / courtyard"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “family,” but the connection is broader than a word-for-word translation.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "家"
+      ]
+    },
+    {
+      "word": "出门",
+      "pinyin": "chūmén",
+      "meaning": "go out; leave home",
+      "components": [
+        {
+          "char": "出",
+          "gloss": "go out"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "go out + door → go out.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "进门",
+      "pinyin": "jìnmén",
+      "meaning": "enter; come through the door",
+      "components": [
+        {
+          "char": "进",
+          "gloss": "enter"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "enter + door → enter.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "敲门",
+      "pinyin": "qiāomén",
+      "meaning": "knock on the door",
+      "components": [
+        {
+          "char": "敲",
+          "gloss": "knock"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "knock + door → knock on the door.",
+      "category": "Daily life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "门铃",
+      "pinyin": "ménlíng",
+      "meaning": "doorbell",
+      "components": [
+        {
+          "char": "门",
+          "gloss": "door"
+        },
+        {
+          "char": "铃",
+          "gloss": "bell"
+        }
+      ],
+      "explanation": "door + bell → doorbell.",
+      "category": "Home",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "门票",
+      "pinyin": "ménpiào",
+      "meaning": "admission ticket",
+      "components": [
+        {
+          "char": "门",
+          "gloss": "door"
+        },
+        {
+          "char": "票",
+          "gloss": "ticket"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “admission ticket,” but the connection is broader than a word-for-word translation.",
+      "category": "Travel",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "串门",
+      "pinyin": "chuànmén",
+      "meaning": "visit someone at their home",
+      "components": [
+        {
+          "char": "串",
+          "gloss": "visit around"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "This is an established expression meaning “visit someone at their home.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Social",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "没门",
+      "pinyin": "méimén",
+      "meaning": "no way!; impossible",
+      "components": [
+        {
+          "char": "没",
+          "gloss": "no / not have"
+        },
+        {
+          "char": "门",
+          "gloss": "door"
+        }
+      ],
+      "explanation": "This is an established expression meaning “no way!.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Expressions",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "门"
+      ]
+    },
+    {
+      "word": "路边",
+      "pinyin": "lùbiān",
+      "meaning": "roadside; by the road",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road / way"
+        },
+        {
+          "char": "边",
+          "gloss": "side"
+        }
+      ],
+      "explanation": "road / way + side → roadside.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "问路",
+      "pinyin": "wènlù",
+      "meaning": "ask for directions",
+      "components": [
+        {
+          "char": "问",
+          "gloss": "ask"
+        },
+        {
+          "char": "路",
+          "gloss": "road / way"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “ask for directions,” but the connection is broader than a word-for-word translation.",
+      "category": "Travel",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "迷路",
+      "pinyin": "mílù",
+      "meaning": "get lost",
+      "components": [
+        {
+          "char": "迷",
+          "gloss": "lose the way"
+        },
+        {
+          "char": "路",
+          "gloss": "road / way"
+        }
+      ],
+      "explanation": "This is an established expression meaning “get lost.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Travel",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "路过",
+      "pinyin": "lùguò",
+      "meaning": "pass by; pass through",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road / way"
+        },
+        {
+          "char": "过",
+          "gloss": "pass"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “pass by,” but the connection is broader than a word-for-word translation.",
+      "category": "Travel",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "路灯",
+      "pinyin": "lùdēng",
+      "meaning": "streetlight",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road / way"
+        },
+        {
+          "char": "灯",
+          "gloss": "light / lamp"
+        }
+      ],
+      "explanation": "road / way + light / lamp → streetlight.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "路人",
+      "pinyin": "lùrén",
+      "meaning": "passerby",
+      "components": [
+        {
+          "char": "路",
+          "gloss": "road / way"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "road / way + person → passerby.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "路"
+      ]
+    },
+    {
+      "word": "药店",
+      "pinyin": "yàodiàn",
+      "meaning": "pharmacy; drugstore",
+      "components": [
+        {
+          "char": "药",
+          "gloss": "medicine"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "medicine + shop → pharmacy.",
+      "category": "Shopping",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "咖啡店",
+      "pinyin": "kāfēidiàn",
+      "meaning": "coffee shop; café",
+      "components": [
+        {
+          "char": "咖",
+          "gloss": "coffee sound"
+        },
+        {
+          "char": "啡",
+          "gloss": "coffee sound"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "coffee sound + coffee sound + shop → coffee shop.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "便利店",
+      "pinyin": "biànlìdiàn",
+      "meaning": "convenience store",
+      "components": [
+        {
+          "char": "便",
+          "gloss": "convenient"
+        },
+        {
+          "char": "利",
+          "gloss": "convenient / beneficial"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "convenient + convenient / beneficial + shop → convenience store.",
+      "category": "Shopping",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "网店",
+      "pinyin": "wǎngdiàn",
+      "meaning": "online shop",
+      "components": [
+        {
+          "char": "网",
+          "gloss": "web / online"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "web / online + shop → online shop.",
+      "category": "Shopping",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "店里",
+      "pinyin": "diànlǐ",
+      "meaning": "in/inside the shop",
+      "components": [
+        {
+          "char": "店",
+          "gloss": "shop"
+        },
+        {
+          "char": "里",
+          "gloss": "inside"
+        }
+      ],
+      "explanation": "shop + inside → in/inside the shop.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "开店",
+      "pinyin": "kāidiàn",
+      "meaning": "open or run a shop",
+      "components": [
+        {
+          "char": "开",
+          "gloss": "open / start"
+        },
+        {
+          "char": "店",
+          "gloss": "shop"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “open or run a shop,” but the connection is broader than a word-for-word translation.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "店"
+      ]
+    },
+    {
+      "word": "相机",
+      "pinyin": "xiàngjī",
+      "meaning": "camera",
+      "components": [
+        {
+          "char": "相",
+          "gloss": "image / photo"
+        },
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        }
+      ],
+      "explanation": "This is an established expression meaning “camera.” Learn the whole expression rather than forcing a literal character-by-character translation.",
+      "category": "Technology",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "机票",
+      "pinyin": "jīpiào",
+      "meaning": "plane ticket",
+      "components": [
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        },
+        {
+          "char": "票",
+          "gloss": "ticket"
+        }
+      ],
+      "explanation": "The character meanings point toward the modern sense “plane ticket,” but the connection is broader than a word-for-word translation.",
+      "category": "Travel",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "机器人",
+      "pinyin": "jīqìrén",
+      "meaning": "robot",
+      "components": [
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        },
+        {
+          "char": "器",
+          "gloss": "device"
+        },
+        {
+          "char": "人",
+          "gloss": "person"
+        }
+      ],
+      "explanation": "machine / device + device + person → robot.",
+      "category": "Technology",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "打印机",
+      "pinyin": "dǎyìnjī",
+      "meaning": "printer",
+      "components": [
+        {
+          "char": "打",
+          "gloss": "take / hail"
+        },
+        {
+          "char": "印",
+          "gloss": "print"
+        },
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        }
+      ],
+      "explanation": "take / hail + print + machine / device → printer.",
+      "category": "Technology",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "吹风机",
+      "pinyin": "chuīfēngjī",
+      "meaning": "hair dryer",
+      "components": [
+        {
+          "char": "吹",
+          "gloss": "blow"
+        },
+        {
+          "char": "风",
+          "gloss": "wind"
+        },
+        {
+          "char": "机",
+          "gloss": "machine / device"
+        }
+      ],
+      "explanation": "blow + wind + machine / device → hair dryer.",
+      "category": "Technology",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "机"
+      ]
+    },
+    {
+      "word": "手写",
+      "pinyin": "shǒuxiě",
+      "meaning": "handwritten; write by hand",
+      "components": [
+        {
+          "char": "手",
+          "gloss": "hand"
+        },
+        {
+          "char": "写",
+          "gloss": "write"
+        }
+      ],
+      "explanation": "Write with the hand → write by hand; handwritten.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "手"
+      ]
+    },
+    {
+      "word": "向后",
+      "pinyin": "xiànghòu",
+      "meaning": "backward; toward the back",
+      "components": [
+        {
+          "char": "向",
+          "gloss": "toward"
+        },
+        {
+          "char": "后",
+          "gloss": "back"
+        }
+      ],
+      "explanation": "Toward the back → backward.",
+      "category": "Direction",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "后排",
+      "pinyin": "hòupái",
+      "meaning": "back row; rear row",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "rear / back"
+        },
+        {
+          "char": "排",
+          "gloss": "row"
+        }
+      ],
+      "explanation": "The row at the back → back row.",
+      "category": "Position",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "后备箱",
+      "pinyin": "hòubèixiāng",
+      "meaning": "car trunk; boot",
+      "components": [
+        {
+          "char": "后",
+          "gloss": "rear"
+        },
+        {
+          "char": "备",
+          "gloss": "reserve / storage"
+        },
+        {
+          "char": "箱",
+          "gloss": "box / compartment"
+        }
+      ],
+      "explanation": "A storage compartment at the rear of a car → the trunk / boot.",
+      "category": "Transport",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "后"
+      ]
+    },
+    {
+      "word": "向前",
+      "pinyin": "xiàngqián",
+      "meaning": "forward; toward the front",
+      "components": [
+        {
+          "char": "向",
+          "gloss": "toward"
+        },
+        {
+          "char": "前",
+          "gloss": "front"
+        }
+      ],
+      "explanation": "Toward the front → forward.",
+      "category": "Direction",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "前台",
+      "pinyin": "qiántái",
+      "meaning": "front desk; reception",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "front"
+        },
+        {
+          "char": "台",
+          "gloss": "counter / platform"
+        }
+      ],
+      "explanation": "The counter at the front → front desk / reception.",
+      "category": "Places",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "目前",
+      "pinyin": "mùqián",
+      "meaning": "currently; at present",
+      "components": [
+        {
+          "char": "目",
+          "gloss": "eye"
+        },
+        {
+          "char": "前",
+          "gloss": "before / in front"
+        }
+      ],
+      "explanation": "Literally “before the eyes”; in modern Chinese 目前 means at present / currently.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "前女友",
+      "pinyin": "qián nǚyǒu",
+      "meaning": "ex-girlfriend",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "former"
+        },
+        {
+          "char": "女",
+          "gloss": "female"
+        },
+        {
+          "char": "友",
+          "gloss": "friend"
+        }
+      ],
+      "explanation": "前 marks a previous/former relationship; 女友 means girlfriend → ex-girlfriend.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "前男友",
+      "pinyin": "qián nányǒu",
+      "meaning": "ex-boyfriend",
+      "components": [
+        {
+          "char": "前",
+          "gloss": "former"
+        },
+        {
+          "char": "男",
+          "gloss": "male"
+        },
+        {
+          "char": "友",
+          "gloss": "friend"
+        }
+      ],
+      "explanation": "前 marks a previous/former relationship; 男友 means boyfriend → ex-boyfriend.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "前"
+      ]
+    },
+    {
+      "word": "日出",
+      "pinyin": "rìchū",
+      "meaning": "sunrise",
+      "components": [
+        {
+          "char": "日",
+          "gloss": "sun"
+        },
+        {
+          "char": "出",
+          "gloss": "come out / emerge"
+        }
+      ],
+      "explanation": "The sun comes out → sunrise.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "日落",
+      "pinyin": "rìluò",
+      "meaning": "sunset",
+      "components": [
+        {
+          "char": "日",
+          "gloss": "sun"
+        },
+        {
+          "char": "落",
+          "gloss": "fall / set"
+        }
+      ],
+      "explanation": "The sun sets → sunset.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "生日",
+      "pinyin": "shēngrì",
+      "meaning": "birthday",
+      "components": [
+        {
+          "char": "生",
+          "gloss": "birth / be born"
+        },
+        {
+          "char": "日",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "The day of one’s birth → birthday.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "节日",
+      "pinyin": "jiérì",
+      "meaning": "festival; holiday",
+      "components": [
+        {
+          "char": "节",
+          "gloss": "festival / holiday"
+        },
+        {
+          "char": "日",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "A festival or special day → festival / holiday.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "工作日",
+      "pinyin": "gōngzuòrì",
+      "meaning": "workday; weekday",
+      "components": [
+        {
+          "char": "工",
+          "gloss": "work"
+        },
+        {
+          "char": "作",
+          "gloss": "do / work"
+        },
+        {
+          "char": "日",
+          "gloss": "day"
+        }
+      ],
+      "explanation": "工作 means work; 日 means day → a working day / weekday.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "星期日",
+      "pinyin": "xīngqīrì",
+      "meaning": "Sunday",
+      "components": [
+        {
+          "char": "星",
+          "gloss": "star (part of 星期)"
+        },
+        {
+          "char": "期",
+          "gloss": "period (part of 星期)"
+        },
+        {
+          "char": "日",
+          "gloss": "day / sun"
+        }
+      ],
+      "explanation": "星期 means week; 星期日 is the day called Sunday. Learn 星期 as a unit rather than forcing 星 + 期 literally.",
+      "category": "Time",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "日历",
+      "pinyin": "rìlì",
+      "meaning": "calendar",
+      "components": [
+        {
+          "char": "日",
+          "gloss": "day"
+        },
+        {
+          "char": "历",
+          "gloss": "calendar / chronology"
+        }
+      ],
+      "explanation": "A system or record of days → calendar.",
+      "category": "Objects",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "日记",
+      "pinyin": "rìjì",
+      "meaning": "diary; journal",
+      "components": [
+        {
+          "char": "日",
+          "gloss": "day"
+        },
+        {
+          "char": "记",
+          "gloss": "record"
+        }
+      ],
+      "explanation": "A record of the day(s) → diary / journal.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "日"
+      ]
+    },
+    {
+      "word": "月亮",
+      "pinyin": "yuèliang",
+      "meaning": "moon",
+      "components": [
+        {
+          "char": "月",
+          "gloss": "moon"
+        },
+        {
+          "char": "亮",
+          "gloss": "bright"
+        }
+      ],
+      "explanation": "月 already means moon; 月亮 is the common spoken word for the moon, with 亮 evoking brightness.",
+      "category": "Nature",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "月光",
+      "pinyin": "yuèguāng",
+      "meaning": "moonlight",
+      "components": [
+        {
+          "char": "月",
+          "gloss": "moon"
+        },
+        {
+          "char": "光",
+          "gloss": "light"
+        }
+      ],
+      "explanation": "Moon + light → moonlight.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "月球",
+      "pinyin": "yuèqiú",
+      "meaning": "the Moon; lunar sphere",
+      "components": [
+        {
+          "char": "月",
+          "gloss": "moon"
+        },
+        {
+          "char": "球",
+          "gloss": "sphere / celestial body"
+        }
+      ],
+      "explanation": "The moon as a celestial sphere/body → the Moon.",
+      "category": "Nature",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "月饼",
+      "pinyin": "yuèbǐng",
+      "meaning": "mooncake",
+      "components": [
+        {
+          "char": "月",
+          "gloss": "moon"
+        },
+        {
+          "char": "饼",
+          "gloss": "cake / pastry"
+        }
+      ],
+      "explanation": "Moon + pastry → mooncake.",
+      "category": "Food",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "每月",
+      "pinyin": "měiyuè",
+      "meaning": "every month; monthly",
+      "components": [
+        {
+          "char": "每",
+          "gloss": "every"
+        },
+        {
+          "char": "月",
+          "gloss": "month"
+        }
+      ],
+      "explanation": "Every + month → every month / monthly.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "月薪",
+      "pinyin": "yuèxīn",
+      "meaning": "monthly salary",
+      "components": [
+        {
+          "char": "月",
+          "gloss": "month"
+        },
+        {
+          "char": "薪",
+          "gloss": "salary / wages"
+        }
+      ],
+      "explanation": "Month + salary → monthly salary.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "上个月",
+      "pinyin": "shàng ge yuè",
+      "meaning": "last month",
+      "components": [
+        {
+          "char": "上",
+          "gloss": "previous"
+        },
+        {
+          "char": "个",
+          "gloss": "measure word"
+        },
+        {
+          "char": "月",
+          "gloss": "month"
+        }
+      ],
+      "explanation": "上 marks the previous one; 个 is the measure word; 月 is month → last month.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    },
+    {
+      "word": "下个月",
+      "pinyin": "xià ge yuè",
+      "meaning": "next month",
+      "components": [
+        {
+          "char": "下",
+          "gloss": "next"
+        },
+        {
+          "char": "个",
+          "gloss": "measure word"
+        },
+        {
+          "char": "月",
+          "gloss": "month"
+        }
+      ],
+      "explanation": "下 marks the next one; 个 is the measure word; 月 is month → next month.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "月"
+      ]
+    }
+  ],
+  "miaPlaylist": {
+    "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
+    "capturedDate": "2026-08-08",
+    "videoCount": 32,
+    "listedWordCount": 240,
+    "uniqueWordCount": 233,
+    "note": "Canonical 32-video Mia Zhao lesson list. Extra app vocabulary may be added, but these source words must remain present. The 手 lesson list was user-verified."
+  }
+}

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://one-character-many-words.edgecompute.app/ -->
+<html lang="en" class="trancy-zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f2e8">
+  <meta name="description" content="Explore Chinese vocabulary by following the connections between characters.">
+  <title>One Character, Many Words</title>
+  <link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+  <div id="app"><div class="shell">
+      <header class="topbar">
+        <div class="topbar-inner">
+          <button class="brand" data-nav="home" aria-label="Go home">
+            <span class="brand-mark">字</span>
+            <span class="brand-copy"><strong>One Character,<br>Many Words</strong><span>一字，多词。</span></span>
+          </button>
+          <nav class="nav" aria-label="Primary">
+            <button data-nav="home" class="active">Explore</button>
+            <button data-nav="favorites" class="">♡ Favorites</button>
+            <button data-nav="history" class="">↺ History</button>
+            <button data-nav="about" class="">ⓘ About</button>
+          </nav>
+        </div>
+      </header>
+      <main class="container">
+        <section class="hero">
+          <div>
+            <h1>Learn Chinese by following the <em>connections</em> between characters.</h1>
+            <p>Start with one character, see the common words it builds, then tap any character inside a word to keep exploring.</p>
+            <div class="search-wrap">
+              <span class="search-icon">⌕</span>
+              <input id="search" class="search" autocomplete="off" placeholder="Search a character, word, pinyin or meaning…" aria-label="Search">
+              <div id="searchResults"></div>
+            </div>
+          </div>
+          <div class="network-art" aria-hidden="true">
+            <div class="node main">字<span class="node-label">character</span></div>
+            <div class="node small n1">一<span class="node-label">one</span></div>
+            <div class="node small n2">词<span class="node-label">words</span></div>
+            <div class="node small n3">学<span class="node-label">learn</span></div>
+            <div class="node small n4">连<span class="node-label">connect</span></div>
+          </div>
+        </section>
+        <section>
+          <div class="section-head">
+            <div><h2>Explore characters</h2><p>32 video-backed starting points in this prototype. <span class="video-legend"><span class="legend-play">▶</span> Video lesson available</span></p></div>
+            <button class="secondary" id="surprise">↝ Surprise me</button>
+          </div>
+          <div class="character-grid">
+      <button class="character-card featured-first" data-char="电">
+        <div class="hanzi">电</div>
+        <div class="pinyin">diàn</div>
+        <div class="meanings">electricity · electric</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="手">
+        <div class="hanzi">手</div>
+        <div class="pinyin">shǒu</div>
+        <div class="meanings">hand · manual</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="心">
+        <div class="hanzi">心</div>
+        <div class="pinyin">xīn</div>
+        <div class="meanings">heart · mind · feeling</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="口">
+        <div class="hanzi">口</div>
+        <div class="pinyin">kǒu</div>
+        <div class="meanings">mouth · opening · entrance</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="水">
+        <div class="hanzi">水</div>
+        <div class="pinyin">shuǐ</div>
+        <div class="meanings">water</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="火">
+        <div class="hanzi">火</div>
+        <div class="pinyin">huǒ</div>
+        <div class="meanings">fire · heat</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="上">
+        <div class="hanzi">上</div>
+        <div class="pinyin">shàng</div>
+        <div class="meanings">up · on · go onto</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="书">
+        <div class="hanzi">书</div>
+        <div class="pinyin">shū</div>
+        <div class="meanings">book · written text</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="牙">
+        <div class="hanzi">牙</div>
+        <div class="pinyin">yá</div>
+        <div class="meanings">tooth · teeth</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="雨">
+        <div class="hanzi">雨</div>
+        <div class="pinyin">yǔ</div>
+        <div class="meanings">rain</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="花">
+        <div class="hanzi">花</div>
+        <div class="pinyin">huā</div>
+        <div class="meanings">flower · spend</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="果">
+        <div class="hanzi">果</div>
+        <div class="pinyin">guǒ</div>
+        <div class="meanings">fruit · result</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="海">
+        <div class="hanzi">海</div>
+        <div class="pinyin">hǎi</div>
+        <div class="meanings">sea · ocean</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="车">
+        <div class="hanzi">车</div>
+        <div class="pinyin">chē</div>
+        <div class="meanings">vehicle · car</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="钱">
+        <div class="hanzi">钱</div>
+        <div class="pinyin">qián</div>
+        <div class="meanings">money</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="房">
+        <div class="hanzi">房</div>
+        <div class="pinyin">fáng</div>
+        <div class="meanings">room · house</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="衣">
+        <div class="hanzi">衣</div>
+        <div class="pinyin">yī</div>
+        <div class="meanings">clothes · clothing</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="饭">
+        <div class="hanzi">饭</div>
+        <div class="pinyin">fàn</div>
+        <div class="meanings">meal · cooked rice</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="菜">
+        <div class="hanzi">菜</div>
+        <div class="pinyin">cài</div>
+        <div class="meanings">dish · vegetable</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="学">
+        <div class="hanzi">学</div>
+        <div class="pinyin">xué</div>
+        <div class="meanings">study · learn</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="人">
+        <div class="hanzi">人</div>
+        <div class="pinyin">rén</div>
+        <div class="meanings">person · people</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="天">
+        <div class="hanzi">天</div>
+        <div class="pinyin">tiān</div>
+        <div class="meanings">day · sky</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="下">
+        <div class="hanzi">下</div>
+        <div class="pinyin">xià</div>
+        <div class="meanings">down · below · next</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="家">
+        <div class="hanzi">家</div>
+        <div class="pinyin">jiā</div>
+        <div class="meanings">home · family</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="门">
+        <div class="hanzi">门</div>
+        <div class="pinyin">mén</div>
+        <div class="meanings">door · gate</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="路">
+        <div class="hanzi">路</div>
+        <div class="pinyin">lù</div>
+        <div class="meanings">road · way</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="店">
+        <div class="hanzi">店</div>
+        <div class="pinyin">diàn</div>
+        <div class="meanings">shop · store</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="机">
+        <div class="hanzi">机</div>
+        <div class="pinyin">jī</div>
+        <div class="meanings">machine · device · aircraft</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="月">
+        <div class="hanzi">月</div>
+        <div class="pinyin">yuè</div>
+        <div class="meanings">moon · month</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="日">
+        <div class="hanzi">日</div>
+        <div class="pinyin">rì</div>
+        <div class="meanings">sun · day</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="前">
+        <div class="hanzi">前</div>
+        <div class="pinyin">qián</div>
+        <div class="meanings">front · before · former</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button>
+      <button class="character-card " data-char="后">
+        <div class="hanzi">后</div>
+        <div class="pinyin">hòu</div>
+        <div class="meanings">back · after · later</div>
+        <span class="video-badge">▶ Mia video</span>
+      </button></div>
+        </section>
+      </main><footer class="footer">One Character, Many Words · prototype v0.4.0 · Video lessons by <a href="https://miazhao.com/" target="_blank" rel="noopener noreferrer">Mia Zhao</a></footer><nav class="mobile-nav" aria-label="Mobile navigation">
+      <button data-nav="home" class="active"><span>⌘</span>Explore</button><button data-nav="favorites" class=""><span>♡</span>Favorites</button><button data-nav="history" class=""><span>↺</span>History</button><button data-nav="about" class=""><span>ⓘ</span>About</button>
+    </nav></div></div>
+  <noscript>This app needs JavaScript enabled.</noscript>
+  <script src="./assets/app.js" defer=""></script>
+
+
+</body><link rel="stylesheet" asset="eduser.css" href="chrome-extension://mjdbhokoopacimoekfgkcoogikbfgngb/assets/eduser.css"></html>
