@@ -92,7 +92,8 @@
     return [];
   }
   function currentTrail() {
-    return Array.isArray(history.state?.trail) ? history.state.trail : defaultTrailFor(route);
+    const trail = Array.isArray(history.state?.trail) ? history.state.trail : defaultTrailFor(route);
+    return trail.filter((item, index) => index === 0 || item.type !== trail[index - 1].type || item.value !== trail[index - 1].value);
   }
 
   function urlFor(r) {
