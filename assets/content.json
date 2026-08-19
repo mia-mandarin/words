@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -360,6 +360,17 @@
       "video": "https://youtube.com/shorts/pp_mUyIRw2E",
       "description": "Back and after — used for position, direction, time, order, and results.",
       "videoNumber": 32
+    },
+    {
+      "char": "吃",
+      "pinyin": "chī",
+      "meanings": [
+        "eat",
+        "consume"
+      ],
+      "video": "https://youtube.com/shorts/7XcCRMNmMf8",
+      "description": "To eat, plus common expressions about food, taste, surprise, loss, jealousy, and hardship.",
+      "videoNumber": 39
     }
   ],
   "characterMeta": {
@@ -2408,7 +2419,206 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "饭"
+        "饭",
+        "吃"
+      ]
+    },
+    {
+      "word": "吃药",
+      "pinyin": "chīyào",
+      "meaning": "take medicine",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "take / eat"
+        },
+        {
+          "char": "药",
+          "gloss": "medicine"
+        }
+      ],
+      "explanation": "Eat/take + medicine → take medicine.",
+      "category": "Health",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "小吃",
+      "pinyin": "xiǎochī",
+      "meaning": "snack; local specialty food",
+      "components": [
+        {
+          "char": "小",
+          "gloss": "small"
+        },
+        {
+          "char": "吃",
+          "gloss": "eat / food"
+        }
+      ],
+      "explanation": "Small + eat/food → snack or local specialty food.",
+      "category": "Food",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "好吃",
+      "pinyin": "hǎochī",
+      "meaning": "delicious; tasty",
+      "components": [
+        {
+          "char": "好",
+          "gloss": "good"
+        },
+        {
+          "char": "吃",
+          "gloss": "taste / eat"
+        }
+      ],
+      "explanation": "Good + taste/eat → delicious.",
+      "category": "Taste",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "难吃",
+      "pinyin": "nánchī",
+      "meaning": "tastes bad; unappetizing",
+      "components": [
+        {
+          "char": "难",
+          "gloss": "difficult / bad"
+        },
+        {
+          "char": "吃",
+          "gloss": "taste / eat"
+        }
+      ],
+      "explanation": "Bad/difficult + taste/eat → tastes bad.",
+      "category": "Taste",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "吃货",
+      "pinyin": "chīhuò",
+      "meaning": "foodie; person who loves to eat",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "eat"
+        },
+        {
+          "char": "货",
+          "gloss": "person / goods"
+        }
+      ],
+      "explanation": "Eat + person → a person who loves food.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "吃惊",
+      "pinyin": "chījīng",
+      "meaning": "be surprised; be shocked",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "experience"
+        },
+        {
+          "char": "惊",
+          "gloss": "surprise"
+        }
+      ],
+      "explanation": "Experience + surprise → be surprised or shocked.",
+      "category": "Emotions",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "吃亏",
+      "pinyin": "chīkuī",
+      "meaning": "suffer a loss; be disadvantaged",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "suffer / undergo"
+        },
+        {
+          "char": "亏",
+          "gloss": "loss"
+        }
+      ],
+      "explanation": "Suffer + loss → suffer a loss or be disadvantaged.",
+      "category": "Life",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "吃醋",
+      "pinyin": "chīcù",
+      "meaning": "be jealous",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "eat"
+        },
+        {
+          "char": "醋",
+          "gloss": "vinegar"
+        }
+      ],
+      "explanation": "Eat + vinegar → be jealous, an idiomatic expression.",
+      "category": "Emotions",
+      "transparency": "idiomatic",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
+      ]
+    },
+    {
+      "word": "吃苦",
+      "pinyin": "chīkǔ",
+      "meaning": "endure hardship; suffer",
+      "components": [
+        {
+          "char": "吃",
+          "gloss": "endure"
+        },
+        {
+          "char": "苦",
+          "gloss": "hardship / bitter"
+        }
+      ],
+      "explanation": "Endure + hardship → endure hardship or suffer.",
+      "category": "Life",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": [
+        "吃"
       ]
     },
     {
@@ -8911,10 +9121,10 @@
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-08-08",
-    "videoCount": 32,
-    "listedWordCount": 240,
-    "uniqueWordCount": 233,
-    "note": "Canonical 32-video Mia Zhao lesson list. Extra app vocabulary may be added, but these source words must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-08-18",
+    "videoCount": 39,
+    "listedWordCount": 250,
+    "uniqueWordCount": 242,
+    "note": "Canonical 39-video Mia Zhao lesson list. Extra app vocabulary may be added, but these source words must remain present. The 手 lesson list was user-verified."
   }
 }
