@@ -91,9 +91,25 @@
     if (nextRoute.type === 'word') return [{ type: 'word', value: nextRoute.value }];
     return [];
   }
+
+  function sameTrailItem(a, b) {
+    return a?.type === b?.type && a?.value === b?.value;
+  }
+  function normalizeTrail(trail) {
+    const normalized = [];
+    for (const item of trail) {
+      if (sameTrailItem(item, normalized.at(-1))) continue;
+      if (normalized.length >= 2 && sameTrailItem(item, normalized.at(-2))) {
+        normalized.pop();
+        if (sameTrailItem(item, normalized.at(-1))) continue;
+      }
+      normalized.push(item);
+    }
+    return normalized;
+  }
   function currentTrail() {
     const trail = Array.isArray(history.state?.trail) ? history.state.trail : defaultTrailFor(route);
-    return trail.filter((item, index) => index === 0 || item.type !== trail[index - 1].type || item.value !== trail[index - 1].value);
+    return normalizeTrail(trail);
   }
 
   function urlFor(r) {
