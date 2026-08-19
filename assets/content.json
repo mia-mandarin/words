@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -360,6 +360,72 @@
       "video": "https://youtube.com/shorts/pp_mUyIRw2E",
       "description": "Back and after — used for position, direction, time, order, and results.",
       "videoNumber": 32
+    },
+    {
+      "char": "小",
+      "pinyin": "xiǎo",
+      "meanings": [
+        "small",
+        "little"
+      ],
+      "video": "https://youtube.com/shorts/6beklYzKrDk",
+      "description": "Small and little, including everyday words for children, neighborhoods, snacks, quiet voices, novels, and caution.",
+      "videoNumber": 33
+    },
+    {
+      "char": "大",
+      "pinyin": "dà",
+      "meanings": [
+        "big",
+        "large"
+      ],
+      "video": "https://youtube.com/shorts/2isTHXI541c",
+      "description": "Big and large, including adults, university, entrances, everyone, growing up, enlarging, and size.",
+      "videoNumber": 34
+    },
+    {
+      "char": "女",
+      "pinyin": "nǚ",
+      "meanings": [
+        "female",
+        "woman"
+      ],
+      "video": "https://youtube.com/shorts/iTb-jD77IyY",
+      "description": "Female and woman, with words for girls, women, daughters, girlfriends, women's clothing, and admired women.",
+      "videoNumber": 35
+    },
+    {
+      "char": "男",
+      "pinyin": "nán",
+      "meanings": [
+        "male",
+        "man"
+      ],
+      "video": "https://youtube.com/shorts/GPxgj3mLz1g",
+      "description": "Male and man, with words for boys, men, boyfriends, men and women, men's clothing, and admired men.",
+      "videoNumber": 36
+    },
+    {
+      "char": "老",
+      "pinyin": "lǎo",
+      "meanings": [
+        "old",
+        "elder"
+      ],
+      "video": "https://youtube.com/shorts/wSs0lsyMTcg",
+      "description": "Old and elder, plus common 老 words for family, hometown, professions, birth order, animals, and foreigners.",
+      "videoNumber": 37
+    },
+    {
+      "char": "好",
+      "pinyin": "hǎo",
+      "meanings": [
+        "good",
+        "well"
+      ],
+      "video": "https://youtube.com/shorts/y6g9cjFboPc",
+      "description": "Good, pleasant, enjoyable, or easy, with common words for people, food, drinks, appearance, sound, fun, and handling tasks.",
+      "videoNumber": 38
     },
     {
       "char": "吃",
@@ -2464,7 +2530,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "吃"
+        "吃",
+        "小"
       ]
     },
     {
@@ -2486,7 +2553,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "吃"
+        "吃",
+        "好"
       ]
     },
     {
@@ -2620,6 +2688,589 @@
       "miaCharacters": [
         "吃"
       ]
+    },
+    {
+      "word": "小朋友",
+      "pinyin": "xiǎopéngyou",
+      "meaning": "child; kid",
+      "components": [{"char": "小", "gloss": "little"}, {"char": "朋", "gloss": "friend"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Little + friend → child or kid.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小区",
+      "pinyin": "xiǎoqū",
+      "meaning": "residential community; neighborhood",
+      "components": [{"char": "小", "gloss": "small"}, {"char": "区", "gloss": "area"}],
+      "explanation": "Small + area → residential community or neighborhood.",
+      "category": "Places",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小费",
+      "pinyin": "xiǎofèi",
+      "meaning": "tip; gratuity",
+      "components": [{"char": "小", "gloss": "small"}, {"char": "费", "gloss": "fee"}],
+      "explanation": "Small + fee → a tip or gratuity.",
+      "category": "Money",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小声",
+      "pinyin": "xiǎoshēng",
+      "meaning": "in a low voice; quietly",
+      "components": [{"char": "小", "gloss": "small / low"}, {"char": "声", "gloss": "voice / sound"}],
+      "explanation": "Small/low + voice → in a low voice or quietly.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小说",
+      "pinyin": "xiǎoshuō",
+      "meaning": "novel; fiction",
+      "components": [{"char": "小", "gloss": "small"}, {"char": "说", "gloss": "speak / tell"}],
+      "explanation": "Small + tell → novel or fiction.",
+      "category": "Media",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小看",
+      "pinyin": "xiǎokàn",
+      "meaning": "underestimate; look down on",
+      "components": [{"char": "小", "gloss": "make small"}, {"char": "看", "gloss": "look at"}],
+      "explanation": "Make small + look at → underestimate or look down on.",
+      "category": "Social",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "小气",
+      "pinyin": "xiǎoqì",
+      "meaning": "stingy; petty",
+      "components": [{"char": "小", "gloss": "small"}, {"char": "气", "gloss": "spirit / manner"}],
+      "explanation": "Small + spirit → stingy or petty.",
+      "category": "Personality",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["小"]
+    },
+    {
+      "word": "大衣",
+      "pinyin": "dàyī",
+      "meaning": "overcoat",
+      "components": [{"char": "大", "gloss": "big"}, {"char": "衣", "gloss": "clothing"}],
+      "explanation": "Big + clothing → overcoat.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "大声",
+      "pinyin": "dàshēng",
+      "meaning": "loudly; in a loud voice",
+      "components": [{"char": "大", "gloss": "big / loud"}, {"char": "声", "gloss": "voice / sound"}],
+      "explanation": "Big/loud + voice → loudly or in a loud voice.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "长大",
+      "pinyin": "zhǎngdà",
+      "meaning": "grow up",
+      "components": [{"char": "长", "gloss": "grow"}, {"char": "大", "gloss": "big"}],
+      "explanation": "Grow + big → grow up.",
+      "category": "Life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "放大",
+      "pinyin": "fàngdà",
+      "meaning": "enlarge; zoom in",
+      "components": [{"char": "放", "gloss": "put / release"}, {"char": "大", "gloss": "big"}],
+      "explanation": "Make bigger → enlarge or zoom in.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "大概",
+      "pinyin": "dàgài",
+      "meaning": "probably; approximately",
+      "components": [{"char": "大", "gloss": "roughly"}, {"char": "概", "gloss": "概略 / general idea"}],
+      "explanation": "A general idea → probably or approximately.",
+      "category": "Degree",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "大小",
+      "pinyin": "dàxiǎo",
+      "meaning": "size",
+      "components": [{"char": "大", "gloss": "big"}, {"char": "小", "gloss": "small"}],
+      "explanation": "Big + small → size.",
+      "category": "Description",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["大"]
+    },
+    {
+      "word": "女孩",
+      "pinyin": "nǚhái",
+      "meaning": "girl",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "孩", "gloss": "child"}],
+      "explanation": "Female + child → girl.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女生",
+      "pinyin": "nǚshēng",
+      "meaning": "female student; girl",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "生", "gloss": "student / life"}],
+      "explanation": "Female + student → female student or girl.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女人",
+      "pinyin": "nǚrén",
+      "meaning": "woman",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Female + person → woman.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女性",
+      "pinyin": "nǚxìng",
+      "meaning": "female; woman",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "性", "gloss": "nature / sex"}],
+      "explanation": "Female + nature/sex → female or woman.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女士",
+      "pinyin": "nǚshì",
+      "meaning": "lady; Ms.",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "士", "gloss": "person / gentleman"}],
+      "explanation": "Female + person → lady or Ms.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女子",
+      "pinyin": "nǚzǐ",
+      "meaning": "woman; female (formal/written)",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "子", "gloss": "person / child"}],
+      "explanation": "Female + person → woman or female, often in formal writing or news.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女儿",
+      "pinyin": "nǚ’ér",
+      "meaning": "daughter",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "儿", "gloss": "child / son"}],
+      "explanation": "Female + child → daughter.",
+      "category": "Family",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女朋友",
+      "pinyin": "nǚpéngyou",
+      "meaning": "girlfriend",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "朋", "gloss": "friend"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Female + friend → girlfriend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女装",
+      "pinyin": "nǚzhuāng",
+      "meaning": "women’s clothing",
+      "components": [{"char": "女", "gloss": "female"}, {"char": "装", "gloss": "clothing / dress"}],
+      "explanation": "Female + clothing → women’s clothing.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "女神",
+      "pinyin": "nǚshén",
+      "meaning": "goddess; admired woman",
+      "components": [{"char": "女", "gloss": "woman"}, {"char": "神", "gloss": "god / spirit"}],
+      "explanation": "Woman + spirit → goddess or an admired woman.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["女"]
+    },
+    {
+      "word": "男孩",
+      "pinyin": "nánhái",
+      "meaning": "boy",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "孩", "gloss": "child"}],
+      "explanation": "Male + child → boy.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男生",
+      "pinyin": "nánshēng",
+      "meaning": "male student; boy",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "生", "gloss": "student / life"}],
+      "explanation": "Male + student → male student or boy.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男人",
+      "pinyin": "nánrén",
+      "meaning": "man",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Male + person → man.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男性",
+      "pinyin": "nánxìng",
+      "meaning": "male; man",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "性", "gloss": "nature / sex"}],
+      "explanation": "Male + nature/sex → male or man.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男士",
+      "pinyin": "nánshì",
+      "meaning": "gentleman; Mr.",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "士", "gloss": "person / gentleman"}],
+      "explanation": "Male + person → gentleman or Mr.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男子",
+      "pinyin": "nánzǐ",
+      "meaning": "man; male (formal/written)",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "子", "gloss": "person / child"}],
+      "explanation": "Male + person → man or male, often in formal writing or news.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男朋友",
+      "pinyin": "nánpéngyou",
+      "meaning": "boyfriend",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "朋", "gloss": "friend"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Male + friend → boyfriend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男女",
+      "pinyin": "nánnǚ",
+      "meaning": "men and women; male and female",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "女", "gloss": "female"}],
+      "explanation": "Male + female → men and women.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男装",
+      "pinyin": "nánzhuāng",
+      "meaning": "men’s clothing",
+      "components": [{"char": "男", "gloss": "male"}, {"char": "装", "gloss": "clothing / dress"}],
+      "explanation": "Male + clothing → men’s clothing.",
+      "category": "Clothing",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "男神",
+      "pinyin": "nánshén",
+      "meaning": "male idol; admired man",
+      "components": [{"char": "男", "gloss": "man"}, {"char": "神", "gloss": "god / spirit"}],
+      "explanation": "Man + spirit → male idol or an admired man.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["男"]
+    },
+    {
+      "word": "老年人",
+      "pinyin": "lǎoniánrén",
+      "meaning": "elderly person; senior citizen",
+      "components": [{"char": "老", "gloss": "old"}, {"char": "年", "gloss": "year / age"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Old + age + person → elderly person.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老朋友",
+      "pinyin": "lǎopéngyou",
+      "meaning": "old friend; longtime friend",
+      "components": [{"char": "老", "gloss": "old / longtime"}, {"char": "朋", "gloss": "friend"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Old/longtime + friend → old friend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老师",
+      "pinyin": "lǎoshī",
+      "meaning": "teacher",
+      "components": [{"char": "老", "gloss": "respected / old"}, {"char": "师", "gloss": "teacher"}],
+      "explanation": "Respected + teacher → teacher.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老乡",
+      "pinyin": "lǎoxiāng",
+      "meaning": "person from the same hometown or region",
+      "components": [{"char": "老", "gloss": "old / longtime"}, {"char": "乡", "gloss": "hometown / village"}],
+      "explanation": "Longtime + hometown → someone from the same hometown or region.",
+      "category": "Relationships",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老公",
+      "pinyin": "lǎogōng",
+      "meaning": "husband",
+      "components": [{"char": "老", "gloss": "familiar term"}, {"char": "公", "gloss": "man / public"}],
+      "explanation": "An informal everyday word for husband.",
+      "category": "Family",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老婆",
+      "pinyin": "lǎopo",
+      "meaning": "wife",
+      "components": [{"char": "老", "gloss": "familiar term"}, {"char": "婆", "gloss": "woman / mother-in-law"}],
+      "explanation": "An informal everyday word for wife.",
+      "category": "Family",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老大",
+      "pinyin": "lǎodà",
+      "meaning": "eldest sibling; boss or leader",
+      "components": [{"char": "老", "gloss": "first / senior"}, {"char": "大", "gloss": "big"}],
+      "explanation": "Senior + big → eldest sibling, boss, or leader.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老二",
+      "pinyin": "lǎo’èr",
+      "meaning": "second-born; second eldest",
+      "components": [{"char": "老", "gloss": "senior birth-order prefix"}, {"char": "二", "gloss": "two"}],
+      "explanation": "老 + number marks birth order → second-born.",
+      "category": "Family",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老三",
+      "pinyin": "lǎosān",
+      "meaning": "third-born; third eldest",
+      "components": [{"char": "老", "gloss": "senior birth-order prefix"}, {"char": "三", "gloss": "three"}],
+      "explanation": "老 + number marks birth order → third-born.",
+      "category": "Family",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老虎",
+      "pinyin": "lǎohǔ",
+      "meaning": "tiger",
+      "components": [{"char": "老", "gloss": "old / venerable"}, {"char": "虎", "gloss": "tiger"}],
+      "explanation": "Old/venerable + tiger → tiger.",
+      "category": "Animals",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "老外",
+      "pinyin": "lǎowài",
+      "meaning": "foreigner; informal everyday term",
+      "components": [{"char": "老", "gloss": "familiar prefix"}, {"char": "外", "gloss": "outside / foreign"}],
+      "explanation": "Familiar prefix + outside → an informal everyday term for foreigner.",
+      "category": "People",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["老"]
+    },
+    {
+      "word": "好人",
+      "pinyin": "hǎorén",
+      "meaning": "good person",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Good + person → good person.",
+      "category": "People",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好事",
+      "pinyin": "hǎoshì",
+      "meaning": "good thing; good deed",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "事", "gloss": "thing / matter"}],
+      "explanation": "Good + thing → good thing or good deed.",
+      "category": "Life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好朋友",
+      "pinyin": "hǎopéngyou",
+      "meaning": "good friend; close friend",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "朋", "gloss": "friend"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Good + friend → good or close friend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "友好",
+      "pinyin": "yǒuhǎo",
+      "meaning": "friendly",
+      "components": [{"char": "友", "gloss": "friend"}, {"char": "好", "gloss": "good"}],
+      "explanation": "Friend + good → friendly.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好喝",
+      "pinyin": "hǎohē",
+      "meaning": "tasty; good to drink",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "喝", "gloss": "drink"}],
+      "explanation": "Good + drink → tasty or good to drink.",
+      "category": "Taste",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好看",
+      "pinyin": "hǎokàn",
+      "meaning": "good-looking; enjoyable to watch or read",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "看", "gloss": "look / watch"}],
+      "explanation": "Good + look → good-looking or enjoyable to watch/read.",
+      "category": "Description",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好听",
+      "pinyin": "hǎotīng",
+      "meaning": "nice-sounding; good to listen to",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "听", "gloss": "listen"}],
+      "explanation": "Good + listen → nice-sounding.",
+      "category": "Description",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好玩",
+      "pinyin": "hǎowán",
+      "meaning": "fun; interesting",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "玩", "gloss": "play"}],
+      "explanation": "Good + play → fun or interesting.",
+      "category": "Description",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
+    },
+    {
+      "word": "好办",
+      "pinyin": "hǎobàn",
+      "meaning": "easy to handle; easy to solve",
+      "components": [{"char": "好", "gloss": "good / easy"}, {"char": "办", "gloss": "handle / manage"}],
+      "explanation": "Good/easy + handle → easy to handle or solve.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["好"]
     },
     {
       "word": "后天",
@@ -2785,7 +3436,8 @@
       "transparency": "lexicalized",
       "priority": 220,
       "miaCharacters": [
-        "心"
+        "心",
+        "小"
       ]
     },
     {
@@ -4669,7 +5321,10 @@
       "explanation": "Big/main + gate → main entrance gate.",
       "category": "Places",
       "transparency": "direct",
-      "priority": 90
+      "priority": 90,
+      "miaCharacters": [
+        "大"
+      ]
     },
     {
       "word": "开水",
@@ -7342,7 +7997,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "学"
+        "学",
+        "小"
       ]
     },
     {
@@ -7386,7 +8042,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "学"
+        "学",
+        "大"
       ]
     },
     {
@@ -7475,7 +8132,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "人"
+        "人",
+        "大"
       ]
     },
     {
@@ -7923,7 +8581,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "家"
+        "家",
+        "老"
       ]
     },
     {
@@ -7945,7 +8604,8 @@
       "transparency": "lexicalized",
       "priority": 220,
       "miaCharacters": [
-        "家"
+        "家",
+        "大"
       ]
     },
     {
@@ -9123,8 +9783,8 @@
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
     "capturedDate": "2026-08-18",
     "videoCount": 39,
-    "listedWordCount": 250,
-    "uniqueWordCount": 242,
-    "note": "Canonical 39-video Mia Zhao lesson list. Extra app vocabulary may be added, but these source words must remain present. The 手 lesson list was user-verified."
+    "listedWordCount": 302,
+    "uniqueWordCount": 294,
+    "note": "Canonical 39-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
