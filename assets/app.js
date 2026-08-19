@@ -64,9 +64,9 @@
     const lessons = miaLessonChars(word);
     if (!lessons.length) return '';
     const title = currentChar
-      ? `This word appears in Mia's ${currentChar} video`
+      ? `This word appears in the lesson for ${currentChar}`
       : `Featured in Mia's lesson${lessons.length > 1 ? 's' : ''}: ${lessons.join(', ')}`;
-    return `<span class="mia-word-badge" title="${escapeHtml(title)}"><span>▶</span> From Mia's video</span>`;
+    return `<span class="mia-word-badge" title="${escapeHtml(title)}"><span>▶</span> From the video lesson</span>`;
   }
   function videoMark(char, className = '') {
     if (!hasVideo(char)) return '';
@@ -162,9 +162,9 @@
           </button>
           <nav class="nav" aria-label="Primary">
             ${navButton('home', 'Explore', '')}
-            ${navButton('favorites', '♡ Favorites', '')}
-            ${navButton('history', '↺ History', '')}
-            ${navButton('about', 'ⓘ About', '')}
+            ${navButton('favorites', 'Favorites', '')}
+            ${navButton('history', 'History', '')}
+            ${navButton('about', 'About', '')}
           </nav>
         </div>
       </header>`;
@@ -200,32 +200,29 @@
         <div class="hanzi">${escapeHtml(c.char)}</div>
         <div class="pinyin">${escapeHtml(c.pinyin)}</div>
         <div class="meanings">${escapeHtml(c.meanings.join(' · '))}</div>
-        ${hasVideo(c.char) ? '<span class="video-badge">▶ Mia video</span>' : ''}
+        ${hasVideo(c.char) ? '<span class="video-badge">▶ Video lesson</span>' : ''}
       </button>`).join('');
 
     return `
       <main class="container">
-        <section class="hero">
-          <div>
-            <h1>Learn Chinese by following the <em>connections</em> between characters.</h1>
-            <p>Start with one character, see the common words it builds, then tap any character inside a word to keep exploring.</p>
+        <section class="explore-header">
+          <div class="explore-intro">
+            <span class="eyebrow">Mandarin vocabulary in context</span>
+            <h1>Explore characters</h1>
+            <p>Start with one character. Discover useful words, then follow the connections to keep learning.</p>
+          </div>
+          <div class="search-block">
+            <label class="search-label" for="search">Search the collection</label>
             <div class="search-wrap">
               <span class="search-icon">⌕</span>
-              <input id="search" class="search" autocomplete="off" placeholder="Search a character, word, pinyin or meaning…" aria-label="Search" />
+              <input id="search" class="search" autocomplete="off" placeholder="Character, word, pinyin or meaning" aria-label="Search the collection" />
               <div id="searchResults"></div>
             </div>
-          </div>
-          <div class="network-art" aria-hidden="true">
-            <div class="node main">字<span class="node-label">character</span></div>
-            <div class="node small n1">一<span class="node-label">one</span></div>
-            <div class="node small n2">词<span class="node-label">words</span></div>
-            <div class="node small n3">学<span class="node-label">learn</span></div>
-            <div class="node small n4">连<span class="node-label">connect</span></div>
           </div>
         </section>
         <section>
           <div class="section-head">
-            <div><h2>Explore characters</h2><p>${DATA.featuredCharacters.length} video-backed starting points in this prototype. <span class="video-legend"><span class="legend-play">▶</span> Video lesson available</span></p></div>
+            <div><h2>Featured characters</h2><p>${DATA.featuredCharacters.length} characters with video lessons. <span class="video-legend"><span class="legend-play">▶</span> Video lesson available</span></p></div>
             <button class="secondary" id="surprise">↝ Surprise me</button>
           </div>
           <div class="character-grid">${cards}</div>
@@ -241,7 +238,7 @@
     const shown = filter === 'All' ? allWords : allWords.filter(w => w.category === filter);
     const words = shown.map(w => wordCardMarkup(w, char)).join('');
     const related = [...new Set(allWords.flatMap(w => w.components.map(c => c.char)).filter(c => c !== char))].slice(0, 16);
-    const desc = featured?.description || `This character is connected to ${allWords.length} word${allWords.length === 1 ? '' : 's'} in the prototype. Follow any highlighted character to continue exploring.`;
+    const desc = featured?.description || `This character is connected to ${allWords.length} word${allWords.length === 1 ? '' : 's'} in this collection. Follow a highlighted character to continue exploring.`;
     return `
       <main class="container">
         <div class="page-head">${breadcrumbsMarkup()}</div>
@@ -252,7 +249,7 @@
             <div class="tag-row">${(info.meanings || []).map(m => `<span class="tag">${escapeHtml(m)}</span>`).join('')}</div>
             <p class="char-desc">${escapeHtml(desc)}</p>
             <div class="actions">
-              ${featured ? `<a class="primary" href="${escapeHtml(featured.video)}" target="_blank" rel="noopener noreferrer">▶ Watch Mia's original lesson</a>` : ''}
+              ${featured ? `<a class="primary" href="${escapeHtml(featured.video)}" target="_blank" rel="noopener noreferrer">▶ Watch the video lesson</a>` : ''}
               <button class="secondary ${isFavorite(char) ? 'active' : ''}" data-favorite="${escapeHtml(char)}">${isFavorite(char) ? '♥ Saved' : '♡ Favorite'}</button>
             </div>
           </div>
@@ -289,7 +286,7 @@
 
   function wordMarkup(word) {
     const w = wordByText(word);
-    if (!w) return `<main class="container"><div class="empty-state"><h2>${escapeHtml(word)}</h2><p>This word has not been expanded in the prototype yet.</p><button class="secondary" data-nav="home">Back to Explore</button></div></main>`;
+    if (!w) return `<main class="container"><div class="empty-state"><h2>${escapeHtml(word)}</h2><p>This word has not been added to the collection yet.</p><button class="secondary" data-nav="home">Back to Explore</button></div></main>`;
     const comps = w.components.map(c => {
       const info = characterInfo(c.char);
       return `<button class="component-big ${hasVideo(c.char) ? 'has-video' : ''}" data-component="${escapeHtml(c.char)}" data-via-word="${escapeHtml(w.word)}">
@@ -336,14 +333,14 @@
   function aboutMarkup() {
     const creator = DATA.creator || { name: 'Mia Zhao', website: 'https://miazhao.com/' };
     return `<main class="container"><article class="about">
-      <h1>One character opens many paths.</h1>
-      <p>This prototype treats Mandarin vocabulary as a network rather than a list. Start with a character, inspect common words that contain it, then follow any component into the next set of words.</p>
-      <p>The component explanations are learning aids, not claims that every modern Chinese word can be translated literally character by character. When a word is lexicalized or the relationship is indirect, the app tells you instead of inventing a false literal meaning.</p>
+      <span class="eyebrow">About the collection</span>
+      <h1>A clearer way to build vocabulary.</h1>
+      <p class="about-lead">Explore Mandarin through the characters that connect words together. Choose a character, review useful compounds, and follow each path at your own pace.</p>
       <div class="creator-card">
         <div class="creator-mark">米</div>
-        <div><span class="eyebrow">Original video lessons</span><h2>${escapeHtml(creator.name)}</h2><p>The featured characters link to Mia's original character-vocabulary videos that inspired this project. A small <span class="inline-video-mark">▶</span> beside a character means a video is available before you follow that path. Words carrying a <strong>From Mia's video</strong> badge are part of her original lesson list; the app also adds extra useful words around them.</p><a class="creator-link" href="${escapeHtml(creator.website)}" target="_blank" rel="noopener noreferrer">Visit Mia's Mandarin teaching website ↗</a></div>
+        <div><span class="eyebrow">Video lessons</span><h2>${escapeHtml(creator.name)}</h2><p>Featured characters link to Mia's original lessons. A <span class="inline-video-mark">▶</span> mark identifies characters and words with a related lesson.</p><a class="creator-link" href="${escapeHtml(creator.website)}" target="_blank" rel="noopener noreferrer">Visit Mia's Mandarin teaching website ↗</a></div>
       </div>
-      <p><strong>Prototype content:</strong> ${DATA.featuredCharacters.length} video-backed starting characters, ${DATA.miaPlaylist?.uniqueWordCount || 0} distinct words from Mia's videos, and ${DATA.words.length} connected words overall.</p>
+      <p class="about-note"><strong>A note on explanations.</strong> Character-by-character meanings are learning aids. When a word is lexicalized or the connection is indirect, the collection keeps that distinction clear.</p>
     </article></main>`;
   }
 
@@ -358,7 +355,7 @@
       default: body = homeMarkup();
     }
     const creator = DATA.creator || { name: 'Mia Zhao', website: 'https://miazhao.com/' };
-    app.innerHTML = `<div class="shell">${navMarkup()}${body}<footer class="footer">One Character, Many Words · prototype v${escapeHtml(DATA.version)} · Video lessons by <a href="${escapeHtml(creator.website)}" target="_blank" rel="noopener noreferrer">${escapeHtml(creator.name)}</a></footer>${mobileNavMarkup()}</div>`;
+    app.innerHTML = `<div class="shell">${navMarkup()}${body}<footer class="footer">One Character, Many Words · Video lessons by <a href="${escapeHtml(creator.website)}" target="_blank" rel="noopener noreferrer">${escapeHtml(creator.name)}</a></footer>${mobileNavMarkup()}</div>`;
     bindEvents();
   }
 
