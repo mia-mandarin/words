@@ -3137,8 +3137,7 @@
       "explanation": "老 + number marks birth order → second-born.",
       "category": "Family",
       "transparency": "extended",
-      "priority": 220,
-      "miaCharacters": ["老"]
+      "priority": 220
     },
     {
       "word": "老三",
@@ -3148,8 +3147,7 @@
       "explanation": "老 + number marks birth order → third-born.",
       "category": "Family",
       "transparency": "extended",
-      "priority": 220,
-      "miaCharacters": ["老"]
+      "priority": 220
     },
     {
       "word": "老虎",
@@ -9783,7 +9781,7 @@
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
     "capturedDate": "2026-08-18",
     "videoCount": 39,
-    "listedWordCount": 302,
+    "listedWordCount": 310,
     "uniqueWordCount": 294,
     "note": "Canonical 39-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
