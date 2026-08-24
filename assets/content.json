@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -437,6 +437,18 @@
       "video": "https://youtube.com/shorts/7XcCRMNmMf8",
       "description": "To eat, plus common expressions about food, taste, surprise, loss, jealousy, and hardship.",
       "videoNumber": 39
+    },
+    {
+      "char": "看",
+      "pinyin": "kàn",
+      "meanings": [
+        "look",
+        "watch",
+        "see"
+      ],
+      "video": "https://youtube.com/shorts/SIzC0scZ2tw",
+      "description": "Looking, watching, seeing, understanding, opinions, judgments, and thinking highly of something.",
+      "videoNumber": 40
     }
   ],
   "characterMeta": {
@@ -2753,7 +2765,7 @@
       "category": "Social",
       "transparency": "extended",
       "priority": 220,
-      "miaCharacters": ["小"]
+      "miaCharacters": ["小", "看"]
     },
     {
       "word": "小气",
@@ -3235,7 +3247,7 @@
       "category": "Description",
       "transparency": "direct",
       "priority": 220,
-      "miaCharacters": ["好"]
+      "miaCharacters": ["好", "看"]
     },
     {
       "word": "好听",
@@ -3269,6 +3281,83 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": ["好"]
+    },
+    {
+      "word": "看电视",
+      "pinyin": "kàndiànshì",
+      "meaning": "watch television",
+      "components": [{"char": "看", "gloss": "watch"}, {"char": "电", "gloss": "electricity"}, {"char": "视", "gloss": "see / vision"}],
+      "explanation": "Watch + television → watch television.",
+      "category": "Media",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看电影",
+      "pinyin": "kàndiànyǐng",
+      "meaning": "watch a movie",
+      "components": [{"char": "看", "gloss": "watch"}, {"char": "电", "gloss": "electricity"}, {"char": "影", "gloss": "shadow / image"}],
+      "explanation": "Watch + movie → watch a movie.",
+      "category": "Media",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看见",
+      "pinyin": "kànjiàn",
+      "meaning": "see",
+      "components": [{"char": "看", "gloss": "look"}, {"char": "见", "gloss": "see"}],
+      "explanation": "Look + see → see.",
+      "category": "Perception",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看懂",
+      "pinyin": "kàndǒng",
+      "meaning": "understand what you see or read",
+      "components": [{"char": "看", "gloss": "look / read"}, {"char": "懂", "gloss": "understand"}],
+      "explanation": "Look/read + understand → understand what you see or read.",
+      "category": "Understanding",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看病",
+      "pinyin": "kànbìng",
+      "meaning": "see a doctor; receive medical care",
+      "components": [{"char": "看", "gloss": "see / attend to"}, {"char": "病", "gloss": "illness"}],
+      "explanation": "Attend to + illness → see a doctor or receive medical care.",
+      "category": "Health",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看法",
+      "pinyin": "kànfǎ",
+      "meaning": "opinion; point of view",
+      "components": [{"char": "看", "gloss": "view / opinion"}, {"char": "法", "gloss": "method / way"}],
+      "explanation": "View + way → opinion or point of view.",
+      "category": "Thinking",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["看"]
+    },
+    {
+      "word": "看好",
+      "pinyin": "kànhǎo",
+      "meaning": "think highly of; be optimistic about",
+      "components": [{"char": "看", "gloss": "regard / judge"}, {"char": "好", "gloss": "good"}],
+      "explanation": "Judge + good → think highly of or be optimistic about.",
+      "category": "Judgment",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["看"]
     },
     {
       "word": "后天",
@@ -3858,7 +3947,8 @@
       "explanation": "Look at/read + book → read a book.",
       "category": "Study",
       "transparency": "direct",
-      "priority": 100
+      "priority": 100,
+      "miaCharacters": ["看"]
     },
     {
       "word": "结果",
@@ -9779,10 +9869,10 @@
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-08-18",
-    "videoCount": 39,
-    "listedWordCount": 310,
-    "uniqueWordCount": 294,
-    "note": "Canonical 39-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-08-24",
+    "videoCount": 40,
+    "listedWordCount": 320,
+    "uniqueWordCount": 302,
+    "note": "Canonical 40-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
