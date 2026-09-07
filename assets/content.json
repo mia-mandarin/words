@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -449,6 +449,40 @@
       "video": "https://youtube.com/shorts/SIzC0scZ2tw",
       "description": "Looking, watching, seeing, understanding, opinions, judgments, and thinking highly of something.",
       "videoNumber": 40
+    },
+    {
+      "char": "生",
+      "pinyin": "shēng",
+      "meanings": [
+        "birth",
+        "life",
+        "grow"
+      ],
+      "video": "https://youtube.com/shorts/DAnA32YM8iw",
+      "description": "Birth, life, growth, rawness, unfamiliarity, and words for different kinds of people.",
+      "videoNumber": 41
+    },
+    {
+      "char": "工",
+      "pinyin": "gōng",
+      "meanings": [
+        "work",
+        "labor"
+      ],
+      "video": "https://youtube.com/shorts/_7uHtPZPUjg",
+      "description": "Work, labor, workers, jobs, workplaces, wages, technical trades, and starting or finishing work.",
+      "videoNumber": 42
+    },
+    {
+      "char": "时",
+      "pinyin": "shí",
+      "meanings": [
+        "time",
+        "hour"
+      ],
+      "video": "https://youtube.com/shorts/TeD-6WpROew",
+      "description": "Time, duration, frequency, punctuality, temporary situations, and time differences.",
+      "videoNumber": 43
     }
   ],
   "characterMeta": {
@@ -3358,6 +3392,336 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": ["看"]
+    },
+    {
+      "word": "出生",
+      "pinyin": "chūshēng",
+      "meaning": "be born; birth",
+      "components": [{"char": "出", "gloss": "come out"}, {"char": "生", "gloss": "be born"}],
+      "explanation": "Come out + be born → be born.",
+      "category": "Life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "生活",
+      "pinyin": "shēnghuó",
+      "meaning": "life; live",
+      "components": [{"char": "生", "gloss": "life"}, {"char": "活", "gloss": "live / lively"}],
+      "explanation": "Life + live → life or to live.",
+      "category": "Life",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "生菜",
+      "pinyin": "shēngcài",
+      "meaning": "lettuce",
+      "components": [{"char": "生", "gloss": "raw"}, {"char": "菜", "gloss": "vegetable"}],
+      "explanation": "Raw + vegetable → lettuce.",
+      "category": "Food",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "生病",
+      "pinyin": "shēngbìng",
+      "meaning": "get sick; be ill",
+      "components": [{"char": "生", "gloss": "develop / become"}, {"char": "病", "gloss": "illness"}],
+      "explanation": "Develop + illness → get sick or be ill.",
+      "category": "Health",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "生气",
+      "pinyin": "shēngqì",
+      "meaning": "get angry; be angry",
+      "components": [{"char": "生", "gloss": "develop"}, {"char": "气", "gloss": "energy / anger"}],
+      "explanation": "Develop + energy → get angry or be angry.",
+      "category": "Emotions",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "生词",
+      "pinyin": "shēngcí",
+      "meaning": "new or unfamiliar word",
+      "components": [{"char": "生", "gloss": "raw / unfamiliar"}, {"char": "词", "gloss": "word"}],
+      "explanation": "Unfamiliar + word → new or unfamiliar word.",
+      "category": "Study",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "医生",
+      "pinyin": "yīshēng",
+      "meaning": "doctor",
+      "components": [{"char": "医", "gloss": "medicine"}, {"char": "生", "gloss": "person / professional"}],
+      "explanation": "Medicine + professional → doctor.",
+      "category": "Health",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "先生",
+      "pinyin": "xiānsheng",
+      "meaning": "Mr.; sir",
+      "components": [{"char": "先", "gloss": "先 / prior"}, {"char": "生", "gloss": "person"}],
+      "explanation": "A respectful term for Mr. or sir.",
+      "category": "People",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["生"]
+    },
+    {
+      "word": "工作",
+      "pinyin": "gōngzuò",
+      "meaning": "work; job",
+      "components": [{"char": "工", "gloss": "work"}, {"char": "作", "gloss": "do / make"}],
+      "explanation": "Work + do → work or job.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "打工",
+      "pinyin": "dǎgōng",
+      "meaning": "work for pay",
+      "components": [{"char": "打", "gloss": "do / work"}, {"char": "工", "gloss": "work"}],
+      "explanation": "Do + work → work for pay.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "打工人",
+      "pinyin": "dǎgōngrén",
+      "meaning": "wage earner; working person",
+      "components": [{"char": "打", "gloss": "do / work"}, {"char": "工", "gloss": "work"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Work + person → a modern humorous term for wage earners.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "员工",
+      "pinyin": "yuángōng",
+      "meaning": "employee",
+      "components": [{"char": "员", "gloss": "member / employee"}, {"char": "工", "gloss": "worker"}],
+      "explanation": "Employee + worker → employee.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "工位",
+      "pinyin": "gōngwèi",
+      "meaning": "workstation",
+      "components": [{"char": "工", "gloss": "work"}, {"char": "位", "gloss": "position / place"}],
+      "explanation": "Work + position → workstation.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "工资",
+      "pinyin": "gōngzī",
+      "meaning": "salary; wages",
+      "components": [{"char": "工", "gloss": "work"}, {"char": "资", "gloss": "resources / pay"}],
+      "explanation": "Work + pay → salary or wages.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "工人",
+      "pinyin": "gōngrén",
+      "meaning": "worker",
+      "components": [{"char": "工", "gloss": "work"}, {"char": "人", "gloss": "person"}],
+      "explanation": "Work + person → worker.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "人工",
+      "pinyin": "réngōng",
+      "meaning": "manual; artificial",
+      "components": [{"char": "人", "gloss": "person / human"}, {"char": "工", "gloss": "work"}],
+      "explanation": "Human + work → manual or artificial.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "人工智能",
+      "pinyin": "réngōng zhìnéng",
+      "meaning": "artificial intelligence; AI",
+      "components": [{"char": "人", "gloss": "human"}, {"char": "工", "gloss": "artificial"}, {"char": "智", "gloss": "wisdom"}, {"char": "能", "gloss": "ability"}],
+      "explanation": "Human-made + intelligence → artificial intelligence.",
+      "category": "Technology",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "电工",
+      "pinyin": "diàngōng",
+      "meaning": "electrician",
+      "components": [{"char": "电", "gloss": "electricity"}, {"char": "工", "gloss": "worker"}],
+      "explanation": "Electricity + worker → electrician.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "开工",
+      "pinyin": "kāigōng",
+      "meaning": "start work; begin construction",
+      "components": [{"char": "开", "gloss": "start / open"}, {"char": "工", "gloss": "work"}],
+      "explanation": "Start + work → start work or construction.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "收工",
+      "pinyin": "shōugōng",
+      "meaning": "finish work for the day",
+      "components": [{"char": "收", "gloss": "收 / finish"}, {"char": "工", "gloss": "work"}],
+      "explanation": "Finish + work → finish work for the day.",
+      "category": "Work",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["工"]
+    },
+    {
+      "word": "时间",
+      "pinyin": "shíjiān",
+      "meaning": "time",
+      "components": [{"char": "时", "gloss": "time"}, {"char": "间", "gloss": "between / interval"}],
+      "explanation": "Time + interval → time.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "小时",
+      "pinyin": "xiǎoshí",
+      "meaning": "hour",
+      "components": [{"char": "小", "gloss": "small"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Small + time → hour.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "时候",
+      "pinyin": "shíhou",
+      "meaning": "time; moment",
+      "components": [{"char": "时", "gloss": "time"}, {"char": "候", "gloss": "occasion / wait"}],
+      "explanation": "Time + occasion → time or moment.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "有时",
+      "pinyin": "yǒushí",
+      "meaning": "sometimes",
+      "components": [{"char": "有", "gloss": "have"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Have + time → sometimes.",
+      "category": "Frequency",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "平时",
+      "pinyin": "píngshí",
+      "meaning": "usually; in everyday life",
+      "components": [{"char": "平", "gloss": "ordinary / level"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Ordinary + time → usually or in everyday life.",
+      "category": "Frequency",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "同时",
+      "pinyin": "tóngshí",
+      "meaning": "at the same time",
+      "components": [{"char": "同", "gloss": "same"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Same + time → at the same time.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "准时",
+      "pinyin": "zhǔnshí",
+      "meaning": "on time; punctual",
+      "components": [{"char": "准", "gloss": "准 / accurate"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Accurate + time → on time or punctual.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "随时",
+      "pinyin": "suíshí",
+      "meaning": "at any time",
+      "components": [{"char": "随", "gloss": "follow / according to"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Follow + time → at any time.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "临时",
+      "pinyin": "línshí",
+      "meaning": "temporary; at short notice",
+      "components": [{"char": "临", "gloss": "near / approach"}, {"char": "时", "gloss": "time"}],
+      "explanation": "Approach + time → temporary or at short notice.",
+      "category": "Time",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["时"]
+    },
+    {
+      "word": "时差",
+      "pinyin": "shíchā",
+      "meaning": "time difference; jet lag",
+      "components": [{"char": "时", "gloss": "time"}, {"char": "差", "gloss": "difference"}],
+      "explanation": "Time + difference → time difference or jet lag.",
+      "category": "Time",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["时"]
     },
     {
       "word": "后天",
@@ -7975,7 +8339,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "学"
+        "学",
+        "生"
       ]
     },
     {
@@ -9561,7 +9926,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "日"
+        "日",
+        "生"
       ]
     },
     {
@@ -9869,10 +10235,10 @@
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-08-24",
-    "videoCount": 40,
-    "listedWordCount": 320,
-    "uniqueWordCount": 302,
-    "note": "Canonical 40-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-09-07",
+    "videoCount": 43,
+    "listedWordCount": 352,
+    "uniqueWordCount": 332,
+    "note": "Canonical 43-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
