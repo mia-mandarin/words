@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -483,6 +483,18 @@
       "video": "https://youtube.com/shorts/TeD-6WpROew",
       "description": "Time, duration, frequency, punctuality, temporary situations, and time differences.",
       "videoNumber": 43
+    },
+    {
+      "char": "回",
+      "pinyin": "huí",
+      "meanings": [
+        "return",
+        "go back",
+        "reply"
+      ],
+      "video": "https://youtube.com/shorts/0-Kpiw1SQlc",
+      "description": "Returning, going back, turning back, replying, remembering, recycling, and taking something back.",
+      "videoNumber": 44
     }
   ],
   "characterMeta": {
@@ -3722,6 +3734,105 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": ["时"]
+    },
+    {
+      "word": "回来",
+      "pinyin": "huílái",
+      "meaning": "come back; return",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "来", "gloss": "come"}],
+      "explanation": "Return + come → come back.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回去",
+      "pinyin": "huíqù",
+      "meaning": "go back; return there",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "去", "gloss": "go"}],
+      "explanation": "Return + go → go back.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回头",
+      "pinyin": "huítóu",
+      "meaning": "turn around; look back",
+      "components": [{"char": "回", "gloss": "turn back"}, {"char": "头", "gloss": "head"}],
+      "explanation": "Turn back + head → turn around or look back.",
+      "category": "Movement",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回答",
+      "pinyin": "huídá",
+      "meaning": "answer; reply",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "答", "gloss": "answer"}],
+      "explanation": "Return + answer → answer or reply.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回复",
+      "pinyin": "huífù",
+      "meaning": "reply; respond",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "复", "gloss": "again / restore"}],
+      "explanation": "Return + again → reply or respond.",
+      "category": "Communication",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回电话",
+      "pinyin": "huí diànhuà",
+      "meaning": "return a phone call",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "电", "gloss": "telephone"}, {"char": "话", "gloss": "speech / call"}],
+      "explanation": "Return + phone call → return a phone call.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回消息",
+      "pinyin": "huí xiāoxi",
+      "meaning": "reply to a message",
+      "components": [{"char": "回", "gloss": "reply"}, {"char": "消", "gloss": "disappear / news"}, {"char": "息", "gloss": "news / information"}],
+      "explanation": "Reply + message → reply to a message.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回忆",
+      "pinyin": "huíyì",
+      "meaning": "recall; remember; memory",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "忆", "gloss": "remember"}],
+      "explanation": "Return + remember → recall or remember; a memory.",
+      "category": "Mind",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["回"]
+    },
+    {
+      "word": "回收",
+      "pinyin": "huíshōu",
+      "meaning": "recycle; take back",
+      "components": [{"char": "回", "gloss": "return"}, {"char": "收", "gloss": "collect"}],
+      "explanation": "Return + collect → recycle or take back.",
+      "category": "Environment",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["回"]
     },
     {
       "word": "后天",
@@ -8968,7 +9079,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "家"
+        "家",
+        "回"
       ]
     },
     {
@@ -10235,10 +10347,10 @@
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-09-07",
-    "videoCount": 43,
-    "listedWordCount": 352,
-    "uniqueWordCount": 332,
-    "note": "Canonical 43-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-09-14",
+    "videoCount": 44,
+    "listedWordCount": 362,
+    "uniqueWordCount": 341,
+    "note": "Canonical 44-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
