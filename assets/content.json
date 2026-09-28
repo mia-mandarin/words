@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
+  "version": "0.10.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -495,6 +495,29 @@
       "video": "https://youtube.com/shorts/0-Kpiw1SQlc",
       "description": "Returning, going back, turning back, replying, remembering, recycling, and taking something back.",
       "videoNumber": 44
+    },
+    {
+      "char": "开",
+      "pinyin": "kāi",
+      "meanings": [
+        "open",
+        "start",
+        "drive"
+      ],
+      "video": "https://youtube.com/shorts/x6emAcbEU4Y",
+      "description": "Opening, starting, driving, meetings, joking, blooming, boiling, and leaving.",
+      "videoNumber": 45
+    },
+    {
+      "char": "友",
+      "pinyin": "yǒu",
+      "meanings": [
+        "friend",
+        "friendly"
+      ],
+      "video": "https://youtube.com/shorts/VTr2uOykeOA",
+      "description": "Friends, friendship, friendliness, and different kinds of friends.",
+      "videoNumber": 46
     }
   ],
   "characterMeta": {
@@ -3271,7 +3294,7 @@
       "category": "Relationships",
       "transparency": "direct",
       "priority": 220,
-      "miaCharacters": ["好"]
+      "miaCharacters": ["好", "友"]
     },
     {
       "word": "好喝",
@@ -4021,7 +4044,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "车"
+        "车",
+        "开"
       ]
     },
     {
@@ -4043,7 +4067,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "门"
+        "门",
+        "开"
       ]
     },
     {
@@ -4847,7 +4872,8 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": [
-        "心"
+        "心",
+        "开"
       ]
     },
     {
@@ -5678,7 +5704,10 @@
       "explanation": "A flower opens → bloom.",
       "category": "Nature",
       "transparency": "extended",
-      "priority": 92
+      "priority": 92,
+      "miaCharacters": [
+        "开"
+      ]
     },
     {
       "word": "感情",
@@ -5906,7 +5935,10 @@
       "explanation": "Here 开 refers to water having boiled → boiled water.",
       "category": "Food",
       "transparency": "extended",
-      "priority": 90
+      "priority": 90,
+      "miaCharacters": [
+        "开"
+      ]
     },
     {
       "word": "心里",
@@ -10343,14 +10375,168 @@
       "miaCharacters": [
         "月"
       ]
+    },
+    {
+      "word": "打开",
+      "pinyin": "dǎkāi",
+      "meaning": "open; turn on",
+      "components": [{"char": "打", "gloss": "operate / do"}, {"char": "开", "gloss": "open"}],
+      "explanation": "Operate + open → open or turn on.",
+      "category": "Actions",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["开"]
+    },
+    {
+      "word": "开始",
+      "pinyin": "kāishǐ",
+      "meaning": "begin; start",
+      "components": [{"char": "开", "gloss": "start"}, {"char": "始", "gloss": "begin"}],
+      "explanation": "Start + begin → begin or start.",
+      "category": "Actions",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["开"]
+    },
+    {
+      "word": "开会",
+      "pinyin": "kāihuì",
+      "meaning": "have a meeting",
+      "components": [{"char": "开", "gloss": "hold / conduct"}, {"char": "会", "gloss": "meeting"}],
+      "explanation": "Hold + meeting → have or hold a meeting.",
+      "category": "Work",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["开"]
+    },
+    {
+      "word": "开玩笑",
+      "pinyin": "kāi wánxiào",
+      "meaning": "joke; make a joke",
+      "components": [{"char": "开", "gloss": "make / start"}, {"char": "玩", "gloss": "play"}, {"char": "笑", "gloss": "laugh"}],
+      "explanation": "Make + play + laugh → joke or make a joke.",
+      "category": "Communication",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["开"]
+    },
+    {
+      "word": "离开",
+      "pinyin": "líkāi",
+      "meaning": "leave; depart",
+      "components": [{"char": "离", "gloss": "leave / separate"}, {"char": "开", "gloss": "go away"}],
+      "explanation": "Separate + go away → leave or depart.",
+      "category": "Movement",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["开"]
+    },
+    {
+      "word": "朋友",
+      "pinyin": "péngyou",
+      "meaning": "friend",
+      "components": [{"char": "朋", "gloss": "companion"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Companion + friend → friend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "友情",
+      "pinyin": "yǒuqíng",
+      "meaning": "friendship",
+      "components": [{"char": "友", "gloss": "friend"}, {"char": "情", "gloss": "feeling / affection"}],
+      "explanation": "Friend + feeling → friendship.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "好友",
+      "pinyin": "hǎoyǒu",
+      "meaning": "good friend; close friend",
+      "components": [{"char": "好", "gloss": "good"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Good + friend → good or close friend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "网友",
+      "pinyin": "wǎngyǒu",
+      "meaning": "online friend; internet friend",
+      "components": [{"char": "网", "gloss": "internet / net"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Internet + friend → online friend.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "校友",
+      "pinyin": "xiàoyǒu",
+      "meaning": "alumnus; alumna; alumni",
+      "components": [{"char": "校", "gloss": "school"}, {"char": "友", "gloss": "friend / fellow member"}],
+      "explanation": "School + fellow member → alumnus, alumna, or alumni.",
+      "category": "Education",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "室友",
+      "pinyin": "shìyǒu",
+      "meaning": "roommate",
+      "components": [{"char": "室", "gloss": "room"}, {"char": "友", "gloss": "friend / companion"}],
+      "explanation": "Room + companion → roommate.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "队友",
+      "pinyin": "duìyǒu",
+      "meaning": "teammate",
+      "components": [{"char": "队", "gloss": "team"}, {"char": "友", "gloss": "friend / companion"}],
+      "explanation": "Team + companion → teammate.",
+      "category": "Relationships",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "男友",
+      "pinyin": "nányǒu",
+      "meaning": "boyfriend",
+      "components": [{"char": "男", "gloss": "male / man"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Male + friend → boyfriend.",
+      "category": "Relationships",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["友"]
+    },
+    {
+      "word": "女友",
+      "pinyin": "nǚyǒu",
+      "meaning": "girlfriend",
+      "components": [{"char": "女", "gloss": "female / woman"}, {"char": "友", "gloss": "friend"}],
+      "explanation": "Female + friend → girlfriend.",
+      "category": "Relationships",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["友"]
     }
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-09-14",
-    "videoCount": 44,
-    "listedWordCount": 362,
-    "uniqueWordCount": 341,
-    "note": "Canonical 44-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-09-28",
+    "videoCount": 46,
+    "listedWordCount": 382,
+    "uniqueWordCount": 355,
+    "note": "Canonical 46-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
