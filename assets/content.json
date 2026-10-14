@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -518,6 +518,20 @@
       "video": "https://youtube.com/shorts/VTr2uOykeOA",
       "description": "Friends, friendship, friendliness, and different kinds of friends.",
       "videoNumber": 46
+    },
+    {
+      "char": "气",
+      "pinyin": "qì",
+      "meanings": [
+        "air",
+        "energy",
+        "spirit",
+        "manner",
+        "fortune"
+      ],
+      "video": "https://youtube.com/shorts/_jalA4xBbcc",
+      "description": "Air, weather, smell, anger, energy, personality, generosity, politeness, and good fortune.",
+      "videoNumber": 47
     }
   ],
   "characterMeta": {
@@ -2845,7 +2859,7 @@
       "category": "Personality",
       "transparency": "extended",
       "priority": 220,
-      "miaCharacters": ["小"]
+      "miaCharacters": ["小", "气"]
     },
     {
       "word": "大衣",
@@ -3481,7 +3495,7 @@
       "category": "Emotions",
       "transparency": "extended",
       "priority": 220,
-      "miaCharacters": ["生"]
+      "miaCharacters": ["生", "气"]
     },
     {
       "word": "生词",
@@ -8957,7 +8971,8 @@
       "transparency": "lexicalized",
       "priority": 220,
       "miaCharacters": [
-        "天"
+        "天",
+        "气"
       ]
     },
     {
@@ -10529,14 +10544,91 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": ["友"]
+    },
+    {
+      "word": "空气",
+      "pinyin": "kōngqì",
+      "meaning": "air",
+      "components": [{"char": "空", "gloss": "empty / sky"}, {"char": "气", "gloss": "air"}],
+      "explanation": "The air in the space around us → air.",
+      "category": "Nature",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "气球",
+      "pinyin": "qìqiú",
+      "meaning": "balloon",
+      "components": [{"char": "气", "gloss": "air / gas"}, {"char": "球", "gloss": "ball / sphere"}],
+      "explanation": "Air + ball → balloon.",
+      "category": "Objects",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "气味",
+      "pinyin": "qìwèi",
+      "meaning": "smell; odor",
+      "components": [{"char": "气", "gloss": "air / scent"}, {"char": "味", "gloss": "taste / smell"}],
+      "explanation": "Air or scent + taste/smell → smell or odor.",
+      "category": "Senses",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "力气",
+      "pinyin": "lìqi",
+      "meaning": "physical strength",
+      "components": [{"char": "力", "gloss": "strength"}, {"char": "气", "gloss": "energy"}],
+      "explanation": "Strength + energy → physical strength.",
+      "category": "Body",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "大气",
+      "pinyin": "dàqi",
+      "meaning": "generous; broad-minded; impressive",
+      "components": [{"char": "大", "gloss": "big / broad"}, {"char": "气", "gloss": "spirit / manner"}],
+      "explanation": "Big + spirit → generous, broad-minded, or impressive. It can also be pronounced dàqì for the atmosphere around Earth.",
+      "category": "Personality",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "客气",
+      "pinyin": "kèqi",
+      "meaning": "polite; courteous",
+      "components": [{"char": "客", "gloss": "guest"}, {"char": "气", "gloss": "manner"}],
+      "explanation": "Guest + manner → polite or courteous.",
+      "category": "Communication",
+      "transparency": "lexicalized",
+      "priority": 220,
+      "miaCharacters": ["气"]
+    },
+    {
+      "word": "福气",
+      "pinyin": "fúqi",
+      "meaning": "good fortune; a blessing",
+      "components": [{"char": "福", "gloss": "fortune / blessing"}, {"char": "气", "gloss": "energy / quality"}],
+      "explanation": "Fortune + quality → good fortune or a blessing.",
+      "category": "Fortune",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["气"]
     }
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-09-28",
-    "videoCount": 46,
-    "listedWordCount": 382,
-    "uniqueWordCount": 355,
-    "note": "Canonical 46-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-10-14",
+    "videoCount": 47,
+    "listedWordCount": 392,
+    "uniqueWordCount": 362,
+    "note": "Canonical 47-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
