@@ -1,5 +1,5 @@
 {
-  "version": "0.11.0",
+  "version": "0.12.0",
   "creator": {
     "name": "Mia Zhao",
     "website": "https://miazhao.com/"
@@ -532,6 +532,19 @@
       "video": "https://youtube.com/shorts/_jalA4xBbcc",
       "description": "Air, weather, smell, anger, energy, personality, generosity, politeness, and good fortune.",
       "videoNumber": 47
+    },
+    {
+      "char": "话",
+      "pinyin": "huà",
+      "meanings": [
+        "words",
+        "speech",
+        "conversation",
+        "story"
+      ],
+      "video": "https://youtube.com/shorts/oCHR0h2zHhM",
+      "description": "Words, speech, conversations, statements, and stories.",
+      "videoNumber": 48
     }
   ],
   "characterMeta": {
@@ -4607,7 +4620,8 @@
       "explanation": "Speak + words → talk/speak.",
       "category": "Actions",
       "transparency": "direct",
-      "priority": 100
+      "priority": 100,
+      "miaCharacters": ["话"]
     },
     {
       "word": "赚钱",
@@ -6857,7 +6871,8 @@
       "transparency": "direct",
       "priority": 220,
       "miaCharacters": [
-        "电"
+        "电",
+        "话"
       ]
     },
     {
@@ -10621,14 +10636,102 @@
       "transparency": "extended",
       "priority": 220,
       "miaCharacters": ["气"]
+    },
+    {
+      "word": "笑话",
+      "pinyin": "xiàohua",
+      "meaning": "joke",
+      "components": [{"char": "笑", "gloss": "laugh"}, {"char": "话", "gloss": "words / speech"}],
+      "explanation": "Laugh + words → joke.",
+      "category": "Communication",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "听话",
+      "pinyin": "tīnghuà",
+      "meaning": "obedient; do as one is told",
+      "components": [{"char": "听", "gloss": "listen"}, {"char": "话", "gloss": "words / instructions"}],
+      "explanation": "Listen + words → be obedient or do as one is told.",
+      "category": "Behavior",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "悄悄话",
+      "pinyin": "qiāoqiāohuà",
+      "meaning": "whisper; private conversation",
+      "components": [{"char": "悄悄", "gloss": "quietly / secretly"}, {"char": "话", "gloss": "words / speech"}],
+      "explanation": "Quietly + words → a whisper or private conversation.",
+      "category": "Communication",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "心里话",
+      "pinyin": "xīnlǐhuà",
+      "meaning": "one's true feelings; innermost thoughts",
+      "components": [{"char": "心里", "gloss": "in the heart / mind"}, {"char": "话", "gloss": "words"}],
+      "explanation": "Words from inside the heart → one's true feelings or innermost thoughts.",
+      "category": "Feelings",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "实话",
+      "pinyin": "shíhuà",
+      "meaning": "the truth; honest words",
+      "components": [{"char": "实", "gloss": "real / true"}, {"char": "话", "gloss": "words"}],
+      "explanation": "True + words → the truth or honest words.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "谎话",
+      "pinyin": "huǎnghuà",
+      "meaning": "lie; false statement",
+      "components": [{"char": "谎", "gloss": "lie / false"}, {"char": "话", "gloss": "words / statement"}],
+      "explanation": "False + words → a lie or false statement.",
+      "category": "Communication",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "童话",
+      "pinyin": "tónghuà",
+      "meaning": "fairy tale",
+      "components": [{"char": "童", "gloss": "child"}, {"char": "话", "gloss": "story / words"}],
+      "explanation": "Child + story → fairy tale.",
+      "category": "Stories",
+      "transparency": "direct",
+      "priority": 220,
+      "miaCharacters": ["话"]
+    },
+    {
+      "word": "神话",
+      "pinyin": "shénhuà",
+      "meaning": "myth; mythology",
+      "components": [{"char": "神", "gloss": "god / spirit"}, {"char": "话", "gloss": "story / words"}],
+      "explanation": "Spirit + story → myth or mythology.",
+      "category": "Stories",
+      "transparency": "extended",
+      "priority": 220,
+      "miaCharacters": ["话"]
     }
   ],
   "miaPlaylist": {
     "url": "https://youtube.com/playlist?list=PLDTghNTlPMGg",
-    "capturedDate": "2026-10-14",
-    "videoCount": 47,
-    "listedWordCount": 392,
-    "uniqueWordCount": 362,
-    "note": "Canonical 47-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
+    "capturedDate": "2026-10-19",
+    "videoCount": 48,
+    "listedWordCount": 402,
+    "uniqueWordCount": 370,
+    "note": "Canonical 48-video Mia Zhao lesson list. Extra app vocabulary may be added, but all source words from every listed video must remain present. The 手 lesson list was user-verified."
   }
 }
